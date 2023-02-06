@@ -1,0 +1,7 @@
+echo "School,City,State,Conference" > data.csv
+
+xsv select Institution,Location,State,Conference List_of_NCAA_Division_I_men%27s_soccer_programs_1.csv | sed 1d >> data.csv
+
+xsv select School,City,State/Province,Conference List_of_NCAA_Division_II_men%27s_soccer_programs_1.csv | sed 1d >> data.csv
+
+xsv select School,City,State,Conference List_of_NCAA_Division_III_institutions_1.csv | sed 1d >> data.csv
