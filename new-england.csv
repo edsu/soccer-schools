@@ -1,0 +1,190 @@
+School,City,State,Conference,Division,AdmissionRate,SAT,Cost,Longitude,Latitude
+"University at Albany, SUNY",Albany,New York,America East Conference,D1,0.5715,1177,26563,-73.824662,42.685489
+Binghamton University,Binghamton,New York,America East Conference,D1,0.4303,1376,28010,-75.966889,42.087868
+Bryant University,Smithfield,Rhode Island,America East Conference,D1,0.7579,1211,62855,-71.539547,41.920092
+University of New Hampshire,Durham,New Hampshire,America East Conference,D1,0.8481,1194,33940,-70.932465,43.135934
+University of Massachusetts Lowell,Lowell,Massachusetts,America East Conference,D1,0.752,1232,29174,-71.326809,42.652864
+University of Vermont,Burlington,Vermont,America East Conference,D1,0.7132,1276,34707,-73.196646,44.477325
+Fordham University,"The Bronx, New York City",New York,Atlantic 10 Conference,D1,0.5253,1334,71388,-73.882705,40.859354
+University of Massachusetts Amherst,Amherst,Massachusetts,Atlantic 10 Conference,D1,0.6532,1307,31749,-72.526728,42.385999
+University of Rhode Island,Kingston,Rhode Island,Atlantic 10 Conference,D1,0.7551,1183,30339,-71.527356,41.484691
+St. Bonaventure University,Allegany,New York,Atlantic 10 Conference,D1,0.7631,1151,50646,-78.481107,42.080191
+Boston College,Chestnut Hill,Massachusetts,Atlantic Coast Conference,D1,0.2638,1433,75872,-71.169242,42.336213
+Syracuse University,Syracuse,New York,Atlantic Coast Conference,D1,0.6872,,72780,-76.136975,43.040176
+Providence College,Providence,Rhode Island,Big East Conference,D1,0.5386,1301,69407,-71.437446,41.842742
+St. John's University,"Queens, New York City",New York,Big East Conference,D1,,,,,
+Hofstra University,Hempstead,New York,Colonial Athletic Association,D1,0.6911,,62917,-73.60078,40.715959
+Northeastern University,Boston,Massachusetts,Colonial Athletic Association,D1,0.2048,1492,73196,-71.088782,42.339992
+Stony Brook University,Stony Brook,New York,Colonial Athletic Association,D1,0.4891,1337,26270,-73.12046,40.91476
+Brown University,Providence,Rhode Island,Ivy League,D1,0.0767,1508,77490,-71.40385,41.82617
+Columbia University,New York City,New York,Ivy League,D1,,,,,
+Cornell University,Ithaca,New York,Ivy League,D1,0.1071,1480,75204,-76.483084,42.4472
+Dartmouth College,Hanover,New Hampshire,Ivy League,D1,0.0922,1500,77152,-72.289949,43.704115
+Harvard University,Boston,Massachusetts,Ivy League,D1,0.0501,1520,75914,-71.118313,42.374471
+Canisius College,Buffalo,New York,Metro Atlantic Athletic Conference,D1,0.7602,1152,39217,-78.852577,42.925206
+Iona University,New Rochelle,New York,Metro Atlantic Athletic Conference,D1,,,,,
+Manhattan College,"The Bronx, New York City",New York,Metro Atlantic Athletic Conference,D1,0.7765,,57992,-73.901893,40.889756
+Marist College,Poughkeepsie,New York,Metro Atlantic Athletic Conference,D1,0.5505,,60670,-73.935484,41.720937
+Niagara University,Lewiston,New York,Metro Atlantic Athletic Conference,D1,0.9241,1118,47384,-79.036689,43.137279
+Siena College,Loudonville,New York,Metro Atlantic Athletic Conference,D1,0.8066,,58200,-73.7526,42.717602
+Long Island University,Brookville,New York,Northeast Conference,D1,0.8501,1194,50591,-73.593678,40.820714
+Merrimack College,North Andover,Massachusetts,Northeast Conference,D1,0.8164,,59617,-71.124216,42.668344
+St. Francis College,"Brooklyn, New York City",New York,Northeast Conference,D1,0.8452,964,32776,-73.992164,40.693228
+Stonehill College,Easton,Massachusetts,Northeast Conference,D1,0.6896,,62253,-71.080632,42.05905
+United States Military Academy,West Point,New York,Patriot League,D1,0.0864,1359,,-73.956603,41.390479
+Boston University,Boston,Massachusetts,Patriot League,D1,0.2009,1419,74911,-71.107942,42.351118
+Colgate University,Hamilton,New York,Patriot League,D1,0.2747,1404,75000,-75.536346,42.819475
+College of the Holy Cross,Worcester,Massachusetts,Patriot League,D1,0.3794,1371,71448,-71.808214,42.23752
+Adelphi University,Garden City,New York,Northeast-10 Conference,D2,0.7461,1162,53535,-73.653321,40.721439
+Alliance University,Manhattan,New York,Central Atlantic Collegiate Conference,D2,,,,,
+American International College,Springfield,Massachusetts,Northeast-10 Conference,D2,0.6938,1015,51505,-72.558338,42.112346
+Assumption University,Worcester,Massachusetts,Northeast-10 Conference,D2,0.8092,,57238,-71.828991,42.294226
+Bentley University,Waltham,Massachusetts,Northeast-10 Conference,D2,0.5782,1281,71094,-71.222839,42.385995
+Daemen University,Amherst,New York,East Coast Conference,D2,0.6178,,40900,-78.788111,42.965605
+Dominican University New York,Orangeburg,New York,Central Atlantic Collegiate Conference,D2,,,,,
+D'Youville University,Buffalo,New York,East Coast Conference,D2,,,,,
+Franklin Pierce University,Rindge,New Hampshire,Northeast-10 Conference,D2,0.8468,,56500,-72.058011,42.78014
+Le Moyne College,Syracuse,New York,Northeast-10 Conference,D2,0.7474,1165,49194,-76.090435,43.049192
+Mercy College,Dobbs Ferry,New York,East Coast Conference,D2,0.8196,1025,29754,-73.874447,41.021626
+Molloy University,Rockville Centre,New York,East Coast Conference,D2,,,,,
+New York Institute of Technology,Old Westbury,New York,East Coast Conference,D2,0.7468,1190,49465,-73.6078,40.812447
+Queens College,Flushing,New York,East Coast Conference,D2,,,,,
+Roberts Wesleyan College,North Chili,New York,East Coast Conference,D2,0.7581,1146,45599,-77.798498,43.125755
+Saint Anselm College,Goffstown,New Hampshire,Northeast-10 Conference,D2,0.7615,1230,61163,-71.503622,42.986889
+Saint Michael's College,Colchester,Vermont,Northeast-10 Conference,D2,0.8781,,61892,-73.167069,44.494558
+College of Saint Rose,Albany,New York,Northeast-10 Conference,D2,,,,,
+St. Thomas Aquinas College,Sparkill,New York,East Coast Conference,D2,0.8684,1036,47572,-73.936799,41.041576
+Southern New Hampshire University,Manchester,New Hampshire,Northeast-10 Conference,D2,0.9354,,50505,-71.451842,43.038922
+College of Staten Island,Staten Island,New York,East Coast Conference,D2,,,,,
+Alfred University,Alfred,New York,Empire 8,D3,0.6411,1102,50643,-77.788106,42.254476
+Alfred State College,Alfred,New York,Allegheny Mountain Collegiate Conference,D3,,,,,
+Amherst College,Amherst,Massachusetts,New England Small College Athletic Conference,D3,0.1183,1497,76750,-72.518493,42.372459
+Anna Maria College,Paxton,Massachusetts,Great Northeast Athletic Conference,D3,0.8607,,52919,-71.91896,42.330542
+Babson College,Wellesley,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.2697,1361,72378,-71.264057,42.297017
+Bard College,Annandale-on-Hudson,New York,Liberty League,D3,0.5741,,74464,-73.909927,42.020386
+Baruch College,New York,New York,City University of New York Athletic Conference,D3,,,,,
+Bates College,Lewiston,Maine,New England Small College Athletic Conference,D3,0.141,,73538,-70.203333,44.105299
+Bowdoin College,Brunswick,Maine,New England Small College Athletic Conference,D3,0.0916,,73800,-69.963942,43.907134
+Brandeis University,Waltham,Massachusetts,University Athletic Association,D3,0.334,1424,76044,-71.260155,42.365727
+Bridgewater State University,Bridgewater,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,0.8231,1049,23845,-70.974553,41.98749
+Brooklyn College,Brooklyn,New York,City University of New York Athletic Conference,D3,0.4974,1105,13802,-73.949898,40.631517
+Buffalo State College,Buffalo,New York,State University of New York Athletic Conference,D3,0.8007,960,23111,-78.882125,42.933832
+Castleton University,Castleton,Vermont,Little East Conference,D3,0.8831,1036,24841,-73.180842,43.608397
+Cazenovia College,Cazenovia,New York,North Atlantic Conference,D3,0.7218,1003,51761,-75.854882,42.932489
+City College of New York,New York,New York,City University of New York Athletic Conference,D3,0.5054,1164,13667,-73.948542,40.819846
+Clark University,Worcester,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.4713,1271,58153,-71.823356,42.249987
+Clarkson University,Potsdam,New York,Liberty League,D3,0.7799,1259,69456,-74.999359,44.662716
+Colby College,Waterville,Maine,New England Small College Athletic Conference,D3,0.1027,1456,73600,-69.66337,44.564211
+Colby–Sawyer College,New London,New Hampshire,Great Northeast Athletic Conference,D3,0.91,,61418,-71.975805,43.411663
+Curry College,Milton,Massachusetts,Commonwealth Coast Conference,D3,0.9271,1055,57260,-71.116539,42.238061
+Dean College,Franklin,Massachusetts,Great Northeast Athletic Conference,D3,0.7052,,59018,-71.397813,42.085634
+Eastern Nazarene College,Quincy,Massachusetts,New England Collegiate Conference(North Atlantic Conference in 2023),D3,0.6438,1030,41194,-71.011079,42.271228
+Elmira College,Elmira,New York,Empire 8,D3,0.8313,1103,48133,-76.813459,42.0961
+Elms College,Chicopee,Massachusetts,Great Northeast Athletic Conference,D3,0.6184,1279,,,
+Emerson College,Boston,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.4105,1302,72119,-71.065384,42.352202
+Emmanuel College,Boston,Massachusetts,Great Northeast Athletic Conference,D3,0.5275,1005,31589,-83.14822,34.283641
+Emmanuel College,Boston,Massachusetts,Great Northeast Athletic Conference,D3,0.7552,1202,58787,-71.103634,42.340602
+Endicott College,Beverly,Massachusetts,Commonwealth Coast Conference,D3,0.704,,52642,-70.840847,42.553296
+Farmingdale State College,Farmingdale,New York,Skyline Conference,D3,0.6016,1075,16856,-73.42832,40.754224
+Fitchburg State University,Fitchburg,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,0.8799,,22881,-71.789666,42.588298
+Framingham State University,Framingham,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,0.7853,1044,25810,-71.437565,42.297116
+Gordon College,Wenham,Massachusetts,Commonwealth Coast Conference,D3,0.6827,1159,51869,-70.82151,42.590567
+Hamilton College,Clinton,New York,New England Small College Athletic Conference,D3,0.1841,1462,72190,-75.408195,43.050245
+Hartwick College,Oneonta,New York,Empire 8,D3,0.931,1107,60479,-75.071994,42.457599
+Hilbert College,Hamburg,New York,Allegheny Mountain Collegiate Conference,D3,0.9171,,31358,-78.820257,42.75464
+Hobart College,Geneva,New York,Liberty League,D3,,,,,
+Houghton College,Houghton,New York,Empire 8,D3,0.7998,,44952,-78.155426,42.426137
+Hunter College,New York,New York,City University of New York Athletic Conference,D3,,,,,
+Husson University,Bangor,Maine,North Atlantic Conference,D3,0.8466,1054,31303,-68.791476,44.829002
+Ithaca College,Ithaca,New York,Liberty League,D3,0.7568,,64006,-76.494136,42.422154
+John Jay College of Criminal Justice,New York,New York,City University of New York Athletic Conference,D3,,,,,
+Johnson & Wales University,Providence,Rhode Island,Great Northeast Athletic Conference(Commonwealth Coast Conference in 2024),D3,,,,,
+Keene State College,Keene,New Hampshire,Little East Conference,D3,0.9066,,28880,-72.279276,42.926452
+Keuka College,Keuka Park,New York,Empire 8,D3,0.9091,,50240,-77.090562,42.615253
+Lasell College,Newton,Massachusetts,Great Northeast Athletic Conference,D3,,,,,
+Lehman College,The Bronx,New York,City University of New York Athletic Conference,D3,,,,,
+Lesley University,Boston,Massachusetts,New England Collegiate Conference(North Atlantic Conference in 2023),D3,0.8381,,47620,-71.117303,42.38012
+University of Maine at Farmington,Farmington,Maine,North Atlantic Conference,D3,0.9461,,22802,-70.147121,44.666911
+Maine Maritime Academy,Castine,Maine,North Atlantic Conference,D3,0.5214,1085,28208,-68.804347,44.389654
+University of Maine at Presque Isle,Presque Isle,Maine,North Atlantic Conference,D3,0.99,,17586,-68.016343,46.672285
+Manhattanville College,Purchase,New York,Skyline Conference,D3,0.8981,,51214,-73.715645,41.032187
+University of Massachusetts Boston,Boston,Massachusetts,Little East Conference,D3,0.7968,,28910,-71.036865,42.312881
+Massachusetts College of Liberal Arts,North Adams,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,0.8768,1066,24458,-73.102817,42.691361
+University of Massachusetts Dartmouth,Dartmouth,Massachusetts,Little East Conference,D3,0.7618,1094,28948,-71.004552,41.62869
+Massachusetts Institute of Technology,Cambridge,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.0726,1550,73160,-71.093226,42.359243
+Massachusetts Maritime Academy,Buzzards Bay,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,0.9248,1117,28602,-70.624084,41.739072
+Medaille College,Buffalo,New York,Empire 8,D3,0.718,,36840,-78.855941,42.92856
+Medgar Evers College,Brooklyn,New York,City University of New York Athletic Conference,D3,0.7848,,15448,-73.957076,40.666256
+Middlebury College,Middlebury,Vermont,New England Small College Athletic Conference,D3,0.2204,1444,74248,-73.176068,44.009117
+Mount Holyoke College,South Hadley,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.5247,1367,69578,-72.575511,42.256838
+Mount Saint Mary College,Newburgh,New York,Skyline Conference,D3,0.9017,1080,47103,-74.012655,41.513872
+College of Mount Saint Vincent,The Bronx,New York,Skyline Conference,D3,0.9268,1002,51240,-73.908887,40.913657
+Nazareth College,Pittsford,New York,Empire 8,D3,0.7568,,51405,-77.518579,43.101576
+New England College,Henniker,New Hampshire,New England Collegiate Conference(Great Northeast Athletic Conference in 2023),D3,0.9625,,57285,-71.822282,43.176403
+University of New England,Biddeford,Maine,Commonwealth Coast Conference,D3,0.8726,,56844,-70.38535,43.458591
+State University of New York at Brockport,Brockport,New York,State University of New York Athletic Conference,D3,0.5811,1089,24340,-77.947188,43.211926
+State University of New York at Canton,Canton,New York,North Atlantic Conference,D3,0.8301,1029,23026,-75.182906,44.604096
+State University of New York at Cobleskill,Cobleskill,New York,North Atlantic Conference,D3,0.8,1010,25633,-74.498258,42.672534
+State University of New York at Cortland,Cortland,New York,State University of New York Athletic Conference,D3,0.522,1164,25585,-76.188655,42.598022
+State University of New York at Delhi,Delhi,New York,North Atlantic Conference,D3,0.6488,,24486,-74.924612,42.269859
+State University of New York at Fredonia,Fredonia,New York,State University of New York Athletic Conference,D3,0.7225,1112,23327,-79.337375,42.452236
+State University of New York at Geneseo,Geneseo,New York,State University of New York Athletic Conference,D3,0.6136,1234,26266,-77.821894,42.796645
+State University of New York Maritime College,The Bronx,New York,Skyline Conference,D3,0.7271,1153,26864,-73.795309,40.807217
+State University of New York at Morrisville,Morrisville,New York,United East Conference(North Atlantic Conference in 2023),D3,0.7672,973,27687,-75.640583,42.893962
+State University of New York Polytechnic Institute,Marcy,New York,North Atlantic Conference,D3,0.733,1177,23194,-75.229841,43.137701
+State University of New York at New Paltz,New Paltz,New York,State University of New York Athletic Conference,D3,0.6202,1187,25615,-74.082188,41.740936
+State University of New York at Old Westbury,Old Westbury,New York,Skyline Conference,D3,0.5308,1015,19786,-73.571907,40.799021
+State University of New York at Oneonta,Oneonta,New York,State University of New York Athletic Conference,D3,0.6295,1034,25628,-75.063632,42.468861
+State University of New York at Oswego,Oswego,New York,State University of New York Athletic Conference,D3,0.689,1112,24970,-76.540798,43.454287
+State University of New York at Plattsburgh,Plattsburgh,New York,State University of New York Athletic Conference,D3,0.6103,1078,25786,-73.466536,44.69293
+State University of New York at Potsdam,Potsdam,New York,State University of New York Athletic Conference,D3,0.7166,,23964,-74.973815,44.662148
+State University of New York at Purchase,Purchase,New York,Skyline Conference,D3,0.737,1213,27991,-73.701955,41.047223
+New York University,New York,New York,University Athletic Association,D3,0.2109,1458,73759,-73.997264,40.729452
+Nichols College,Dudley,Massachusetts,Commonwealth Coast Conference,D3,0.8037,,52520,-71.930283,42.044033
+Northern Vermont University–Johnson,Johnson,Vermont,North Atlantic Conference,D3,0.7577,,25051,-72.671154,44.641736
+Northern Vermont University–Lyndon,Lyndonville,Vermont,North Atlantic Conference,D3,0.7577,,,,
+Norwich University,Northfield,Vermont,Great Northeast Athletic Conference,D3,0.7417,,59627,-72.659783,44.140237
+Plymouth State University,Plymouth,New Hampshire,Little East Conference,D3,0.8937,,28222,-71.690164,43.759573
+Pratt Institute,Brooklyn,New York,Coast to Coast Athletic Conference,D3,0.6594,1245,69497,-73.96431,40.691297
+Regis College,Weston,Massachusetts,Great Northeast Athletic Conference,D3,0.8408,,61605,-71.310561,42.351291
+Rensselaer Polytechnic Institute,Troy,New York,Liberty League,D3,0.5726,1410,73816,-73.676646,42.729978
+Rhode Island College,Providence,Rhode Island,Little East Conference,D3,0.8127,988,17761,-71.46556,41.842415
+Rivier University,Nashua,New Hampshire,Great Northeast Athletic Conference,D3,0.7571,,46498,-71.45626,42.738676
+University of Rochester,Rochester,New York,University Athletic Association,D3,0.3543,1429,75190,-77.631202,43.126397
+Rochester Institute of Technology,Rochester,New York,Liberty League,D3,0.7386,1341,61063,-77.67386,43.084188
+Roger Williams University,Bristol,Rhode Island,Commonwealth Coast Conference,D3,0.8601,,54865,-71.260374,41.650214
+Russell Sage College,Albany & Troy,New York,Empire 8,D3,0.7431,,46287,-73.693711,42.72822
+St. John Fisher College,Pittsford,New York,Empire 8,D3,,,,,
+St. Joseph's College,Brooklyn,New York,Skyline Conference,D3,,,,,
+St. Joseph's College,Long Island,New York,Skyline Conference,D3,,,,,
+Saint Joseph's College of Maine,Standish,Maine,Great Northeast Athletic Conference,D3,0.8673,1081,52614,-70.483373,43.826314
+St. Lawrence University,Canton,New York,Liberty League,D3,0.4726,1301,73045,-75.161343,44.589879
+Salem State University,Salem,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,0.8675,,26423,-70.890234,42.503575
+Salve Regina University,Newport,Rhode Island,Commonwealth Coast Conference(New England Women's and Men's Athletic Conference in 2023),D3,0.7462,,61072,-71.30124,41.471545
+Sarah Lawrence College,Yonkers,New York,Skyline Conference,D3,0.5463,1333,74123,-73.843727,40.9355
+Simmons University,Boston,Massachusetts,Great Northeast Athletic Conference,D3,0.8255,1168,60221,-71.099967,42.3393
+Skidmore College,Saratoga Springs,New York,Liberty League,D3,0.3217,1324,74140,-73.785335,43.097035
+Smith College,Northampton,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.3652,,75169,-72.638097,42.318111
+University of Southern Maine,Portland,Maine,Little East Conference,D3,0.8793,1062,19582,-70.274247,43.662863
+Springfield College,Springfield,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.6341,1239,55078,-72.556751,42.101576
+Suffolk University,Boston,Massachusetts,Commonwealth Coast Conference,D3,0.859,1113,57850,-71.060917,42.357945
+Thomas College,Waterville,Maine,North Atlantic Conference,D3,,,40911,-69.664734,44.524909
+Tufts University,Medford,Massachusetts,New England Small College Athletic Conference,D3,0.163,1474,76151,-71.118293,42.40855
+Union College,Schenectady,New York,Liberty League,D3,0.5733,1035,39439,-83.888477,36.870875
+Union College,Schenectady,New York,Liberty League,D3,0.976,1072,36243,-96.651095,40.774778
+Union College,Schenectady,New York,Liberty League,D3,0.4126,1339,69879,-73.928788,42.818097
+United States Merchant Marine Academy,Kings Point,New York,Skyline Conference,D3,0.2411,1288,9565,-73.763004,40.81357
+Utica University,Utica,New York,Empire 8,D3,0.8641,,34427,-75.272916,43.096213
+Vassar College,Poughkeepsie,New York,Liberty League,D3,0.2454,1456,75203,-73.895088,41.686895
+Wellesley College,Wellesley,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.2041,1446,75198,-71.306605,42.291554
+Wells College,Aurora,New York,United East Conference(Allegheny Mountain Collegiate Conference in 2023),D3,0.6436,,46640,-76.696028,42.742943
+Wentworth Institute of Technology,Boston,Massachusetts,Commonwealth Coast Conference,D3,0.9354,1192,52232,-71.094983,42.336632
+Western New England University,Springfield,Massachusetts,Commonwealth Coast Conference,D3,0.8943,,52924,-72.520466,42.115017
+Westfield State University,Westfield,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,0.9244,1054,24844,-72.796503,42.132698
+Wheaton College,Norton,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.8695,1336,50923,-88.099643,41.870176
+William Smith College,Geneva,New York,Liberty League,D3,0.6184,1279,74375,-76.985516,42.858131
+Williams College,Williamstown,Massachusetts,New England Small College Athletic Conference,D3,0.1512,,75520,-73.203132,42.712725
+Worcester Polytechnic Institute,Worcester,Massachusetts,New England Women's and Men's Athletic Conference,D3,0.5905,,69233,-71.808339,42.274853
+Worcester State University,Worcester,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,0.8103,1097,21870,-71.844018,42.267526
+Yeshiva University,New York,New York,Skyline Conference,D3,0.6741,1288,64050,-73.929873,40.850605
+"York College, City University of New York",Queens,New York,City University of New York Athletic Conference,D3,,,,,
