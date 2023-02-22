@@ -25,7 +25,7 @@ All these files are in the `data` directory. Then I ran the `convert.py` program
 
 You can see that there is quite a bit of schools (10%) that didn't get joined due to very different school names. The natural key I used was to capitalize the name, remove all punctuation and then sort the letters. Other approaches would be welcome!
 
-The `new-england.csv` subset was created by extracting New England schools (plus New York) for a trip we were planning to visit a few schools.
+The `new-england` directory contains a subset of New England schools for a trip we were planning, which were put on a map. Obviously not going to all of these :)
 
 [wikitable2csv]: https://wikitable2csv.ggor.de/ 
 [College School Card Data]: https://collegescorecard.ed.gov/data/
