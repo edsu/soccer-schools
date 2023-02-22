@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    #map {
+      height: 1200px;
+      width: 100%;
+      max-width: 100%;
+      max-height: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+<div id="map-container">
+  <div id="map"></div>
+</div>
+
+<script>
+  const map = L.map('map').setView([42.336213, -71.169242], 11);
+
+  const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19})
+    .addTo(map);
+
+  fetch('data.json')
+    .then(response => response.json())
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: (feature, layer) => {
+          const f = feature.properties
+          const desc = `
+            <b>${f.School}</b><br>
+            <dl>
+              <dt>Division:</dt>
+              <dd>${f.Division}</dd>
+              <dt>Conference:</dt>
+              <dd>${f.Conference}</dd>
+              <dt>Admission Rate</dt>
+              <dd>${f.AdmissionRate}</dd>
+              <dt>Average SAT</dt>
+              <dd>${f.SAT}</dd>
+              <dt>Annual Cost</dt>
+              <dd>${f.AnnualCost}</dd>
+            </dl>
+          `
+          layer.bindPopup(desc)
+        }
+      }).addTo(map);
+    })
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,918 @@
+School,City,State,Conference,Division,WikidataID,Score,School_doe,OPEID,AdmissionRate,SAT,Cost,Score_doe
+"University at Albany, SUNY",Albany,New York,America East Conference,D1,Q1780816,100.0,Albany Medical College,288700.0,,,,100.0
+"University at Albany, SUNY",Albany,New York,America East Conference,D1,Q1780816,100.0,SUNY at Albany,283500.0,0.5715,1177.0,26563.0,88.0
+Binghamton University,Binghamton,New York,America East Conference,D1,Q863813,100.0,Binghamton University,283600.0,0.4303,1376.0,28010.0,100.0
+Bryant University,Smithfield,Rhode Island,America East Conference,D1,Q1012699,100.0,Bryant University,340200.0,0.7579,1211.0,62855.0,100.0
+University of New Hampshire,Durham,New Hampshire,America East Conference,D1,Q49207,100.0,,,,,,
+New Jersey Institute of Technology,Newark,New Jersey,America East Conference,D1,Q3272013,100.0,New Jersey Institute of Technology,262100.0,0.6603,1299.0,31511.0,100.0
+University of Massachusetts Lowell,Lowell,Massachusetts,America East Conference,D1,Q15143,100.0,University of Massachusetts-Lowell,216100.0,0.752,1232.0,29174.0,100.0
+"University of Maryland, Baltimore County",Baltimore County,Maryland,America East Conference,D1,Q503415,100.0,University of Maryland-Baltimore County,210500.0,0.6948,1255.0,25997.0,100.0
+"University of Maryland, Baltimore County",Baltimore County,Maryland,America East Conference,D1,Q503415,100.0,University of Maryland-College Park,210300.0,0.5096,1391.0,27343.0,100.0
+University of Vermont,Burlington,Vermont,America East Conference,D1,Q1048898,100.0,University of Vermont,369600.0,0.7132,1276.0,34707.0,100.0
+University of North Carolina at Charlotte,Charlotte,North Carolina,American Athletic Conference,D1,Q1783178,100.0,University of North Carolina at Charlotte,297500.0,0.7953,1200.0,23478.0,100.0
+Florida Atlantic University,Boca Raton,Florida,American Athletic Conference,D1,Q429863,100.0,Florida Atlantic University,148100.0,0.7478,1147.0,21761.0,100.0
+Florida International University,University Park,Florida,American Athletic Conference,D1,Q1065809,100.0,Florida International University,963500.0,0.5788,1190.0,19384.0,100.0
+University of Memphis,Memphis,Tennessee,American Athletic Conference,D1,Q2094177,100.0,University of Memphis,350900.0,0.852,1132.0,24139.0,100.0
+Southern Methodist University,Dallas,Texas,American Athletic Conference,D1,Q1536258,100.0,Southern Methodist University,361300.0,0.5267,1388.0,76346.0,100.0
+University of South Florida,Tampa,Florida,American Athletic Conference,D1,Q500606,100.0,University of South Florida,153700.0,0.4924,1256.0,21134.0,100.0
+University of South Florida,Tampa,Florida,American Athletic Conference,D1,Q500606,100.0,South University-Tampa,1303908.0,,,28397.0,76.0
+Temple University,Philadelphia,Pennsylvania,American Athletic Conference,D1,Q1420239,100.0,Temple University,337100.0,0.7142,,33226.0,100.0
+University of Tulsa,Tulsa,Oklahoma,American Athletic Conference,D1,Q1848657,100.0,University of Tulsa,318500.0,0.6922,1255.0,58637.0,100.0
+University of Alabama at Birmingham,Birmingham,Alabama,American Athletic Conference,D1,Q1472663,100.0,University of Alabama at Birmingham,105200.0,0.806,1245.0,25542.0,100.0
+University of Central Florida,Orlando,Florida,Sun Belt Conference,D1,Q143451,100.0,University of Central Florida,395400.0,0.4517,1261.0,21309.0,100.0
+Bellarmine University,Louisville,Kentucky,ASUN Conference,D1,Q2894666,100.0,Bellarmine University,195400.0,0.8237,1196.0,56319.0,100.0
+University of Central Arkansas,Conway,Arkansas,ASUN Conference,D1,Q1782724,100.0,University of Central Arkansas,109200.0,0.9378,1166.0,23185.0,100.0
+Florida Gulf Coast University,Fort Myers,Florida,ASUN Conference,D1,Q1430054,100.0,Florida Gulf Coast University,3255300.0,0.7749,1142.0,18151.0,100.0
+Jacksonville University,Jacksonville,Florida,ASUN Conference,D1,Q935018,100.0,Jacksonville University,149500.0,0.7774,1115.0,54991.0,100.0
+Liberty University,Lynchburg,Virginia,Possibly ASUN Conference,D1,Q1468607,100.0,Liberty University,2053000.0,0.5013,1172.0,40567.0,100.0
+Lipscomb University,Nashville,Tennessee,ASUN Conference,D1,Q1798619,100.0,Lipscomb University,348600.0,0.615,1226.0,49074.0,100.0
+University of North Florida,Jacksonville,Florida,ASUN Conference,D1,Q1473796,100.0,University of North Florida,984100.0,0.7992,1144.0,19469.0,100.0
+Queens University of Charlotte [Queens],Charlotte,North Carolina,ASUN Conference,D1,Q7270829,90.0,Queens University of Charlotte,295700.0,0.6843,1150.0,49480.0,100.0
+Stetson University,DeLand,Florida,ASUN Conference,D1,Q2341039,100.0,Stetson University,153100.0,0.8149,,63006.0,100.0
+Davidson College,Davidson,North Carolina,Atlantic 10 Conference,D1,Q2902978,100.0,Davidson College,291800.0,0.2,1402.0,70744.0,100.0
+University of Dayton,Dayton,Ohio,Atlantic 10 Conference,D1,Q2092392,100.0,University of Dayton,312700.0,0.8111,1233.0,60900.0,100.0
+Duquesne University,Pittsburgh,Pennsylvania,Atlantic 10 Conference,D1,Q74343,100.0,Duquesne University,325800.0,0.7719,1207.0,56199.0,100.0
+Fordham University,"The Bronx, New York City",New York,Atlantic 10 Conference,D1,Q130965,100.0,Fordham University,272200.0,0.5253,1334.0,71388.0,100.0
+George Mason University,Fairfax,Virginia,Atlantic 10 Conference,D1,Q1411222,100.0,George Mason University,374900.0,0.892,1208.0,25717.0,100.0
+George Washington University,Washington,D.C.,Atlantic 10 Conference,D1,Q432637,100.0,George Washington University,144400.0,0.4304,1385.0,74023.0,100.0
+La Salle University,Philadelphia,Pennsylvania,Atlantic 10 Conference,D1,Q3106542,100.0,La Salle University,328700.0,0.7635,,45298.0,100.0
+Loyola University Chicago,Chicago,Illinois,Atlantic 10 Conference,D1,Q1537759,100.0,Loyola University Chicago,171000.0,0.7054,1261.0,60717.0,100.0
+University of Massachusetts Amherst,Amherst,Massachusetts,Atlantic 10 Conference,D1,Q15142,100.0,University of Massachusetts-Amherst,222100.0,0.6532,1307.0,31749.0,100.0
+University of Rhode Island,Kingston,Rhode Island,Atlantic 10 Conference,D1,Q1641788,100.0,University of Rhode Island,341400.0,0.7551,1183.0,30339.0,100.0
+St. Bonaventure University,Allegany,New York,Atlantic 10 Conference,D1,Q93662,100.0,St Bonaventure University,281700.0,0.7631,1151.0,50646.0,100.0
+Saint Joseph's University,Philadelphia,Pennsylvania,Atlantic 10 Conference,D1,Q1475413,100.0,Saint Joseph's University,336700.0,0.8007,1205.0,63223.0,100.0
+Saint Louis University,St. Louis,Missouri,Atlantic 10 Conference,D1,Q734774,100.0,Saint Louis University,250600.0,0.5554,1299.0,61975.0,100.0
+Virginia Commonwealth University,Richmond,Virginia,Atlantic 10 Conference,D1,Q2303536,100.0,Virginia Commonwealth University,373500.0,0.906,1163.0,31983.0,100.0
+Boston College,Chestnut Hill,Massachusetts,Atlantic Coast Conference,D1,Q49118,100.0,Boston College,212800.0,0.2638,1433.0,75872.0,100.0
+Boston College,Chestnut Hill,Massachusetts,Atlantic Coast Conference,D1,Q49118,100.0,Chestnut Hill College,324500.0,0.7114,995.0,54599.0,63.0
+Clemson University,Clemson,South Carolina,Atlantic Coast Conference,D1,Q631066,100.0,Clemson University,342500.0,0.6194,1327.0,32254.0,100.0
+Duke University,Durham,North Carolina,Atlantic Coast Conference,D1,Q168751,100.0,Duke University,292000.0,0.0774,1530.0,77846.0,100.0
+University of Louisville,Louisville,Kentucky,Atlantic Coast Conference,D1,Q1317143,100.0,University of Louisville,199900.0,0.6512,1198.0,28247.0,100.0
+University of North Carolina at Chapel Hill,Chapel Hill,North Carolina,Atlantic Coast Conference,D1,Q192334,100.0,University of North Carolina at Chapel Hill,297400.0,0.25,1393.0,24220.0,100.0
+North Carolina State University,Raleigh,North Carolina,Atlantic Coast Conference,D1,Q1132346,100.0,North Carolina State University at Raleigh,297200.0,0.4622,1343.0,24202.0,100.0
+University of Notre Dame,South Bend,Indiana,Atlantic Coast Conference,D1,Q178848,100.0,Indiana University-South Bend,181600.0,0.8687,1039.0,16667.0,78.0
+University of Notre Dame,South Bend,Indiana,Atlantic Coast Conference,D1,Q178848,100.0,University of Notre Dame,184000.0,0.1899,1489.0,74172.0,100.0
+University of Notre Dame,South Bend,Indiana,Atlantic Coast Conference,D1,Q178848,100.0,University of Notre Dame -,184001.0,0.1899,1489.0,,100.0
+University of Pittsburgh,Pittsburgh,Pennsylvania,Atlantic Coast Conference,D1,Q235034,100.0,University of Pittsburgh-Pittsburgh Campus,337900.0,0.6818,1290.0,33964.0,75.0
+Syracuse University,Syracuse,New York,Atlantic Coast Conference,D1,Q617433,100.0,Syracuse University,288200.0,0.6872,,72780.0,100.0
+University of Virginia,Charlottesville,Virginia,Atlantic Coast Conference,D1,Q213439,100.0,,,,,,
+Virginia Polytechnic Institute and State University,Blacksburg,Virginia,Atlantic Coast Conference,D1,Q65379,100.0,Virginia Polytechnic Institute and State University,375400.0,0.6577,1280.0,27283.0,100.0
+Virginia Polytechnic Institute and State University,Blacksburg,Virginia,Atlantic Coast Conference,D1,Q65379,100.0,University of Virginia-Main Campus,374500.0,0.2258,1426.0,34094.0,72.0
+Wake Forest University,Winston-Salem,North Carolina,Atlantic Coast Conference,D1,Q392667,100.0,Wake Forest University,297800.0,0.3198,,74135.0,100.0
+University of Akron,Akron,Ohio,Big East Conference,D1,Q1346135,100.0,,,,,,
+Butler University,Indianapolis,Indiana,Big East Conference,D1,Q1017974,100.0,Butler University,178800.0,0.7569,1265.0,61623.0,100.0
+Creighton University,Omaha,Nebraska,Big East Conference,D1,Q770544,100.0,Creighton University,254200.0,0.6402,,56120.0,100.0
+DePaul University,Chicago,Illinois,Big East Conference,D1,Q1179603,100.0,DePaul University,167100.0,0.7024,,57122.0,100.0
+Georgetown University,Washington,D.C.,Big East Conference,D1,Q333886,100.0,Georgetown University,144500.0,0.1681,1473.0,76280.0,100.0
+Georgetown University,Washington,D.C.,Big East Conference,D1,Q333886,100.0,Georgetown College,196400.0,0.7216,,53196.0,100.0
+Marquette University,Milwaukee,Wisconsin,Big East Conference,D1,Q188370,100.0,Marquette University,386300.0,0.8249,1285.0,59725.0,100.0
+Providence College,Providence,Rhode Island,Big East Conference,D1,Q1439629,100.0,Providence College,340600.0,0.5386,1301.0,69407.0,100.0
+St. John's University,"Queens, New York City",New York,Big East Conference,D1,Q1138374,100.0,Saint Johns University,237900.0,0.8138,1193.0,59972.0,98.0
+St. John's University,"Queens, New York City",New York,Big East Conference,D1,Q1138374,100.0,St. John's University-New York,282300.0,0.7507,1198.0,55877.0,100.0
+St. John's University,"Queens, New York City",New York,Big East Conference,D1,Q1138374,100.0,United States University,4005300.0,,,20187.0,64.0
+Seton Hall University,South Orange,New Jersey,Big East Conference,D1,Q585828,100.0,Seton Hall University,263200.0,0.7823,1244.0,60646.0,100.0
+University of Connecticut,Storrs,Connecticut,Big East Conference,D1,Q49206,100.0,University of Connecticut,141700.0,0.6379,1222.0,33896.0,100.0
+University of Connecticut,Storrs,Connecticut,Big East Conference,D1,Q49206,100.0,University of Connecticut-Stamford,141702.0,0.6379,1222.0,25497.0,85.0
+Villanova University,Radnor Township,Pennsylvania,Big East Conference,D1,Q1466001,100.0,Villanova University,338800.0,0.3066,1406.0,73042.0,100.0
+Xavier University,Cincinnati,Ohio,Big East Conference,D1,Q43337,100.0,Xavier University,314400.0,0.8122,1198.0,58260.0,100.0
+Campbell University,Buies Creek,North Carolina,Colonial Athletic Association,D1,Q904219,100.0,Campbell University,291300.0,0.8129,1115.0,51131.0,100.0
+Gardner–Webb University,Boiling Springs,North Carolina,Big South Conference,D1,Q3551409,100.0,Gardner-Webb University,292900.0,0.7795,1074.0,45333.0,100.0
+High Point University,High Point,North Carolina,Big South Conference,D1,Q5756235,100.0,Point University,154700.0,0.3487,1007.0,34160.0,86.0
+High Point University,High Point,North Carolina,Big South Conference,D1,Q5756235,100.0,High Point University,293300.0,0.7705,1182.0,54296.0,100.0
+Longwood University,Farmville,Virginia,Big South Conference,D1,Q3551429,100.0,Longwood University,371900.0,0.8734,1052.0,28821.0,100.0
+Presbyterian College,Clinton,South Carolina,Big South Conference,D1,Q7240787,85.0,Presbyterian College,344500.0,0.7083,1123.0,53720.0,85.0
+Radford University,Radford,Virginia,Big South Conference,D1,Q632465,100.0,Radford University,373200.0,0.7868,,24234.0,100.0
+University of North Carolina at Asheville,Asheville,North Carolina,Big South Conference,D1,Q7895940,100.0,University of North Carolina at Asheville,290700.0,0.7942,1185.0,20127.0,100.0
+Winthrop University,Rock Hill,South Carolina,Big South Conference,D1,Q8026588,100.0,Winthrop University,345600.0,0.6394,1072.0,29266.0,100.0
+Indiana University Bloomington,Bloomington,Indiana,Big Ten Conference,D1,Q1079140,100.0,Indiana University-Bloomington,180900.0,0.8038,1261.0,25587.0,100.0
+"University of Maryland, College Park",College Park,Maryland,Big Ten Conference,D1,Q503415,100.0,University of Maryland-Baltimore County,210500.0,0.6948,1255.0,25997.0,100.0
+"University of Maryland, College Park",College Park,Maryland,Big Ten Conference,D1,Q503415,100.0,University of Maryland-College Park,210300.0,0.5096,1391.0,27343.0,100.0
+University of Michigan,Ann Arbor,Michigan,Big Ten Conference,D1,Q230492,100.0,University of Michigan-Ann Arbor,232500.0,0.2611,1445.0,30926.0,100.0
+Michigan State University,East Lansing,Michigan,Big Ten Conference,D1,Q270222,100.0,Michigan State University,229000.0,0.7631,1216.0,28626.0,100.0
+Northwestern University,Evanston,Illinois,Big Ten Conference,D1,Q309350,100.0,Northwestern University,173900.0,0.0931,1505.0,78654.0,100.0
+Ohio State University,Columbus,Ohio,Big Ten Conference,D1,Q309331,100.0,,,,,,
+Pennsylvania State University,State College,Pennsylvania,Big Ten Conference,D1,Q739627,100.0,The Pennsylvania State University,332900.0,0.7827,1198.0,33960.0,100.0
+Rutgers University–New Brunswick,New Brunswick,New Jersey,Big Ten Conference,D1,Q499451,72.0,Rutgers University-New Brunswick,262900.0,0.6986,1253.0,32022.0,72.0
+University of Wisconsin–Madison,Madison,Wisconsin,Big Ten Conference,D1,Q838330,100.0,University of Wisconsin-Madison,389500.0,0.5725,1364.0,26393.0,100.0
+California Polytechnic State University,San Luis Obispo,California,Big West Conference,D1,Q1026846,100.0,California Polytechnic State University-San Luis Obispo,114300.0,0.3843,1325.0,28927.0,100.0
+"California State University, Bakersfield",Bakersfield,California,Big West Conference,D1,Q1026902,100.0,California State University-Bakersfield,799300.0,0.7838,,18661.0,100.0
+"California State University, Fullerton",Fullerton,California,Big West Conference,D1,Q1026925,100.0,California State University-Fullerton,113700.0,0.6762,1085.0,17791.0,100.0
+"California State University, Northridge","Northridge, Los Angeles",California,Big West Conference,D1,Q1026939,100.0,California State University-Northridge,115300.0,0.6581,1006.0,19794.0,100.0
+"California State University, Sacramento",Sacramento,California,Big West Conference,D1,Q101076543,68.0,California State University-Sacramento,115000.0,0.8309,1033.0,21576.0,68.0
+"University of California, Davis",Davis,California,Big West Conference,D1,Q129421,100.0,University of California-Davis,131300.0,0.4635,1299.0,35532.0,100.0
+"University of California, Irvine",Irvine,California,Big West Conference,D1,Q868421,100.0,University of California-Irvine,131400.0,0.2992,1339.0,34355.0,100.0
+"University of California, Riverside",Riverside,California,Big West Conference,D1,Q1075148,100.0,University of California-Riverside,131600.0,0.6578,1200.0,30561.0,100.0
+"University of California, San Diego","La Jolla, San Diego",California,Big West Conference,D1,Q622664,100.0,University of California-San Diego,131700.0,0.3661,1387.0,33240.0,100.0
+"University of California, Santa Barbara",Santa Barbara,California,Big West Conference,D1,Q263064,100.0,University of California-Santa Barbara,132000.0,0.367,1369.0,36492.0,100.0
+College of Charleston,Charleston,South Carolina,Colonial Athletic Association,D1,Q4507421,100.0,College of Charleston,342800.0,0.7432,1175.0,29545.0,100.0
+University of Delaware,Newark,Delaware,Colonial Athletic Association,D1,Q1068072,100.0,University of Delaware,143100.0,0.6599,1254.0,28708.0,100.0
+Drexel University,Philadelphia,Pennsylvania,Colonial Athletic Association,D1,Q603034,100.0,Drexel University,325600.0,0.7719,1287.0,69397.0,100.0
+Drexel University,Philadelphia,Pennsylvania,Colonial Athletic Association,D1,Q603034,100.0,Pennsylvania Institute of Technology,1099800.0,,,20588.0,70.0
+Elon University,Elon,North Carolina,Colonial Athletic Association,D1,Q4568893,100.0,Elon University,292700.0,0.717,1258.0,52587.0,100.0
+Hofstra University,Hempstead,New York,Colonial Athletic Association,D1,Q1623314,100.0,Hofstra University,273200.0,0.6911,,62917.0,100.0
+Monmouth University,West Long Branch,New Jersey,Colonial Athletic Association,D1,Q922647,100.0,Monmouth University,261600.0,0.7893,1130.0,55898.0,100.0
+Northeastern University,Boston,Massachusetts,Colonial Athletic Association,D1,Q37548,100.0,Northeastern University,219900.0,0.2048,1492.0,73196.0,100.0
+Stony Brook University,Stony Brook,New York,Colonial Athletic Association,D1,Q969850,100.0,Stony Brook University,283800.0,0.4891,1337.0,26270.0,100.0
+University of North Carolina Wilmington,Wilmington,North Carolina,Colonial Athletic Association,D1,Q2092214,100.0,University of North Carolina Wilmington,298400.0,0.6797,1226.0,24837.0,100.0
+College of William & Mary,Williamsburg,Virginia,Colonial Athletic Association,D1,Q875637,100.0,William & Mary,370500.0,0.4216,1411.0,39595.0,100.0
+Cleveland State University,Cleveland,Ohio,Horizon League,D1,Q1100801,100.0,Cleveland State University,303200.0,0.936,1088.0,24010.0,100.0
+University of Detroit Mercy,Detroit,Michigan,Horizon League,D1,Q1320232,100.0,University of Detroit Mercy,232300.0,0.795,1165.0,38440.0,100.0
+University of Wisconsin–Green Bay,Green Bay,Wisconsin,Horizon League,D1,Q2378091,100.0,University of Wisconsin-Green Bay,389900.0,0.8982,1085.0,17509.0,100.0
+Indiana University – Purdue University Indianapolis,Indianapolis,Indiana,Horizon League,D1,Q1433199,100.0,Indiana University-Purdue University-Indianapolis,181300.0,0.7854,1102.0,21127.0,100.0
+University of Wisconsin–Milwaukee,Milwaukee,Wisconsin,Horizon League,D1,Q1755318,100.0,University of Wisconsin-Milwaukee,389600.0,0.787,1105.0,21984.0,100.0
+Northern Kentucky University,Highland Heights,Kentucky,Horizon League,D1,Q2001033,100.0,Northern Kentucky University,927500.0,0.8703,1144.0,17869.0,100.0
+Oakland University,Auburn Hills & Rochester Hills,Michigan,Horizon League,D1,Q782116,100.0,Oakland University,230700.0,0.811,1110.0,23778.0,100.0
+Purdue University Fort Wayne,Fort Wayne,Indiana,Horizon League,D1,Q6023669,100.0,Purdue University Fort Wayne,182800.0,0.8278,1090.0,19224.0,100.0
+Robert Morris University,Moon Township,Pennsylvania,Horizon League,D1,Q7347821,100.0,Robert Morris University,335900.0,0.8563,1140.0,47724.0,100.0
+Wright State University,Fairborn,Ohio,Horizon League,D1,Q2002085,100.0,Wright State University-Lake Campus,307801.0,0.9599,1096.0,15648.0,79.0
+Chicago State University,Chicago,Illinois,Independent,D1,Q915866,100.0,Chicago State University,169400.0,0.4642,887.0,21867.0,100.0
+University of the Incarnate Word,San Antonio & Alamo Heights,Texas,Independent,D1,Q1813761,100.0,University of the Incarnate Word,357800.0,0.9656,1046.0,45532.0,100.0
+Brown University,Providence,Rhode Island,Ivy League,D1,Q49114,100.0,Brown University,340100.0,0.0767,1508.0,77490.0,100.0
+Columbia University,New York City,New York,Ivy League,D1,Q49088,100.0,Columbia College,770700.0,,,14989.0,100.0
+Columbia University,New York City,New York,Ivy League,D1,Q49088,100.0,Columbia College,245600.0,,,37709.0,100.0
+Columbia University,New York City,New York,Ivy League,D1,Q49088,100.0,Columbia University in the City of New York,270700.0,0.0666,1517.0,79750.0,100.0
+Columbia University,New York City,New York,Ivy League,D1,Q49088,100.0,King's College,328200.0,0.8661,,52647.0,100.0
+Columbia University,New York City,New York,Ivy League,D1,Q49088,100.0,Columbia College,343000.0,0.9707,964.0,33178.0,100.0
+Columbia University,New York City,New York,Ivy League,D1,Q49088,100.0,Columbia College,4127300.0,,,,100.0
+Columbia University,New York City,New York,Ivy League,D1,Q49088,100.0,Columbia College,4127301.0,,,,100.0
+Cornell University,Ithaca,New York,Ivy League,D1,Q49115,100.0,Cornell University,271100.0,0.1071,1480.0,75204.0,100.0
+Dartmouth College,Hanover,New Hampshire,Ivy League,D1,Q49116,100.0,Dartmouth College,257300.0,0.0922,1500.0,77152.0,100.0
+Harvard University,Boston,Massachusetts,Ivy League,D1,Q13371,100.0,Harvard University,215500.0,0.0501,1520.0,75914.0,100.0
+Princeton University,Princeton,New Jersey,Ivy League,D1,Q21578,100.0,Princeton University,262700.0,0.0563,1506.0,74150.0,100.0
+Princeton University,Princeton,New Jersey,Ivy League,D1,Q21578,100.0,The College of New Jersey,264200.0,0.5125,1240.0,35502.0,91.0
+Princeton University,Princeton,New Jersey,Ivy League,D1,Q21578,100.0,Jersey College,4134100.0,0.3425,,,80.0
+Princeton University,Princeton,New Jersey,Ivy League,D1,Q21578,100.0,Jersey College,4134101.0,0.3425,,,80.0
+Princeton University,Princeton,New Jersey,Ivy League,D1,Q21578,100.0,Jersey College,4134102.0,0.3425,,,80.0
+Princeton University,Princeton,New Jersey,Ivy League,D1,Q21578,100.0,Jersey College,4134103.0,0.3425,,,80.0
+Princeton University,Princeton,New Jersey,Ivy League,D1,Q21578,100.0,Jersey College,4134104.0,0.3425,,,80.0
+Princeton University,Princeton,New Jersey,Ivy League,D1,Q21578,100.0,Jersey College,4134105.0,0.3425,,,80.0
+University of Pennsylvania,Philadelphia,Pennsylvania,Ivy League,D1,Q49117,100.0,University of Pennsylvania,337800.0,0.0898,1517.0,78186.0,100.0
+Yale University,New Haven,Connecticut,Ivy League,D1,Q49112,100.0,Yale University,142600.0,0.0653,1520.0,76645.0,100.0
+Canisius College,Buffalo,New York,Metro Atlantic Athletic Conference,D1,Q1033335,100.0,Canisius College,268100.0,0.7602,1152.0,39217.0,100.0
+Fairfield University,Fairfield,Connecticut,Metro Atlantic Athletic Conference,D1,Q1393265,100.0,Fairfield University,138500.0,0.5613,1281.0,67080.0,100.0
+Iona University,New Rochelle,New York,Metro Atlantic Athletic Conference,D1,Q6063486,88.0,Iona College,273700.0,0.8595,1107.0,54052.0,100.0
+Manhattan College,"The Bronx, New York City",New York,Metro Atlantic Athletic Conference,D1,Q2749572,100.0,Manhattan College,275800.0,0.7765,,57992.0,100.0
+Marist College,Poughkeepsie,New York,Metro Atlantic Athletic Conference,D1,Q7592865,71.0,Marist College,276500.0,0.5505,,60670.0,71.0
+Mount St. Mary's University,Emmitsburg,Maryland,Metro Atlantic Athletic Conference,D1,Q6923804,100.0,Mount Saint Mary's University,124300.0,0.8933,1014.0,57689.0,100.0
+Mount St. Mary's University,Emmitsburg,Maryland,Metro Atlantic Athletic Conference,D1,Q6923804,100.0,Mount St. Mary's University,208600.0,0.8045,1082.0,57867.0,100.0
+Niagara University,Lewiston,New York,Metro Atlantic Athletic Conference,D1,Q3551657,100.0,Niagara University,278800.0,0.9241,1118.0,47384.0,100.0
+Quinnipiac University,Hamden,Connecticut,Metro Atlantic Athletic Conference,D1,Q1030044,100.0,Quinnipiac University,140200.0,0.8239,,66237.0,100.0
+Rider University,Lawrenceville,New Jersey,Metro Atlantic Athletic Conference,D1,Q3551664,100.0,Rider University,262800.0,0.7566,1124.0,61693.0,100.0
+Saint Peter's University,Jersey City,New Jersey,Metro Atlantic Athletic Conference,D1,Q3443737,100.0,Saint Peter's University,263800.0,0.8464,,47570.0,100.0
+Siena College,Loudonville,New York,Metro Atlantic Athletic Conference,D1,Q768054,100.0,Siena College,281600.0,0.8066,,58200.0,100.0
+Belmont University,Nashville,Tennessee,Missouri Valley Conference,D1,Q3298359,100.0,Belmont College,994100.0,,,10242.0,100.0
+Belmont University,Nashville,Tennessee,Missouri Valley Conference,D1,Q3298359,100.0,Belmont University,347900.0,0.8323,1244.0,54595.0,100.0
+Bowling Green State University,Bowling Green,Ohio,Missouri Valley Conference,D1,Q895457,100.0,,,,,,
+Bradley University,Peoria,Illinois,Missouri Valley Conference,D1,Q897052,100.0,Bradley University,164100.0,0.7328,1196.0,48295.0,100.0
+Drake University,Des Moines,Iowa,Missouri Valley Conference,D1,Q5305629,100.0,Drake University,186000.0,0.6792,1254.0,57643.0,100.0
+University of Evansville,Evansville,Indiana,Missouri Valley Conference,D1,Q4026988,100.0,University of Evansville,179500.0,0.643,,50986.0,100.0
+Missouri State University,Springfield,Missouri,Missouri Valley Conference,D1,Q1249251,100.0,Missouri State University-Springfield,250300.0,0.8657,1183.0,21859.0,81.0
+Northern Illinois University,DeKalb,Illinois,Missouri Valley Conference,D1,Q1191344,100.0,Northern Illinois University,173700.0,0.5925,,26312.0,100.0
+Southern Illinois University Edwardsville,Edwardsville,Illinois,Missouri Valley Conference,D1,Q519349,100.0,Southern Illinois University-Edwardsville,175900.0,0.8505,1154.0,24244.0,100.0
+University of Illinois Chicago,Chicago,Illinois,Missouri Valley Conference,D1,Q955764,100.0,University of Illinois Chicago,177600.0,0.7263,1159.0,25831.0,100.0
+Western Michigan University,Kalamazoo,Michigan,Missouri Valley Conference,D1,Q1546191,100.0,Western Michigan University,233000.0,0.8494,1129.0,26567.0,100.0
+Central Connecticut State University,New Britain,Connecticut,Northeast Conference,D1,Q1053764,100.0,Central Connecticut State University,137800.0,0.6485,1062.0,22518.0,100.0
+Fairleigh Dickinson University,Madison & Florham Park,New Jersey,Northeast Conference,D1,Q1393301,100.0,,,,,,
+Howard University,Washington,D.C.,Northeast Conference,D1,Q1068752,100.0,Howard University,144800.0,0.3864,1192.0,45971.0,100.0
+Long Island University,Brookville,New York,Northeast Conference,D1,Q1783603,100.0,Long Island University,275100.0,0.8501,1194.0,50591.0,100.0
+Merrimack College,North Andover,Massachusetts,Northeast Conference,D1,Q558957,100.0,Merrimack College,212000.0,0.8164,,59617.0,100.0
+Sacred Heart University,Fairfield,Connecticut,Northeast Conference,D1,Q1276963,100.0,Sacred Heart University,140300.0,0.6553,,61591.0,100.0
+Sacred Heart University,Fairfield,Connecticut,Northeast Conference,D1,Q1276963,100.0,Universidad del Sagrado Corazon,393700.0,0.4331,,19185.0,100.0
+St. Francis College,"Brooklyn, New York City",New York,Northeast Conference,D1,Q530424,100.0,St. Francis College,282000.0,0.8452,964.0,32776.0,100.0
+Saint Francis University,Loretto,Pennsylvania,Northeast Conference,D1,Q7401271,100.0,Saint Francis University,336600.0,0.5935,1134.0,54101.0,100.0
+Stonehill College,Easton,Massachusetts,Northeast Conference,D1,Q14715866,100.0,Stonehill College,221700.0,0.6896,,62253.0,100.0
+"University of California, Berkeley",Berkeley,California,Pac-12 Conference,D1,Q168756,100.0,University of California-Berkeley,131200.0,0.1748,1437.0,39016.0,100.0
+Oregon State University,Corvallis,Oregon,Pac-12 Conference,D1,Q861888,100.0,Oregon State University,321000.0,0.8173,1201.0,27595.0,100.0
+San Diego State University,San Diego,California,Pac-12 Conference,D1,Q913861,100.0,San Diego State University,115100.0,0.367,1207.0,23367.0,100.0
+Stanford University,Stanford,California,Pac-12 Conference,D1,Q41506,100.0,Stanford University,130500.0,0.0519,1491.0,74570.0,100.0
+"University of California, Los Angeles",Los Angeles,California,Pac-12 Conference,D1,Q174710,100.0,University of California-Los Angeles,131500.0,0.1433,,35497.0,100.0
+"University of California, Los Angeles",Los Angeles,California,Pac-12 Conference,D1,Q174710,100.0,Los Angeles Film School,4037300.0,,,,70.0
+"University of California, Los Angeles",Los Angeles,California,Pac-12 Conference,D1,Q174710,100.0,Los Angeles Center,1092303.0,,,,69.0
+University of Washington,Seattle,Washington,Pac-12 Conference,D1,Q219563,100.0,,,,,,
+American University,Washington,D.C.,Patriot League,D1,Q168000,100.0,American University,143400.0,0.3865,1328.0,66416.0,100.0
+United States Military Academy,West Point,New York,Patriot League,D1,Q9219,100.0,United States Military Academy,289300.0,0.0864,1359.0,,100.0
+Boston University,Boston,Massachusetts,Patriot League,D1,Q49110,100.0,Boston University,213000.0,0.2009,1419.0,74911.0,100.0
+Bucknell University,Lewisburg,Pennsylvania,Patriot League,D1,Q3444679,100.0,Bucknell University,323800.0,0.3753,1353.0,75400.0,100.0
+Colgate University,Hamilton,New York,Patriot League,D1,Q1191335,100.0,Colgate University,270100.0,0.2747,1404.0,75000.0,100.0
+Colgate University,Hamilton,New York,Patriot League,D1,Q1191335,100.0,Hamilton College,272800.0,0.1841,1462.0,72190.0,100.0
+College of the Holy Cross,Worcester,Massachusetts,Patriot League,D1,Q2620177,100.0,Holy Cross College,726300.0,0.7702,1283.0,44469.0,100.0
+College of the Holy Cross,Worcester,Massachusetts,Patriot League,D1,Q2620177,100.0,College of the Holy Cross,214100.0,0.3794,1371.0,71448.0,100.0
+Lafayette College,Easton,Pennsylvania,Patriot League,D1,Q1592074,100.0,Lafayette College,328400.0,0.3557,1360.0,74016.0,100.0
+Lehigh University,Bethlehem,Pennsylvania,Patriot League,D1,Q622137,100.0,Lehigh University,328900.0,0.4954,1366.0,71310.0,100.0
+Loyola University Maryland,Baltimore,Maryland,Patriot League,D1,Q5399470,100.0,Loyola University Maryland,207800.0,0.8024,,67196.0,100.0
+United States Naval Academy,Annapolis,Maryland,Patriot League,D1,Q559549,100.0,United States Naval Academy,210100.0,0.0908,1367.0,,100.0
+East Tennessee State University,Johnson City,Tennessee,Southern Conference,D1,Q634669,100.0,East Tennessee State University,348700.0,0.7838,1167.0,22323.0,100.0
+Furman University,Greenville,South Carolina,Southern Conference,D1,Q1475020,100.0,Furman University,343400.0,0.6525,1356.0,67299.0,100.0
+Mercer University,Macon,Georgia,Southern Conference,D1,Q1798612,100.0,Mercer University,158000.0,0.7816,1285.0,52940.0,100.0
+University of North Carolina at Greensboro,Greensboro,North Carolina,Southern Conference,D1,Q1321380,100.0,University of North Carolina at Greensboro,297600.0,0.8754,1093.0,19179.0,100.0
+Virginia Military Institute,Lexington,Virginia,Southern Conference,D1,Q785357,100.0,Virginia Military Institute,375300.0,0.5988,1180.0,32420.0,100.0
+Wofford College,Spartanburg,South Carolina,Southern Conference,D1,Q8029049,100.0,Wofford College,345700.0,0.53,,62262.0,100.0
+University of Denver,Denver,Colorado,The Summit League,D1,Q519427,100.0,University of Denver,137100.0,0.6067,1296.0,69469.0,100.0
+Eastern Illinois University,Charleston,Illinois,The Summit League,D1,Q624985,100.0,Eastern Illinois University,167400.0,0.5554,1058.0,24125.0,100.0
+University of Missouri–Kansas City,Kansas City,Missouri,The Summit League,D1,Q940690,100.0,University of Missouri-Kansas City,251800.0,0.6301,1184.0,22897.0,100.0
+University of Missouri–Kansas City,Kansas City,Missouri,The Summit League,D1,Q940690,100.0,Kansas City University,247400.0,,,,79.0
+University of Missouri–Kansas City,Kansas City,Missouri,The Summit League,D1,Q940690,100.0,Kansas City University,247401.0,,,,79.0
+Lindenwood University,St. Charles,Missouri,The Summit League,D1,Q5617088,100.0,Lindenwood University,248000.0,0.9213,1111.0,30609.0,100.0
+University of Nebraska Omaha,Omaha,Nebraska,The Summit League,D1,Q2495890,100.0,University of Nebraska at Omaha,255400.0,0.8229,1115.0,19797.0,100.0
+Oral Roberts University,Tulsa,Oklahoma,The Summit League,D1,Q3121493,100.0,Oral Roberts University,398500.0,0.7839,1133.0,44006.0,100.0
+University of St. Thomas,Saint Paul,Minnesota,The Summit League,D1,Q1164229,100.0,University of St Thomas,234500.0,0.874,1249.0,57785.0,100.0
+University of St. Thomas,Saint Paul,Minnesota,The Summit League,D1,Q1164229,100.0,University of St Thomas,365400.0,0.9609,,42652.0,100.0
+University of Southern Indiana,Evansville,Indiana,The Summit League,D1,Q940289,100.0,University of Southern Indiana,180800.0,0.9387,1089.0,20146.0,100.0
+Western Illinois University,Macomb,Illinois,The Summit League,D1,Q1474005,100.0,Western Illinois University,178000.0,0.6696,1011.0,26287.0,100.0
+Coastal Carolina University,Conway,South Carolina,Sun Belt Conference,D1,Q1104405,100.0,Coastal Carolina University,345100.0,0.7045,1108.0,24313.0,100.0
+Georgia Southern University,Statesboro,Georgia,Sun Belt Conference,D1,Q624959,100.0,Georgia Southern University,157200.0,0.9117,1083.0,22608.0,100.0
+Georgia State University,Atlanta,Georgia,Sun Belt Conference,D1,Q1509333,100.0,Georgia State University,157400.0,0.8094,1147.0,27206.0,100.0
+James Madison University,Harrisonburg,Virginia,Sun Belt Conference,D1,Q258943,100.0,James Madison University,372100.0,0.8049,1207.0,27996.0,100.0
+University of Kentucky,Lexington,Kentucky,Sun Belt Conference,D1,Q1360303,100.0,University of Kentucky,198900.0,0.9636,1223.0,30178.0,100.0
+Marshall University,Huntington,West Virginia,Sun Belt Conference,D1,Q1379613,100.0,Marshall University,381500.0,0.8925,1080.0,19586.0,100.0
+Old Dominion University,Norfolk,Virginia,Sun Belt Conference,D1,Q1474100,100.0,Old Dominion University,372800.0,0.9541,1071.0,25722.0,100.0
+University of South Carolina,Columbia,South Carolina,Sun Belt Conference,D1,Q1024426,100.0,University of South Carolina-Columbia,344800.0,0.6835,1268.0,28602.0,100.0
+University of South Carolina,Columbia,South Carolina,Sun Belt Conference,D1,Q1024426,100.0,South University-Columbia,1303907.0,,,28397.0,83.0
+West Virginia University,Morgantown,West Virginia,Sun Belt Conference,D1,Q115376,100.0,West Virginia University,382700.0,0.822,1145.0,22680.0,100.0
+Gonzaga University,Spokane,Washington,West Coast Conference,D1,Q1537303,100.0,Gonzaga University,377800.0,0.7289,1272.0,61761.0,100.0
+Loyola Marymount University,Los Angeles,California,West Coast Conference,D1,Q1786078,100.0,Loyola Marymount University,1164900.0,0.5014,1320.0,70235.0,100.0
+University of the Pacific,Stockton,California,West Coast Conference,D1,Q630226,100.0,University of the Pacific,132900.0,0.7075,1221.0,64784.0,100.0
+University of the Pacific,Stockton,California,West Coast Conference,D1,Q630226,100.0,Pacific University,321200.0,0.893,1166.0,62157.0,100.0
+University of Portland,Portland,Oregon,West Coast Conference,D1,Q513658,100.0,University of Portland,322400.0,0.7722,1233.0,64049.0,100.0
+Saint Mary's College of California,Moraga,California,West Coast Conference,D1,Q7401829,100.0,Saint Mary's College of California,130200.0,0.7731,1174.0,69071.0,100.0
+University of San Diego,San Diego,California,West Coast Conference,D1,Q262663,100.0,University of San Diego,1039500.0,0.587,,70440.0,100.0
+University of San Francisco,San Francisco,California,West Coast Conference,D1,Q1887879,100.0,University of San Francisco,132500.0,0.703,1248.0,69987.0,100.0
+Santa Clara University,Santa Clara,California,West Coast Conference,D1,Q992830,100.0,Santa Clara University,132600.0,0.5072,1367.0,74297.0,100.0
+United States Air Force Academy,Colorado Springs,Colorado,Western Athletic Conference,D1,Q1331280,100.0,United States Air Force Academy,136900.0,0.1343,1371.0,,100.0
+California Baptist University,Riverside,California,Western Athletic Conference,D1,Q1563992,100.0,California Baptist University,112500.0,0.8018,1064.0,48731.0,100.0
+Grand Canyon University,Phoenix,Arizona,Western Athletic Conference,D1,Q4570025,100.0,Grand Canyon University,107400.0,0.8069,,31376.0,100.0
+Houston Christian University,Houston,Texas,Western Athletic Conference,D1,Q5916417,100.0,Houston Baptist University,357600.0,0.7151,1101.0,43638.0,100.0
+San Jose State University,San Jose,California,Western Athletic Conference,D1,Q498526,100.0,San Jose State University,115500.0,0.6737,1127.0,25747.0,100.0
+Seattle University,Seattle,Washington,Western Athletic Conference,D1,Q615873,100.0,Seattle University,379000.0,0.8323,1249.0,63439.0,100.0
+"University of Nevada, Las Vegas",Paradise,Nevada,Western Athletic Conference,D1,Q2302311,100.0,University of Nevada-Las Vegas,256900.0,0.8102,1124.0,18756.0,100.0
+Utah Tech University,St. George,Utah,Western Athletic Conference,D1,Q1231724,100.0,Dixie State University,367100.0,,,17802.0,100.0
+Utah Valley University,Orem,Utah,Western Athletic Conference,D1,Q940919,100.0,Utah Valley University,402700.0,,,13597.0,100.0
+Utah Valley University,Orem,Utah,Western Athletic Conference,D1,Q940919,100.0,Provo College,2360800.0,,,23253.0,59.0
+University of Texas Rio Grande Valley,Edinburg,Texas,Western Athletic Conference,D1,Q17028121,100.0,The University of Texas Rio Grande Valley,359900.0,0.8239,1034.0,14250.0,100.0
+Academy of Art University,San Francisco,California,Pacific West Conference,D2,Q2822225,100.0,Academy of Art University,753100.0,,,43976.0,100.0
+Academy of Art University,San Francisco,California,Pacific West Conference,D2,Q2822225,100.0,Academy College,2050300.0,,,31816.0,81.0
+Adams State University,Alamosa,Colorado,Rocky Mountain Athletic Conference,D2,Q351971,100.0,Adams State University,134500.0,0.9988,1004.0,22317.0,100.0
+Adelphi University,Garden City,New York,Northeast-10 Conference,D2,Q4682076,100.0,Adelphi University,266600.0,0.7461,1162.0,53535.0,100.0
+University of Alabama in Huntsville,Huntsville,Alabama,Gulf South Conference,D2,Q1783148,100.0,University of Alabama in Huntsville,105500.0,0.7711,1300.0,24861.0,100.0
+Alderson Broaddus University,Philippi,West Virginia,Mountain East Conference,D2,Q4713754,100.0,Alderson Broaddus University,380600.0,0.5276,972.0,42676.0,100.0
+Alliance University,Manhattan,New York,Central Atlantic Collegiate Conference,D2,Q4732337,100.0,,,,,,
+American International College,Springfield,Massachusetts,Northeast-10 Conference,D2,Q6048175,72.0,American International College,211400.0,0.6938,1015.0,51505.0,72.0
+Anderson University,Anderson,South Carolina,South Atlantic Conference,D2,Q4754215,100.0,Anderson University,178500.0,0.665,1071.0,44342.0,100.0
+Anderson University,Anderson,South Carolina,South Atlantic Conference,D2,Q4754215,100.0,Anderson University,341800.0,0.592,,44481.0,100.0
+Ashland University,Ashland,Ohio,Great Midwest Athletic Conference,D2,Q986122,100.0,Ashland University,301200.0,0.7435,1105.0,33775.0,100.0
+Assumption University,Worcester,Massachusetts,Northeast-10 Conference,D2,Q745391,100.0,Assumption University,211800.0,0.8092,,57238.0,100.0
+Auburn University at Montgomery,Montgomery,Alabama,Gulf South Conference,D2,Q758560,100.0,Auburn University at Montgomery,831000.0,0.9555,1061.0,20225.0,100.0
+Azusa Pacific University,Azusa,California,Pacific West Conference,D2,Q4583636,100.0,Azusa Pacific University,111700.0,0.936,,56802.0,100.0
+Barry University,Miami Shores,Florida,Sunshine State Conference,D2,Q809106,100.0,Barry University,146600.0,0.653,,47118.0,100.0
+Barton College,Wilson,North Carolina,Conference Carolinas,D2,Q4865607,100.0,Barton College,290800.0,0.4244,1030.0,46539.0,100.0
+Belmont Abbey College,Belmont,North Carolina,Conference Carolinas,D2,Q4884322,100.0,Belmont Abbey College,291000.0,0.801,1085.0,31943.0,100.0
+Bentley University,Waltham,Massachusetts,Northeast-10 Conference,D2,Q693674,100.0,Bentley University,212400.0,0.5782,1281.0,71094.0,100.0
+Biola University,La Mirada,California,Pacific West Conference,D2,Q864450,100.0,Biola University,112200.0,0.6438,1196.0,58012.0,100.0
+Biola University,La Mirada,California,Pacific West Conference,D2,Q864450,100.0,Angeles Institute,4164400.0,,,,72.0
+Bloomsburg University of Pennsylvania,Bloomsburg,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q4928377,100.0,Bloomsburg University of Pennsylvania,331500.0,0.8903,,25058.0,100.0
+University of Bridgeport,Bridgeport,Connecticut,Central Atlantic Collegiate Conference,D2,Q1055874,100.0,University of Bridgeport,141600.0,0.7095,1026.0,53853.0,100.0
+"California State Polytechnic University, Humboldt",Arcata,California,California Collegiate Athletic Association,D2,Q624560,100.0,California State Polytechnic University-Humboldt,114900.0,0.8514,1081.0,24991.0,100.0
+"California State Polytechnic University, Pomona",Pomona,California,California Collegiate Athletic Association,D2,Q1026868,100.0,California State Polytechnic University-Pomona,114400.0,0.6481,1134.0,22365.0,100.0
+"California State University, Chico",Chico,California,California Collegiate Athletic Association,D2,Q1026912,100.0,California State University-Chico,114600.0,0.9017,1073.0,25073.0,100.0
+"California State University, Dominguez Hills",Carson,California,California Collegiate Athletic Association,D2,Q1026909,100.0,California State University-Dominguez Hills,114100.0,0.812,,15019.0,100.0
+"California State University, East Bay",Hayward,California,California Collegiate Athletic Association,D2,Q1026916,100.0,California State University-East Bay,113800.0,0.7328,,23357.0,100.0
+"California State University, Los Angeles",Los Angeles,California,California Collegiate Athletic Association,D2,Q1026932,100.0,California State University-Los Angeles,114000.0,0.7648,964.0,15307.0,100.0
+"California State University, Monterey Bay",Seaside,California,California Collegiate Athletic Association,D2,Q624686,100.0,California State University-Monterey Bay,3260300.0,0.8562,1058.0,23389.0,100.0
+"California State University, San Bernardino",San Bernardino,California,California Collegiate Athletic Association,D2,Q1026944,100.0,California State University-San Bernardino,114200.0,0.7812,988.0,19114.0,100.0
+California State University San Marcos,San Marcos,California,California Collegiate Athletic Association,D2,Q624691,100.0,California State University-San Marcos,3011300.0,0.7942,1039.0,22531.0,100.0
+"California State University, Stanislaus",Turlock,California,California Collegiate Athletic Association,D2,Q624564,100.0,California State University-Stanislaus,115700.0,0.8932,,17424.0,100.0
+Carson–Newman University,Jefferson City,Tennessee,South Atlantic Conference,D2,Q3445010,100.0,Carson-Newman University,348100.0,0.7932,1107.0,40422.0,100.0
+Catawba College,Salisbury,North Carolina,South Atlantic Conference,D2,Q5051596,100.0,Catawba College,291400.0,0.5212,1038.0,44235.0,100.0
+Cedarville University,Cedarville,Ohio,Great Midwest Athletic Conference,D2,Q5057029,100.0,Cedarville University,302500.0,0.5933,1251.0,42318.0,100.0
+Chaminade University of Honolulu,Honolulu,Hawai'i,Pacific West Conference,D2,Q1725405,100.0,Chaminade University of Honolulu,160500.0,0.8897,1056.0,38649.0,100.0
+University of Charleston,Charleston,West Virginia,Mountain East Conference,D2,Q117251,100.0,University of Charleston,381800.0,0.6148,1079.0,43829.0,100.0
+Chestnut Hill College,Philadelphia,Pennsylvania,Central Atlantic Collegiate Conference,D2,Q49118,63.0,Boston College,212800.0,0.2638,1433.0,75872.0,100.0
+Chestnut Hill College,Philadelphia,Pennsylvania,Central Atlantic Collegiate Conference,D2,Q49118,63.0,Chestnut Hill College,324500.0,0.7114,995.0,54599.0,63.0
+Chowan University,Murfreesboro,North Carolina,Conference Carolinas,D2,Q5105527,100.0,Chowan University,291600.0,0.6736,891.0,37161.0,100.0
+Christian Brothers University,Memphis,Tennessee,Gulf South Conference,D2,Q5109383,100.0,Christian Brothers University,348200.0,0.4994,1190.0,43939.0,100.0
+Clayton State University,Morrow,Georgia,Peach Belt Conference,D2,Q5130334,100.0,Clayton  State University,897600.0,0.6854,,18374.0,100.0
+Coker University,Hartsville,South Carolina,South Atlantic Conference,D2,Q1107305,100.0,Coker University,342700.0,0.9306,1008.0,42395.0,100.0
+Colorado Christian University,Lakewood,Colorado,Rocky Mountain Athletic Conference,D2,Q5148756,100.0,Colorado Christian University,940100.0,,,46894.0,100.0
+Colorado Mesa University,Grand Junction,Colorado,Rocky Mountain Athletic Conference,D2,Q1507218,100.0,Colorado Mesa University,135800.0,0.7544,,22143.0,100.0
+Colorado School of Mines,Golden,Colorado,Rocky Mountain Athletic Conference,D2,Q1111367,100.0,Colorado School of Mines,134800.0,0.5497,1372.0,36107.0,100.0
+Colorado State University–Pueblo,Pueblo,Colorado,Rocky Mountain Athletic Conference,D2,Q1111515,100.0,Colorado State University Pueblo,136500.0,0.9431,1022.0,21950.0,100.0
+University of Colorado Colorado Springs,Colorado Springs,Colorado,Rocky Mountain Athletic Conference,D2,Q2495841,100.0,University of Colorado Colorado Springs,450900.0,0.8961,,22169.0,100.0
+Concord University,Athens,West Virginia,Mountain East Conference,D2,Q5158896,100.0,Concord University,381000.0,0.914,972.0,16824.0,100.0
+Concordia University–Irvine,Irvine,California,Pacific West Conference,D2,Q5158998,100.0,Concordia University-Irvine,2070500.0,0.7818,1128.0,53235.0,100.0
+Converse University,Spartanburg,South Carolina,Conference Carolinas,D2,Q5166453,100.0,Converse University,343100.0,0.8244,1067.0,33858.0,100.0
+Daemen University,Amherst,New York,East Coast Conference,D2,Q5208240,39.0,Daemen University,280800.0,0.6178,,40900.0,39.0
+Dallas Baptist University,Dallas,Texas,Lone Star Conference,D2,Q5211272,100.0,Dallas Baptist University,356000.0,0.9858,1117.0,42855.0,100.0
+Dallas Baptist University,Dallas,Texas,Lone Star Conference,D2,Q5211272,100.0,Dallas College,445300.0,,,10819.0,78.0
+Davenport University,Grand Rapids,Michigan,Great Lakes Intercollegiate Athletic Conference,D2,Q5230267,100.0,Davenport University,224900.0,0.9256,,31321.0,100.0
+Davis & Elkins College,Elkins,West Virginia,Mountain East Conference,D2,Q5241825,100.0,Davis & Elkins College,381100.0,0.6905,,42233.0,100.0
+Delta State University,Cleveland,Mississippi,Gulf South Conference,D2,Q3887993,100.0,Delta State University,240300.0,0.9961,1063.0,20678.0,100.0
+University of the District of Columbia,Washington,District of Columbia,East Coast Conference,D2,Q3551751,100.0,University of the District of Columbia,144100.0,,,22638.0,100.0
+Dominican University New York,Orangeburg,New York,Central Atlantic Collegiate Conference,D2,Q5290735,52.0,Dominican College of Blauvelt,271300.0,0.7462,,43424.0,100.0
+Drury University,Springfield,Missouri,Great Lakes Valley Conference,D2,Q5309401,100.0,Drury University,246100.0,0.7068,1208.0,40913.0,100.0
+D'Youville University,Buffalo,New York,East Coast Conference,D2,Q5203187,100.0,D'Youville College,271200.0,0.8307,1064.0,38790.0,100.0
+East Stroudsburg University of Pennsylvania,East Stroudsburg,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q5329446,100.0,East Stroudsburg University of Pennsylvania,332000.0,0.905,1007.0,24870.0,100.0
+Eastern New Mexico University,Portales,New Mexico,Lone Star Conference,D2,Q10854154,100.0,,,,,,
+Eckerd College,St. Petersburg,Florida,Sunshine State Conference,D2,Q5332879,100.0,Eckerd College,148700.0,0.6858,,63342.0,100.0
+Embry–Riddle Aeronautical University,Daytona Beach,Florida,Sunshine State Conference,D2,Q3052113,100.0,Embry-Riddle Aeronautical University-Prescott,147902.0,0.6254,1239.0,54536.0,89.0
+Embry–Riddle Aeronautical University,Daytona Beach,Florida,Sunshine State Conference,D2,Q3052113,100.0,Embry-Riddle Aeronautical University-Daytona Beach,147900.0,0.6254,1239.0,54724.0,84.0
+Embry–Riddle Aeronautical University,Daytona Beach,Florida,Sunshine State Conference,D2,Q3052113,100.0,Embry-Riddle Aeronautical University-Worldwide,147900.0,0.6254,1239.0,24124.0,100.0
+Emmanuel College,Franklin Springs,Georgia,Conference Carolinas,D2,Q3052646,100.0,Emmanuel College,156300.0,0.5275,1005.0,31589.0,100.0
+Emmanuel College,Franklin Springs,Georgia,Conference Carolinas,D2,Q3052646,100.0,Emmanuel College,214700.0,0.7552,1202.0,58787.0,100.0
+Emory and Henry College,Emory,Virginia,South Atlantic Conference,D2,Q5373734,100.0,Emory & Henry College,370900.0,0.7541,1066.0,50310.0,90.0
+Erskine College,Due West,South Carolina,Conference Carolinas,D2,Q5395822,100.0,Erskine College,343200.0,0.6,1012.0,52411.0,100.0
+Felician University,Rutherford,New Jersey,Central Atlantic Collegiate Conference,D2,Q14705495,100.0,Felician University,261000.0,0.9355,973.0,49240.0,100.0
+University of Findlay,Findlay,Ohio,Great Midwest Athletic Conference,D2,Q7895390,100.0,The University of Findlay,304500.0,0.7959,1144.0,47032.0,100.0
+Flagler College,St. Augustine,Florida,Peach Belt Conference,D2,Q5456945,61.0,Flagler College,789300.0,0.5649,1125.0,35809.0,61.0
+Florida Southern College,Lakeland,Florida,Sunshine State Conference,D2,Q5461600,100.0,Florida Southern College,148800.0,0.5037,1230.0,52794.0,100.0
+Florida Institute of Technology,Melbourne,Florida,Sunshine State Conference,D2,Q3152650,100.0,Florida Institute of Technology,146900.0,0.7085,1241.0,59433.0,100.0
+Fort Hays State University,Hays,Kansas,Great American Conference,D2,Q591426,100.0,Fort Hays State University,191500.0,0.9135,,18111.0,100.0
+Fort Lewis College,Durango,Colorado,Rocky Mountain Athletic Conference,D2,Q1438597,100.0,Fort Lewis College,135300.0,0.9151,1037.0,23881.0,100.0
+Francis Marion University,Florence,South Carolina,Conference Carolinas,D2,Q1441652,100.0,Francis Marion University,922600.0,0.7525,990.0,21888.0,100.0
+Franklin Pierce University,Rindge,New Hampshire,Northeast-10 Conference,D2,Q5491762,100.0,Franklin Pierce University,257500.0,0.8468,,56500.0,100.0
+Fresno Pacific University,Fresno,California,Pacific West Conference,D2,Q2587376,100.0,Fresno Pacific University,125300.0,0.6694,1019.0,43317.0,100.0
+Frostburg State University,Frostburg,Maryland,Mountain East Conference,D2,Q1470544,100.0,Frostburg State University,207200.0,0.7361,1024.0,24650.0,100.0
+Gannon University,Erie,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q5521430,100.0,Gannon University,326600.0,0.7924,1113.0,46867.0,100.0
+Georgia Southwestern State University,Americus,Georgia,Peach Belt Conference,D2,Q5547746,100.0,Georgia Southwestern State University,157300.0,0.734,1040.0,19125.0,100.0
+Georgian Court University,Lakewood,New Jersey,Central Atlantic Collegiate Conference,D2,Q5548012,100.0,Georgian Court University,260800.0,0.809,1039.0,45458.0,100.0
+Goldey–Beacom College,Pike Creek Valley,Delaware,Central Atlantic Collegiate Conference,D2,Q14685417,100.0,Goldey-Beacom College,142900.0,0.5521,,39197.0,100.0
+Harding University,Searcy,Arkansas,Great American Conference,D2,Q5656138,100.0,Harding University,109700.0,0.5507,1207.0,31647.0,100.0
+Hawai'i Pacific University,Honolulu,Hawai'i,Pacific West Conference,D2,Q1591615,100.0,Hawaii Pacific University,727900.0,0.814,1067.0,47698.0,100.0
+University of Hawai'i at Hilo,Hilo,Hawai'i,Pacific West Conference,D2,Q2150914,100.0,University of Hawaii at Hilo,161100.0,0.7383,1046.0,20440.0,100.0
+Holy Family University,Philadelphia,Pennsylvania,Central Atlantic Collegiate Conference,D2,Q3139537,100.0,Holy Family University,327500.0,0.777,979.0,37020.0,100.0
+University of Illinois at Springfield,Springfield,Illinois,Great Lakes Valley Conference,D2,Q941855,100.0,University of Illinois Springfield,933300.0,0.7733,1107.0,24309.0,100.0
+University of Indianapolis,Indianapolis,Indiana,Great Lakes Valley Conference,D2,Q7895554,100.0,University of Indianapolis,180400.0,0.8448,1076.0,44681.0,100.0
+Kentucky Wesleyan College,Owensboro,Kentucky,Great Midwest Athletic Conference,D2,Q1739079,100.0,Kentucky Wesleyan College,196900.0,0.6019,1083.0,40177.0,100.0
+King University,Bristol,Tennessee,Conference Carolinas,D2,Q6412129,100.0,King University,349600.0,0.6018,1097.0,42662.0,100.0
+Lake Erie College,Painesville,Ohio,Great Midwest Athletic Conference,D2,Q6475778,59.0,Lake Erie College,306600.0,0.6395,1058.0,45740.0,59.0
+Lake Erie College,Painesville,Ohio,Great Midwest Athletic Conference,D2,Q6475778,59.0,Lake Erie College of Osteopathic Medicine,3090800.0,,,,100.0
+Lander University,Greenwood,South Carolina,Peach Belt Conference,D2,Q6484421,100.0,Lander University,343500.0,0.5703,1015.0,24474.0,100.0
+Le Moyne College,Syracuse,New York,Northeast-10 Conference,D2,Q6506386,83.0,Le Moyne College,274800.0,0.7474,1165.0,49194.0,83.0
+Le Moyne College,Syracuse,New York,Northeast-10 Conference,D2,Q6506386,83.0,Le Moyne-Owen College,350100.0,0.638,,18056.0,98.0
+Lee University,Cleveland,Tennessee,Gulf South Conference,D2,Q6515384,100.0,Lee University,350000.0,0.8301,1163.0,31522.0,100.0
+Lees–McRae College,Banner Elk,North Carolina,Conference Carolinas,D2,Q96508227,50.0,Lees-McRae College,293900.0,0.7329,1068.0,43437.0,50.0
+Lenoir–Rhyne University,Hickory,North Carolina,South Atlantic Conference,D2,Q6523054,100.0,Lenoir-Rhyne University,294100.0,0.7662,,50232.0,100.0
+Lewis University,Romeoville,Illinois,Great Lakes Valley Conference,D2,Q6537128,100.0,Lewis University,170700.0,0.6606,1139.0,43255.0,100.0
+Lincoln Memorial University,Harrogate,Tennessee,South Atlantic Conference,D2,Q14710034,100.0,Lincoln Memorial University,350200.0,0.6853,1118.0,36365.0,100.0
+Lubbock Christian University,Lubbock,Texas,Lone Star Conference,D2,Q6695115,100.0,Lubbock Christian University,358600.0,0.9651,1097.0,37198.0,100.0
+Lynn University,Boca Raton,Florida,Sunshine State Conference,D2,Q3269570,100.0,Lynn University,150500.0,0.7868,,55651.0,100.0
+Malone University,Canton,Ohio,Great Midwest Athletic Conference,D2,Q6744514,100.0,Malone University,307200.0,0.7427,1113.0,44743.0,100.0
+Mars Hill University,Mars Hill,North Carolina,South Atlantic Conference,D2,Q6773136,100.0,Mars Hill University,294400.0,0.6729,,45406.0,100.0
+Maryville University,St. Louis,Missouri,Great Lakes Valley Conference,D2,Q6781811,100.0,Maryville University of Saint Louis,248200.0,0.9489,,46850.0,100.0
+McKendree University,Lebanon,Illinois,Great Lakes Valley Conference,D2,Q12061548,100.0,McKendree University,172200.0,0.7008,1107.0,44383.0,100.0
+Mercy College,Dobbs Ferry,New York,East Coast Conference,D2,Q16951582,100.0,Mercy College,277200.0,0.8196,1025.0,29754.0,100.0
+Mercyhurst University,Erie,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q6818830,100.0,Mercyhurst University,329700.0,0.8802,,56266.0,100.0
+Metropolitan State University of Denver,Denver,Colorado,Rocky Mountain Athletic Conference,D2,Q613736,100.0,Metropolitan State University of Denver,136000.0,0.8333,973.0,19975.0,100.0
+Midwestern State University,Wichita Falls,Texas,Lone Star Conference,D2,Q1932075,100.0,Midwestern State University,359200.0,0.7096,1009.0,19972.0,100.0
+Millersville University of Pennsylvania,Millersville,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q6859396,100.0,Millersville University of Pennsylvania,332500.0,0.8455,1095.0,27526.0,100.0
+Mississippi College,Clinton,Mississippi,Gulf South Conference,D2,Q6879096,100.0,Mississippi College,241500.0,0.2876,1218.0,34918.0,100.0
+Missouri University of Science and Technology,Rolla,Missouri,Great Lakes Valley Conference,D2,Q4380853,100.0,Missouri University of Science and Technology,251700.0,0.8146,1328.0,23123.0,100.0
+University of Missouri–St. Louis,St. Louis,Missouri,Great Lakes Valley Conference,D2,Q625103,100.0,University of Missouri-St Louis,251900.0,0.5759,1188.0,24481.0,100.0
+Molloy University,Rockville Centre,New York,East Coast Conference,D2,Q6896481,43.0,Molloy College,277500.0,0.7414,1172.0,46531.0,100.0
+Montana State University Billings,Billings,Montana,Great Northwest Athletic Conference,D2,Q6904332,100.0,Montana State University Billings,253000.0,,,16755.0,100.0
+University of Montevallo,Montevallo,Alabama,Gulf South Conference,D2,Q1698206,100.0,University of Montevallo,100400.0,0.6052,1131.0,26018.0,100.0
+University of New Haven,West Haven,Connecticut,Northeast-10 Conference,D2,Q917899,100.0,Haven University,4274800.0,,,,82.0
+University of New Haven,West Haven,Connecticut,Northeast-10 Conference,D2,Q917899,100.0,University of New Haven,139700.0,0.911,1147.0,58438.0,100.0
+New York Institute of Technology,Old Westbury,New York,East Coast Conference,D2,Q1709596,100.0,New York Institute of Technology,278200.0,0.7468,1190.0,49465.0,100.0
+Newberry College,Newberry,South Carolina,South Atlantic Conference,D2,Q14709596,100.0,Newberry College,344000.0,0.5659,989.0,42320.0,100.0
+Newman University,Wichita,Kansas,Great American Conference,D2,Q4710828,100.0,Newman University,193900.0,0.8308,,41633.0,100.0
+University of North Georgia,Dahlonega,Georgia,Peach Belt Conference,D2,Q7895970,100.0,University of North Georgia,158500.0,0.8145,1097.0,16816.0,100.0
+North Greenville University,Tigerville,South Carolina,Conference Carolinas,D2,Q7055505,100.0,North Greenville University,344100.0,0.6533,1082.0,37771.0,100.0
+Northeastern State University,Tahlequah,Oklahoma,Great American Conference,D2,Q3124195,100.0,Northeastern State University,316100.0,0.9949,1069.0,17889.0,100.0
+Northern Michigan University,Marquette,Michigan,Great Lakes Intercollegiate Athletic Conference,D2,Q624970,100.0,Northern Michigan University,230100.0,0.6689,,23578.0,100.0
+Northwest Nazarene University,Nampa,Idaho,Great Northwest Athletic Conference,D2,Q7060132,100.0,Northwest Nazarene University,162400.0,0.7683,1098.0,42068.0,100.0
+Northwood University,Midland,Michigan,Great Midwest Athletic Conference,D2,Q7060498,100.0,Northwood University,407200.0,0.768,1093.0,41997.0,100.0
+Notre Dame College,South Euclid,Ohio,Mountain East Conference,D2,Q7063389,100.0,Notre Dame College,308500.0,0.8743,,43425.0,100.0
+Nova Southeastern University,Davie,Florida,Sunshine State Conference,D2,Q1798499,100.0,Nova Southeastern University,150900.0,0.7624,1145.0,50429.0,100.0
+Ohio Dominican University,Columbus,Ohio,Great Midwest Athletic Conference,D2,Q7080808,100.0,Ohio Dominican University,303500.0,0.495,,42524.0,100.0
+Oklahoma Baptist University,Shawnee,Oklahoma,Great American Conference,D2,Q367774,100.0,Oklahoma Baptist University,316400.0,0.5821,1138.0,42983.0,100.0
+Oklahoma Christian University,Oklahoma City,Oklahoma,Lone Star Conference,D2,Q7082127,100.0,Oklahoma Christian University,316500.0,0.6121,1162.0,37015.0,100.0
+Ouachita Baptist University,Arkadelphia,Arkansas,Great American Conference,D2,Q7110141,100.0,Ouachita Baptist University,110200.0,0.6177,1203.0,40200.0,100.0
+Palm Beach Atlantic University,West Palm Beach,Florida,Sunshine State Conference,D2,Q7127976,100.0,Palm Beach Atlantic University,884900.0,0.9171,1127.0,49839.0,100.0
+Pennsylvania Western University California,California,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q5021159,100.0,California University of Pennsylvania,331600.0,0.9432,1024.0,25716.0,100.0
+University of Pittsburgh at Johnstown,Johnstown,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q7896148,100.0,University of Pittsburgh-Johnstown,337902.0,0.6818,1290.0,27031.0,100.0
+Point Loma Nazarene University,San Diego,California,Pacific West Conference,D2,Q7208069,100.0,Point Loma Nazarene University,126200.0,0.8355,1210.0,53045.0,100.0
+Post University,Waterbury,Connecticut,Central Atlantic Collegiate Conference,D2,Q4374296,100.0,Post University,140100.0,,,30161.0,100.0
+Purdue University Northwest,Hammond,Indiana,Great Lakes Intercollegiate Athletic Conference,D2,Q20709782,100.0,Purdue University Northwest,182700.0,0.3028,1071.0,17408.0,100.0
+Queens College,Flushing,New York,East Coast Conference,D2,Q1760438,100.0,CUNY Queens College,269000.0,0.5349,1122.0,13768.0,100.0
+Quincy University,Quincy,Illinois,Great Lakes Valley Conference,D2,Q7272195,100.0,Quincy University,174500.0,0.6713,1106.0,41831.0,100.0
+Regis University,Denver,Colorado,Rocky Mountain Athletic Conference,D2,Q649299,100.0,Regis University,136300.0,0.782,1143.0,51593.0,100.0
+Regis University,Denver,Colorado,Rocky Mountain Athletic Conference,D2,Q649299,100.0,Regis College,220600.0,0.8408,,61605.0,100.0
+Regis University,Denver,Colorado,Rocky Mountain Athletic Conference,D2,Q649299,100.0,Denver College of Nursing,4148300.0,,,,55.0
+Roberts Wesleyan College,North Chili,New York,East Coast Conference,D2,Q7352053,100.0,Roberts Wesleyan College,280500.0,0.7581,1146.0,45599.0,100.0
+Rockhurst University,Kansas City,Missouri,Great Lakes Valley Conference,D2,Q5594651,100.0,Rockhurst University,249900.0,0.7289,1167.0,53221.0,100.0
+Rogers State University,Claremore,Oklahoma,Great American Conference,D2,Q13582663,100.0,Eastern Oklahoma State College,315500.0,,,12523.0,64.0
+Rogers State University,Claremore,Oklahoma,Great American Conference,D2,Q13582663,100.0,Rogers State University,316800.0,,,20029.0,100.0
+Rollins College,Winter Park,Florida,Sunshine State Conference,D2,Q2164222,100.0,Rollins College,151500.0,0.6081,,66805.0,100.0
+Saginaw Valley State University,University Center,Michigan,Great Lakes Intercollegiate Athletic Conference,D2,Q7399281,100.0,Saginaw Valley State University,231400.0,0.8946,1086.0,22353.0,100.0
+Saint Anselm College,Goffstown,New Hampshire,Northeast-10 Conference,D2,Q3463654,100.0,Saint Anselm College,258700.0,0.7615,1230.0,61163.0,100.0
+St. Cloud State University,St. Cloud,Minnesota,Northern Sun Intercollegiate Conference,D2,Q1136874,100.0,Saint Cloud State University,237700.0,0.7322,1087.0,19635.0,100.0
+Saint Leo University,St. Leo,Florida,Sunshine State Conference,D2,Q892503,100.0,Saint Leo University,152600.0,0.73,,38890.0,100.0
+Saint Martin's University,Lacey,Washington,Great Northwest Athletic Conference,D2,Q7401787,100.0,Saint Martin's University,379400.0,0.9419,1043.0,52603.0,100.0
+St. Mary's University,San Antonio,Texas,Lone Star Conference,D2,Q1255772,100.0,Saint Mary's College,183600.0,0.8151,1189.0,58956.0,100.0
+St. Mary's University,San Antonio,Texas,Lone Star Conference,D2,Q1255772,100.0,College of Saint Mary,254000.0,0.5,,31250.0,93.0
+St. Mary's University,San Antonio,Texas,Lone Star Conference,D2,Q1255772,100.0,St. Mary's University,362300.0,0.8543,1127.0,42354.0,100.0
+Saint Michael's College,Colchester,Vermont,Northeast-10 Conference,D2,Q2212983,100.0,Saint Michael's College,369400.0,0.8781,,61892.0,100.0
+College of Saint Rose,Albany,New York,Northeast-10 Conference,D2,Q7726778,100.0,The College of Saint Rose,270500.0,0.8188,,48125.0,100.0
+St. Thomas Aquinas College,Sparkill,New York,East Coast Conference,D2,Q7591912,100.0,St. Thomas Aquinas College,283200.0,0.8684,1036.0,47572.0,100.0
+Salem University,Salem,West Virginia,Independent,D2,Q7404130,100.0,Salem University,382000.0,,,27336.0,100.0
+San Francisco State University,San Francisco,California,California Collegiate Athletic Association,D2,Q1256981,100.0,San Francisco State University,115400.0,0.8409,1030.0,24513.0,100.0
+Seattle Pacific University,Seattle,Washington,Great Northwest Athletic Conference,D2,Q2904851,100.0,Seattle Pacific University,378800.0,0.9062,1109.0,60834.0,100.0
+Seattle Pacific University,Seattle,Washington,Great Northwest Athletic Conference,D2,Q2904851,100.0,University of Washington-Seattle Campus,379800.0,0.5973,1306.0,26825.0,67.0
+Seton Hill University,Greensburg,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q1949773,100.0,Seton Hill University,336200.0,0.7867,,50395.0,100.0
+Shaw University,Raleigh,North Carolina,Independent,D2,Q3443493,100.0,Shaw University,296200.0,0.7056,,29686.0,100.0
+Shepherd University,Shepherdstown,West Virginia,Pennsylvania State Athletic Conference,D2,Q7494490,100.0,Shepherd University,382200.0,0.977,,17759.0,100.0
+Shepherd University,Shepherdstown,West Virginia,Pennsylvania State Athletic Conference,D2,Q7494490,100.0,Shepherds College,4193800.0,0.9592,,,97.0
+Shippensburg University of Pennsylvania,Shippensburg,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q7498066,100.0,Shippensburg University of Pennsylvania,332600.0,0.9392,1042.0,29182.0,100.0
+Shorter University,Rome,Georgia,Gulf South Conference,D2,Q7502154,100.0,Shorter University,159100.0,0.7093,1071.0,34403.0,100.0
+Simon Fraser University,Burnaby,British Columbia,Great Northwest Athletic Conference,D2,Q201603,100.0,,,,,,
+Slippery Rock University of Pennsylvania,Slippery Rock,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q1799642,100.0,Slippery Rock University of Pennsylvania,332700.0,0.7398,1075.0,24600.0,100.0
+Sonoma State University,Rohnert Park,California,California Collegiate Athletic Association,D2,Q624571,100.0,Sonoma State University,115600.0,0.8912,1050.0,26537.0,100.0
+University of South Carolina Aiken,Aiken,South Carolina,Peach Belt Conference,D2,Q7896316,100.0,University of South Carolina Aiken,344900.0,0.5588,1062.0,20735.0,100.0
+South Dakota School of Mines and Technology,Rapid City,South Dakota,Rocky Mountain Athletic Conference,D2,Q7566983,100.0,South Dakota School of Mines and Technology,347000.0,0.8555,1266.0,25078.0,100.0
+Southern Connecticut State University,New Haven,Connecticut,Northeast-10 Conference,D2,Q1253123,100.0,Southern Connecticut State University,140600.0,0.7968,,25413.0,100.0
+Southern Nazarene University,Bethany,Oklahoma,Great American Conference,D2,Q7570171,100.0,Southern Nazarene University,314900.0,,,38327.0,100.0
+Southern New Hampshire University,Manchester,New Hampshire,Northeast-10 Conference,D2,Q3445256,100.0,Southern New Hampshire University,258000.0,0.9354,,50505.0,100.0
+Southern Wesleyan University,Central,South Carolina,Conference Carolinas,D2,Q5220742,100.0,Southern Wesleyan University,342200.0,0.5575,1079.0,35949.0,100.0
+Southwest Baptist University,Bolivar,Missouri,Great Lakes Valley Conference,D2,Q7571224,100.0,Southwest Baptist University,250200.0,0.7335,1110.0,35243.0,100.0
+Spring Hill College,Mobile,Alabama,Gulf South Conference,D2,Q5591503,100.0,Spring Hill College,104100.0,0.5416,1125.0,55844.0,100.0
+College of Staten Island,Staten Island,New York,East Coast Conference,D2,Q5146845,100.0,College of Staten Island CUNY,269800.0,,,15176.0,100.0
+University of Tampa,Tampa,Florida,Sunshine State Conference,D2,Q751289,100.0,The University of Tampa,153800.0,0.5551,1174.0,46341.0,100.0
+Texas A&M International University,Laredo,Texas,Lone Star Conference,D2,Q7707466,100.0,Texas A & M International University,965100.0,0.5893,995.0,13408.0,100.0
+University of Texas Permian Basin,Odessa,Texas,Lone Star Conference,D2,Q2495935,100.0,The University of Texas Permian Basin,993000.0,0.879,1015.0,17323.0,96.0
+University of Texas at Tyler,Tyler,Texas,Lone Star Conference,D2,Q212528,100.0,The University of Texas at Tyler,1116300.0,0.9163,1135.0,20730.0,93.0
+Thomas Jefferson University,Philadelphia,Pennsylvania,Central Atlantic Collegiate Conference,D2,Q2471216,100.0,Jefferson College,246800.0,,,12752.0,81.0
+Thomas Jefferson University,Philadelphia,Pennsylvania,Central Atlantic Collegiate Conference,D2,Q2471216,100.0,Thomas Jefferson University,1239300.0,0.6984,1179.0,60290.0,100.0
+Thomas More University,Crestview Hills,Kentucky,Great Midwest Athletic Conference,D2,Q7792539,100.0,Thomas More University,200100.0,0.9191,,42003.0,100.0
+Tiffin University,Tiffin,Ohio,Great Midwest Athletic Conference,D2,Q13311081,100.0,Tiffin University,312100.0,0.6247,,41055.0,100.0
+Trevecca Nazarene University,Nashville,Tennessee,Great Midwest Athletic Conference,D2,Q7838935,100.0,Trevecca Nazarene University,352600.0,0.6283,1138.0,34473.0,100.0
+Truman State University,Kirksville,Missouri,Great Lakes Valley Conference,D2,Q7847734,100.0,Truman State University,249500.0,0.721,1278.0,21640.0,100.0
+Tusculum College,Greeneville,Tennessee,South Atlantic Conference,D2,Q4564294,100.0,Tusculum University,352700.0,0.6715,1067.0,39440.0,46.0
+Union University,Jackson,Tennessee,Gulf South Conference,D2,Q931442,100.0,Union University,352800.0,0.5753,1242.0,54324.0,100.0
+Upper Iowa University,Fayette,Iowa,Great Lakes Valley Conference,D2,Q7898705,100.0,Upper Iowa University,189300.0,0.653,1035.0,45237.0,100.0
+Walsh University,North Canton,Ohio,Great Midwest Athletic Conference,D2,Q3444269,100.0,Walsh College,407100.0,,,,100.0
+Walsh University,North Canton,Ohio,Great Midwest Athletic Conference,D2,Q3444269,100.0,Walsh University,313500.0,0.7656,1126.0,42869.0,100.0
+University of West Alabama,Livingston,Alabama,Gulf South Conference,D2,Q637346,100.0,University of West Alabama,102400.0,0.9313,1035.0,22645.0,100.0
+West Chester University,West Chester,Pennsylvania,Pennsylvania State Athletic Conference,D2,Q3443893,100.0,West Chester University of Pennsylvania,332800.0,0.8625,1100.0,26114.0,100.0
+University of West Florida,Pensacola,Florida,Gulf South Conference,D2,Q659255,100.0,The University of West Florida,395500.0,0.5756,1168.0,17716.0,93.0
+West Liberty University,West Liberty,West Virginia,Mountain East Conference,D2,Q7985746,100.0,West Liberty University,382300.0,0.6844,1039.0,22361.0,100.0
+West Texas A&M University,Canyon,Texas,Lone Star Conference,D2,Q7986651,100.0,West Texas A & M University,366500.0,0.5825,1046.0,20456.0,100.0
+West Virginia Wesleyan College,Buckhannon,West Virginia,Mountain East Conference,D2,Q12010547,100.0,West Virginia Wesleyan College,383000.0,0.6572,1020.0,46187.0,100.0
+Western Washington University,Bellingham,Washington,Great Northwest Athletic Conference,D2,Q284777,100.0,Western Washington University,380200.0,0.9351,1184.0,24465.0,100.0
+Westminster College,Salt Lake City,Utah,Rocky Mountain Athletic Conference,D2,Q5407122,100.0,Westminster College,252300.0,0.9743,1136.0,44500.0,100.0
+Westminster College,Salt Lake City,Utah,Rocky Mountain Athletic Conference,D2,Q5407122,100.0,Westminster College,339200.0,0.7651,,49932.0,100.0
+Westminster College,Salt Lake City,Utah,Rocky Mountain Athletic Conference,D2,Q5407122,100.0,Westminster College,368100.0,0.8745,1205.0,49060.0,100.0
+Westmont College,Santa Barbara,California,Pacific West Conference,D2,Q3444458,100.0,Westmont College,134100.0,0.7016,1259.0,64240.0,100.0
+Wheeling University,Wheeling,West Virginia,Mountain East Conference,D2,Q2566683,100.0,Wheeling University,383100.0,0.7682,1009.0,41651.0,100.0
+William Jewell College,Liberty,Missouri,Great Lakes Valley Conference,D2,Q3307837,100.0,William Jewell College,252400.0,0.364,1168.0,49150.0,100.0
+Wilmington University,New Castle,Delaware,Central Atlantic Collegiate Conference,D2,Q13564053,100.0,Wilmington University,794800.0,,,18524.0,100.0
+Wingate University,Wingate,North Carolina,South Atlantic Conference,D2,Q8025153,100.0,Wingate University,298500.0,0.7327,,49769.0,100.0
+University of Wisconsin–Parkside,Kenosha,Wisconsin,Great Lakes Valley Conference,D2,Q2590739,100.0,University of Wisconsin-Parkside,501500.0,0.6631,1050.0,16320.0,100.0
+Young Harris College,Young Harris,Georgia,Conference Carolinas,D2,Q14686966,100.0,Young Harris College,160400.0,0.6503,1065.0,44203.0,100.0
+Agnes Scott College,Decatur,Georgia,Collegiate Conference of the South,D3,Q2826926,100.0,Agnes Scott College,154200.0,0.6752,,55403.0,100.0
+Albion College,Albion,Michigan,Michigan Intercollegiate Athletic Association,D3,Q2831920,100.0,Albion College,223500.0,0.7444,1062.0,62041.0,100.0
+Albright College,Reading,Pennsylvania,MAC Commonwealth,D3,Q4564494,100.0,Albright College,322900.0,0.821,,40300.0,100.0
+Alfred University,Alfred,New York,Empire 8,D3,Q3446091,100.0,Alfred University,266800.0,0.6411,1102.0,50643.0,100.0
+Allegheny College,Meadville,Pennsylvania,Presidents' Athletic Conference,D3,Q4062566,100.0,Allegheny College,323000.0,0.7315,1260.0,64901.0,100.0
+Alma College,Alma,Michigan,Michigan Intercollegiate Athletic Association,D3,Q4733528,100.0,Alma College,223600.0,0.6673,,55662.0,100.0
+Alvernia University,Reading,Pennsylvania,MAC Commonwealth,D3,Q4737977,100.0,Alvernia University,323300.0,0.7002,,49990.0,100.0
+Alverno College,Milwaukee,Wisconsin,Northern Athletics Collegiate Conference,D3,Q4737981,100.0,Alverno College,383200.0,0.7823,,40724.0,100.0
+Amherst College,Amherst,Massachusetts,New England Small College Athletic Conference,D3,Q49165,100.0,Amherst College,211500.0,0.1183,1497.0,76750.0,100.0
+Anderson University,Anderson,Indiana,Heartland Collegiate Athletic Conference,D3,Q4754215,100.0,Anderson University,178500.0,0.665,1071.0,44342.0,100.0
+Anderson University,Anderson,Indiana,Heartland Collegiate Athletic Conference,D3,Q4754215,100.0,Anderson University,341800.0,0.592,,44481.0,100.0
+Anna Maria College,Paxton,Massachusetts,Great Northeast Athletic Conference,D3,Q4767291,100.0,Anna Maria College,211700.0,0.8607,,52919.0,100.0
+Arcadia University,Glenside,Pennsylvania,MAC Freedom,D3,Q4785174,100.0,Arcadia University,323500.0,0.7363,1138.0,59684.0,100.0
+Asbury University,Wilmore,Kentucky,Independent,D3,Q4803762,100.0,Asbury University,195200.0,0.7515,1203.0,42462.0,100.0
+Augsburg University,Minneapolis,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q616905,100.0,Augsburg University,233400.0,0.7312,1050.0,54069.0,100.0
+Augustana College,Rock Island,Illinois,College Conference of Illinois and Wisconsin,D3,Q3298337,100.0,Augustana College,163300.0,0.5735,,55924.0,100.0
+Aurora University,Aurora,Illinois,Northern Athletics Collegiate Conference,D3,Q777323,100.0,Aurora University,163400.0,0.8395,1066.0,35658.0,100.0
+Austin College,Sherman,Texas,Southern Collegiate Athletic Conference,D3,Q4823037,100.0,Austin College,354300.0,0.4928,1220.0,56377.0,100.0
+Averett University,Danville,Virginia,Old Dominion Athletic Conference,D3,Q4828300,100.0,Averett University,370200.0,0.6768,984.0,47321.0,100.0
+Baldwin Wallace University,Berea,Ohio,Ohio Athletic Conference,D3,Q1805202,100.0,Baldwin Wallace University,301400.0,0.6982,1176.0,48655.0,100.0
+Bard College,Annandale-on-Hudson,New York,Liberty League,D3,Q49109,100.0,Bard College,267100.0,0.5741,,74464.0,100.0
+Baruch College,New York,New York,City University of New York Athletic Conference,D3,Q809633,100.0,CUNY Bernard M Baruch College,727300.0,0.4071,1268.0,13569.0,91.0
+Bates College,Lewiston,Maine,New England Small College Athletic Conference,D3,Q810771,100.0,Bates College,203600.0,0.141,,73538.0,100.0
+Belhaven University,Jackson,Mississippi,Collegiate Conference of the South,D3,Q4882717,100.0,Belhaven University,239700.0,0.4954,1083.0,35975.0,100.0
+Beloit College,Beloit,Wisconsin,Midwest Conference,D3,Q2904557,100.0,Beloit College,383500.0,0.5834,,63398.0,100.0
+Benedictine University,Lisle,Illinois,Northern Athletics Collegiate Conference,D3,Q4887352,100.0,Benedictine University,176700.0,0.6099,1097.0,46006.0,100.0
+Berea College,Berea,Kentucky,Collegiate Conference of the South,D3,Q846859,100.0,Berea College,195500.0,0.3296,1189.0,54866.0,100.0
+Berry College,Mount Berry,Georgia,Southern Athletic Association,D3,Q4894781,100.0,Berry College,155400.0,0.7722,,52966.0,100.0
+Bethany College,Bethany,West Virginia,Presidents' Athletic Conference,D3,Q4897730,100.0,Bethany College,190400.0,0.6832,1035.0,49294.0,100.0
+Bethany College,Bethany,West Virginia,Presidents' Athletic Conference,D3,Q4897730,100.0,Bethany College,380800.0,0.9184,989.0,45570.0,100.0
+Bethany Lutheran College,Mankato,Minnesota,Upper Midwest Athletic Conference,D3,Q4897766,100.0,Bethany Lutheran College,233700.0,0.6451,,38528.0,100.0
+Bethel University,Arden Hills,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q3445045,100.0,Bethel University,178700.0,0.9279,,40149.0,100.0
+Bethel University,Arden Hills,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q3445045,100.0,Bethel University,905800.0,0.8663,1203.0,52723.0,100.0
+Bethel University,Arden Hills,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q3445045,100.0,Bethel University,348000.0,0.7612,998.0,30992.0,100.0
+Birmingham–Southern College,Birmingham,Alabama,Southern Athletic Association,D3,Q4916871,100.0,Birmingham-Southern College,101200.0,0.6045,1202.0,32514.0,100.0
+Blackburn College,Carlinville,Illinois,St. Louis Intercollegiate Athletic Conference,D3,Q4922668,100.0,Blackburn College,163900.0,0.5518,1006.0,32584.0,100.0
+Bluffton University,Bluffton,Ohio,Heartland Collegiate Athletic Conference,D3,Q886141,100.0,Bluffton University,301600.0,0.6051,,48205.0,100.0
+Bob Jones University,Greenville,South Carolina,Independent,D3,Q2740389,100.0,Bob Jones University,342100.0,,,28498.0,100.0
+Bowdoin College,Brunswick,Maine,New England Small College Athletic Conference,D3,Q895401,100.0,Bowdoin College,203800.0,0.0916,,73800.0,100.0
+Brandeis University,Waltham,Massachusetts,University Athletic Association,D3,Q49119,100.0,Brandeis University,213300.0,0.334,1424.0,76044.0,100.0
+Brevard College,Brevard,North Carolina,USA South Athletic Conference,D3,Q4962514,75.0,Brevard College,291200.0,0.4524,,43036.0,75.0
+Bridgewater College,Bridgewater,Virginia,Old Dominion Athletic Conference,D3,Q3446076,86.0,Bridgewater State University,218300.0,0.8231,1049.0,23845.0,100.0
+Bridgewater College,Bridgewater,Virginia,Old Dominion Athletic Conference,D3,Q3446076,86.0,Bridgewater College,370400.0,0.7614,1082.0,51725.0,86.0
+Bridgewater State University,Bridgewater,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,Q3446076,100.0,Bridgewater State University,218300.0,0.8231,1049.0,23845.0,100.0
+Bridgewater State University,Bridgewater,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,Q3446076,100.0,Bridgewater College,370400.0,0.7614,1082.0,51725.0,86.0
+Brooklyn College,Brooklyn,New York,City University of New York Athletic Conference,D3,Q371625,100.0,CUNY Brooklyn College,268700.0,0.4974,1105.0,13802.0,86.0
+Bryn Mawr College,Bryn Mawr,Pennsylvania,Centennial Conference,D3,Q995265,100.0,Bryn Mawr College,323700.0,0.3836,,73540.0,100.0
+Buena Vista University,Storm Lake,Iowa,American Rivers Conference,D3,Q4985470,100.0,Buena Vista University,184700.0,0.5568,,48297.0,100.0
+Buffalo State College,Buffalo,New York,State University of New York Athletic Conference,D3,Q4570064,100.0,SUNY Buffalo State,284200.0,0.8007,960.0,23111.0,84.0
+Cairn University,Langhorne,Pennsylvania,Colonial States Athletic Conference,D3,Q5017672,100.0,,,,,,
+California Institute of Technology,Pasadena,California,Southern California Intercollegiate Athletic Conference,D3,Q161562,100.0,California Institute of Technology,113100.0,0.0669,1566.0,74763.0,100.0
+California Lutheran University,Thousand Oaks,California,Southern California Intercollegiate Athletic Conference,D3,Q1026831,100.0,California Lutheran University,113300.0,0.7439,1159.0,60668.0,100.0
+"University of California, Santa Cruz",Santa Cruz,California,Coast to Coast Athletic Conference,D3,Q7895186,72.0,University of California-Santa Cruz,132100.0,0.6473,1284.0,35925.0,72.0
+Calvin University,Grand Rapids,Michigan,Michigan Intercollegiate Athletic Association,D3,Q482731,100.0,Calvin University,224100.0,0.7321,1229.0,50191.0,100.0
+Capital University,Bexley,Ohio,Ohio Athletic Conference,D3,Q5035685,100.0,Capital University,302300.0,0.7406,,47719.0,100.0
+Carleton College,Northfield,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q1041671,100.0,Carleton College,234000.0,0.2118,1438.0,74275.0,100.0
+Carleton College,Northfield,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q1041671,100.0,CES College,3695300.0,,,,74.0
+Carnegie Mellon University,Pittsburgh,Pennsylvania,University Athletic Association,D3,Q190080,100.0,Carnegie Mellon University,324200.0,0.1727,1513.0,74489.0,100.0
+Carroll University,Waukesha,Wisconsin,College Conference of Illinois and Wisconsin,D3,Q1045167,100.0,Carroll College,252600.0,0.7302,1199.0,50675.0,100.0
+Carroll University,Waukesha,Wisconsin,College Conference of Illinois and Wisconsin,D3,Q1045167,100.0,Carroll University,383800.0,0.7177,1165.0,45227.0,100.0
+Carthage College,Kenosha,Wisconsin,College Conference of Illinois and Wisconsin,D3,Q3298369,100.0,Carthage College,383900.0,0.7663,1148.0,59175.0,100.0
+Case Western Reserve University,Cleveland,Ohio,University Athletic Association,D3,Q1047060,100.0,Case Western Reserve University,302400.0,0.3027,1445.0,69526.0,100.0
+Castleton University,Castleton,Vermont,Little East Conference,D3,Q1049687,100.0,Castleton University,368300.0,0.8831,1036.0,24841.0,100.0
+Catholic University of America,Washington,District of Columbia,Landmark Conference,D3,Q179036,100.0,The Catholic University of America,143700.0,0.8223,,65857.0,100.0
+Cazenovia College,Cazenovia,New York,North Atlantic Conference,D3,Q5055525,100.0,Cazenovia College,268500.0,0.7218,1003.0,51761.0,100.0
+Centenary College of Louisiana,Shreveport,Louisiana,Southern Collegiate Athletic Conference,D3,Q5059076,100.0,Centenary College of Louisiana,200300.0,0.6369,1191.0,55300.0,100.0
+Centenary University,Hackettstown,New Jersey,Colonial States Athletic Conference,D3,Q1054905,65.0,Morgan State University,208300.0,0.7359,988.0,23254.0,100.0
+Centenary University,Hackettstown,New Jersey,Colonial States Athletic Conference,D3,Q1054905,65.0,Centenary University,259900.0,0.93,997.0,44856.0,65.0
+Central College,Pella,Iowa,American Rivers Conference,D3,Q5060595,100.0,Central College,185000.0,0.6368,1116.0,53402.0,100.0
+Centre College,Danville,Kentucky,Southern Athletic Association,D3,Q1804942,100.0,Centre College,196100.0,0.7208,1325.0,56645.0,100.0
+Chapman University,Orange,California,Southern California Intercollegiate Athletic Conference,D3,Q1805085,100.0,Chapman University,116400.0,0.5826,1275.0,74336.0,100.0
+Chatham University,Pittsburgh,Pennsylvania,Presidents' Athletic Conference,D3,Q5087708,100.0,Chatham University,324400.0,0.6619,,52968.0,100.0
+University of Chicago,Chicago,Illinois,University Athletic Association,D3,Q131252,100.0,University of Chicago,177400.0,0.0731,1537.0,81531.0,100.0
+Christopher Newport University,Newport News,Virginia,Coast to Coast Athletic Conference,D3,Q3444675,100.0,Christopher Newport University,370600.0,0.7642,,31733.0,100.0
+City College of New York,New York,New York,City University of New York Athletic Conference,D3,Q1093910,100.0,CUNY City College,268800.0,0.5054,1164.0,13667.0,83.0
+Clark University,Worcester,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q1095773,100.0,Clark University,213900.0,0.4713,1271.0,58153.0,100.0
+Clarkson University,Potsdam,New York,Liberty League,D3,Q931865,100.0,Clarkson College,986200.0,0.5686,,24917.0,100.0
+Clarkson University,Potsdam,New York,Liberty League,D3,Q931865,100.0,Clarkson University,269900.0,0.7799,1259.0,69456.0,100.0
+Coe College,Cedar Rapids,Iowa,American Rivers Conference,D3,Q5140489,100.0,Coe College,185400.0,0.7986,,58857.0,100.0
+Colby College,Waterville,Maine,New England Small College Athletic Conference,D3,Q1075116,100.0,Colby College,203900.0,0.1027,1456.0,73600.0,100.0
+Colorado College,Colorado Springs,Colorado,Southern Collegiate Athletic Conference,D3,Q1111261,100.0,Colorado College,134700.0,0.136,,74760.0,100.0
+Concordia College,Moorhead,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q5142951,100.0,Concordia College,270900.0,0.9529,1053.0,44662.0,100.0
+Concordia University Chicago,River Forest,Illinois,Northern Athletics Collegiate Conference,D3,Q5159004,100.0,Concordia University-Chicago,166600.0,0.7854,1099.0,42750.0,100.0
+Concordia University Texas,Austin,Texas,American Southwest Conference,D3,Q2992101,100.0,Concordia University Texas,355700.0,0.9295,1086.0,47251.0,100.0
+Concordia University Wisconsin,Mequon,Wisconsin,Northern Athletics Collegiate Conference,D3,Q5159009,100.0,Concordia University-Wisconsin,384200.0,0.6727,1138.0,45936.0,100.0
+Connecticut College,New London,Connecticut,New England Small College Athletic Conference,D3,Q1797448,100.0,Connecticut College,137900.0,0.3772,1400.0,74590.0,100.0
+Cornell College,Mount Vernon,Iowa,Midwest Conference,D3,Q5171517,100.0,Cornell College,185600.0,0.8241,1224.0,58201.0,100.0
+Covenant College,Lookout Mountain,Georgia,Collegiate Conference of the South,D3,Q5178987,100.0,Covenant College,348400.0,0.9755,1209.0,49420.0,100.0
+Crown College,St. Bonifacius,Minnesota,Upper Midwest Athletic Conference,D3,Q5189332,100.0,Crown College,238300.0,0.4689,1063.0,41227.0,100.0
+University of Dallas,Irving,Texas,Southern Collegiate Athletic Conference,D3,Q3551578,100.0,University of Dallas,365100.0,0.5378,1251.0,58050.0,100.0
+Dean College,Franklin,Massachusetts,Great Northeast Athletic Conference,D3,Q7984930,83.0,Dean College,214400.0,0.7052,,59018.0,83.0
+Delaware Valley University,Doylestown,Pennsylvania,MAC Freedom,D3,Q15213548,100.0,Delaware Valley University,325200.0,0.9158,1052.0,56828.0,100.0
+Denison University,Granville,Ohio,North Coast Athletic Conference,D3,Q4493503,100.0,Denison University,304200.0,0.2817,1350.0,69128.0,100.0
+DePauw University,Greencastle,Indiana,North Coast Athletic Conference,D3,Q1179599,100.0,DePauw University,179200.0,0.6849,1235.0,66946.0,100.0
+DeSales University,Center Valley,Pennsylvania,MAC Freedom,D3,Q5244080,100.0,DeSales University,398600.0,0.8177,1139.0,54300.0,100.0
+Dickinson College,Carlisle,Pennsylvania,Centennial Conference,D3,Q1210045,100.0,Dickinson College,325300.0,0.5165,,73650.0,100.0
+Dominican University,River Forest,Illinois,Northern Athletics Collegiate Conference,D3,Q5290854,100.0,Dominican University,175000.0,0.7646,1072.0,43228.0,100.0
+Drew University,Madison,New Jersey,Landmark Conference,D3,Q1795487,100.0,Drew University,260300.0,0.7315,,58116.0,100.0
+University of Dubuque,Dubuque,Iowa,American Rivers Conference,D3,Q5311189,67.0,University of Dubuque,189100.0,0.7863,1010.0,47188.0,67.0
+Earlham College,Richmond,Indiana,Heartland Collegiate Athletic Conference,D3,Q5326502,100.0,Earlham College,179300.0,0.591,1236.0,61156.0,100.0
+East Texas Baptist University,Marshall,Texas,American Southwest Conference,D3,Q5329516,100.0,East Texas Baptist University,356400.0,0.9207,,38749.0,100.0
+Eastern Connecticut State University,Willimantic,Connecticut,Little East Conference,D3,Q1278152,100.0,Eastern Connecticut State University,142500.0,0.697,,27425.0,100.0
+Eastern Mennonite University,Harrisonburg,Virginia,Old Dominion Athletic Conference,D3,Q1278210,100.0,Eastern Mennonite University,370800.0,0.7182,1129.0,51275.0,100.0
+Eastern Nazarene College,Quincy,Massachusetts,New England Collegiate Conference(North Atlantic Conference in 2023),D3,Q3046576,100.0,Eastern Nazarene College,214500.0,0.6438,1030.0,41194.0,100.0
+Eastern University,St. Davids,Pennsylvania,MAC Commonwealth,D3,Q5330550,100.0,Eastern University,325900.0,0.6425,1104.0,48828.0,100.0
+Edgewood College,Madison,Wisconsin,Northern Athletics Collegiate Conference,D3,Q5337885,100.0,Edgewood College,384800.0,0.912,,44826.0,100.0
+Elizabethtown College,Elizabethtown,Pennsylvania,Landmark Conference,D3,Q5363873,100.0,Elizabethtown College,326200.0,0.8573,1176.0,44978.0,100.0
+Elms College,Chicopee,Massachusetts,Great Northeast Athletic Conference,D3,Q5366900,100.0,College of Our Lady of the Elms,214000.0,0.6978,1087.0,50266.0,100.0
+Emerson College,Boston,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q1335573,100.0,Emerson College,214600.0,0.4105,1302.0,72119.0,100.0
+Emmanuel College,Boston,Massachusetts,Great Northeast Athletic Conference,D3,Q3052646,100.0,Emmanuel College,156300.0,0.5275,1005.0,31589.0,100.0
+Emmanuel College,Boston,Massachusetts,Great Northeast Athletic Conference,D3,Q3052646,100.0,Emmanuel College,214700.0,0.7552,1202.0,58787.0,100.0
+Emory University,Atlanta,Georgia,University Athletic Association,D3,Q621043,100.0,Emory University,156400.0,0.2103,1454.0,72604.0,100.0
+Endicott College,Beverly,Massachusetts,Commonwealth Coast Conference,D3,Q5376124,100.0,Endicott College,214800.0,0.704,,52642.0,100.0
+Eureka College,Eureka,Illinois,St. Louis Intercollegiate Athletic Conference,D3,Q5411163,100.0,Eureka College,167800.0,0.6136,1026.0,37986.0,100.0
+Ferrum College,Ferrum,Virginia,Old Dominion Athletic Conference,D3,Q5445466,100.0,Ferrum College,371100.0,0.7583,979.0,50084.0,100.0
+Finlandia University,Hancock,Michigan,Coast to Coast Athletic Conference,D3,Q1742604,79.0,Finlandia University,232200.0,0.83,,34832.0,79.0
+Fitchburg State University,Fitchburg,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,Q4982087,100.0,Fitchburg State University,218400.0,0.8799,,22881.0,100.0
+Fontbonne University,St. Louis,Missouri,St. Louis Intercollegiate Athletic Conference,D3,Q5465153,100.0,Fontbonne University,246400.0,0.8536,1050.0,40906.0,100.0
+Framingham State University,Framingham,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,Q4982077,100.0,Framingham State University,218500.0,0.7853,1044.0,25810.0,100.0
+Franciscan University of Steubenville,Steubenville,Ohio,Presidents' Athletic Conference,D3,Q5483039,100.0,Franciscan University of Steubenville,303600.0,0.73,1204.0,39788.0,100.0
+Franklin & Marshall College,Lancaster,Pennsylvania,Centennial Conference,D3,Q664881,100.0,Franklin and Marshall College,326500.0,0.365,,75720.0,100.0
+Franklin College,Franklin,Indiana,Heartland Collegiate Athletic Conference,D3,Q5491369,100.0,Franklin College,179800.0,0.7607,1076.0,46533.0,100.0
+Gallaudet University,Washington,District of Columbia,United East Conference,D3,Q1056373,100.0,Gallaudet University,144300.0,0.6262,904.0,38892.0,100.0
+Geneva College,Beaver Falls,Pennsylvania,Presidents' Athletic Conference,D3,Q5532987,100.0,Geneva College,326700.0,0.7314,,38941.0,100.0
+George Fox University,Newberg,Oregon,Northwest Conference,D3,Q5539406,100.0,George Fox University,319400.0,0.9091,1138.0,51439.0,100.0
+Gettysburg College,Gettysburg,Pennsylvania,Centennial Conference,D3,Q1520129,100.0,Gettysburg College,326800.0,0.4824,,71850.0,100.0
+Gordon College,Wenham,Massachusetts,Commonwealth Coast Conference,D3,Q5585003,100.0,Gordon State College,157500.0,0.7878,986.0,15024.0,100.0
+Gordon College,Wenham,Massachusetts,Commonwealth Coast Conference,D3,Q5585003,100.0,Gordon College,215300.0,0.6827,1159.0,51869.0,100.0
+Goucher College,Towson,Maryland,Landmark Conference,D3,Q4134258,100.0,Goucher College,207300.0,0.7941,,62979.0,100.0
+Greensboro College,Greensboro,North Carolina,USA South Athletic Conference,D3,Q5604445,100.0,Greensboro College,293000.0,0.7761,1008.0,30302.0,100.0
+Greenville University,Greenville,Illinois,St. Louis Intercollegiate Athletic Conference,D3,Q5604671,100.0,Greenville University,168400.0,0.5921,1014.0,40959.0,100.0
+Grinnell College,Grinnell,Iowa,Midwest Conference,D3,Q2982991,100.0,Grinnell College,186800.0,0.1925,1448.0,70346.0,100.0
+Grove City College,Grove City,Pennsylvania,Presidents' Athletic Conference,D3,Q5611381,100.0,Grove City College,326900.0,0.7759,1250.0,,100.0
+Guilford College,Greensboro,North Carolina,Old Dominion Athletic Conference,D3,Q5615915,100.0,Guilford College,293100.0,0.7801,1059.0,53479.0,100.0
+Gustavus Adolphus College,St. Peter,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q5621541,100.0,Gustavus Adolphus College,235300.0,0.7061,,59205.0,100.0
+Gwynedd Mercy University,Lower Gwynedd Township,Pennsylvania,Atlantic East Conference,D3,Q5623834,58.0,Gwynedd Mercy University,327000.0,0.8803,1044.0,47646.0,58.0
+Hamilton College,Clinton,New York,New England Small College Athletic Conference,D3,Q1191335,100.0,Colgate University,270100.0,0.2747,1404.0,75000.0,100.0
+Hamilton College,Clinton,New York,New England Small College Athletic Conference,D3,Q1191335,100.0,Hamilton College,272800.0,0.1841,1462.0,72190.0,100.0
+Hamline University,St. Paul,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q1366519,100.0,Hamline University,235400.0,0.6895,1147.0,51984.0,100.0
+Hampden–Sydney College,Hampden Sydney,Virginia,Old Dominion Athletic Conference,D3,Q1797609,100.0,Hampden-Sydney College,371300.0,0.4701,1142.0,63310.0,100.0
+Hanover College,Hanover,Indiana,Heartland Collegiate Athletic Conference,D3,Q5649375,100.0,Hanover College,180100.0,0.6932,1195.0,52998.0,100.0
+Hardin–Simmons University,Abilene,Texas,American Southwest Conference,D3,Q6356958,100.0,Hardin-Simmons University,357100.0,0.9051,1069.0,42530.0,100.0
+Haverford College,Haverford,Pennsylvania,Centennial Conference,D3,Q579611,100.0,Haverford College,327400.0,0.1823,1459.0,76384.0,100.0
+Heidelberg University,Tiffin,Ohio,Ohio Athletic Conference,D3,Q151510,100.0,Heidelberg University,304800.0,0.8106,1098.0,44381.0,100.0
+Hendrix College,Conway,Arkansas,Southern Athletic Association,D3,Q1605137,100.0,Hendrix College,109900.0,0.7054,,64046.0,100.0
+Hilbert College,Hamburg,New York,Allegheny Mountain Collegiate Conference,D3,Q5761194,100.0,Hilbert College,273500.0,0.9171,,31358.0,100.0
+Hiram College,Hiram,Ohio,North Coast Athletic Conference,D3,Q5769100,100.0,Hiram College,304900.0,0.9277,1037.0,50555.0,100.0
+Hobart College,Geneva,New York,Liberty League,D3,Q106714780,49.0,,,,,,
+Hollins University,Roanoke,Virginia,Old Dominion Athletic Conference,D3,Q12060410,100.0,Hollins University,371500.0,0.8079,1175.0,55893.0,100.0
+Hood College,Frederick,Maryland,MAC Commonwealth,D3,Q6930281,65.0,Hood College,207600.0,0.7133,,56168.0,65.0
+Hood College,Frederick,Maryland,MAC Commonwealth,D3,Q6930281,65.0,Mt Hood Community College,320400.0,,,13123.0,100.0
+Hope College,Holland,Michigan,Michigan Intercollegiate Athletic Association,D3,Q2475371,100.0,Hope College,227300.0,0.7783,1219.0,48607.0,100.0
+Houghton College,Houghton,New York,Empire 8,D3,Q4500472,100.0,Houghton College,273400.0,0.7998,,44952.0,100.0
+Howard Payne University,Brownwood,Texas,American Southwest Conference,D3,Q5920583,100.0,Howard Payne University,357500.0,0.4853,,41336.0,100.0
+Hunter College,New York,New York,City University of New York Athletic Conference,D3,Q1446181,100.0,CUNY Hunter College,268900.0,0.4048,1259.0,13219.0,85.0
+Huntingdon College,Montgomery,Alabama,Collegiate Conference of the South,D3,Q5945112,100.0,Huntingdon College,101900.0,0.5439,1101.0,37483.0,100.0
+Husson University,Bangor,Maine,North Atlantic Conference,D3,Q5949943,100.0,Husson University,204300.0,0.8466,1054.0,31303.0,100.0
+Illinois College,Jacksonville,Illinois,Midwest Conference,D3,Q574316,100.0,Illinois College,168800.0,0.7524,,44465.0,100.0
+Illinois Institute of Technology,Chicago,Illinois,Northern Athletics Collegiate Conference,D3,Q659706,100.0,Illinois Institute of Technology,169100.0,0.6066,1311.0,64710.0,100.0
+Illinois Wesleyan University,Bloomington,Illinois,College Conference of Illinois and Wisconsin,D3,Q2159219,100.0,Illinois Wesleyan University,169600.0,0.5693,1233.0,63174.0,100.0
+Immaculata University,Immaculata,Pennsylvania,Atlantic East Conference,D3,Q6004301,100.0,Immaculata University,327600.0,0.8243,1076.0,44036.0,100.0
+Ithaca College,Ithaca,New York,Liberty League,D3,Q3540690,100.0,Ithaca College,273900.0,0.7568,,64006.0,100.0
+John Carroll University,University Heights,Ohio,Ohio Athletic Conference,D3,Q1666981,100.0,John Carroll University,305000.0,0.8784,1198.0,57651.0,100.0
+John Jay College of Criminal Justice,New York,New York,City University of New York Athletic Conference,D3,Q1700617,100.0,CUNY John Jay College of Criminal Justice,269300.0,0.3743,1093.0,13549.0,100.0
+Johns Hopkins University,Baltimore,Maryland,Centennial Conference,D3,Q193727,100.0,Johns Hopkins University,207700.0,0.1106,1532.0,74001.0,100.0
+Johnson & Wales University,Providence,Rhode Island,Great Northeast Athletic Conference(Commonwealth Coast Conference in 2024),D3,Q1798494,100.0,Johnson & Wales University-Providence,340400.0,0.846,,51167.0,81.0
+Juniata College,Huntingdon,Pennsylvania,Landmark Conference,D3,Q6313025,100.0,Juniata College,327900.0,0.6746,,61807.0,100.0
+Kalamazoo College,Kalamazoo,Michigan,Michigan Intercollegiate Athletic Association,D3,Q6350383,100.0,Kalamazoo College,227500.0,0.7433,,63808.0,100.0
+Kean University,Union Township,New Jersey,New Jersey Athletic Conference,D3,Q6382148,100.0,Kean University,262200.0,0.7805,1010.0,25863.0,100.0
+Keene State College,Keene,New Hampshire,Little East Conference,D3,Q6382897,100.0,Keene State College,259000.0,0.9066,,28880.0,100.0
+Kenyon College,Gambier,Ohio,North Coast Athletic Conference,D3,Q1797768,100.0,Kenyon College,306500.0,0.3689,1399.0,74550.0,100.0
+Keuka College,Keuka Park,New York,Empire 8,D3,Q6395612,100.0,Keuka College,274400.0,0.9091,,50240.0,100.0
+Keystone College,La Plume Township,Pennsylvania,Colonial States Athletic Conference,D3,Q91092085,36.0,Keystone College,328000.0,0.7874,991.0,39200.0,36.0
+King's College,Wilkes-Barre,Pennsylvania,MAC Freedom,D3,Q49088,100.0,Columbia College,770700.0,,,14989.0,100.0
+King's College,Wilkes-Barre,Pennsylvania,MAC Freedom,D3,Q49088,100.0,Columbia College,245600.0,,,37709.0,100.0
+King's College,Wilkes-Barre,Pennsylvania,MAC Freedom,D3,Q49088,100.0,Columbia University in the City of New York,270700.0,0.0666,1517.0,79750.0,100.0
+King's College,Wilkes-Barre,Pennsylvania,MAC Freedom,D3,Q49088,100.0,King's College,328200.0,0.8661,,52647.0,100.0
+King's College,Wilkes-Barre,Pennsylvania,MAC Freedom,D3,Q49088,100.0,Columbia College,343000.0,0.9707,964.0,33178.0,100.0
+King's College,Wilkes-Barre,Pennsylvania,MAC Freedom,D3,Q49088,100.0,Columbia College,4127300.0,,,,100.0
+King's College,Wilkes-Barre,Pennsylvania,MAC Freedom,D3,Q49088,100.0,Columbia College,4127301.0,,,,100.0
+Knox College,Galesburg,Illinois,Midwest Conference,D3,Q593199,100.0,Knox College,170400.0,0.7084,1229.0,60393.0,100.0
+University of La Verne,La Verne,California,Southern California Intercollegiate Athletic Conference,D3,Q8214783,100.0,University of La Verne,121600.0,0.7625,1054.0,60759.0,100.0
+LaGrange College,LaGrange,Georgia,Collegiate Conference of the South,D3,Q6460745,100.0,LaGrange College,157800.0,0.5967,1077.0,46034.0,100.0
+Lake Forest College,Lake Forest,Illinois,Midwest Conference,D3,Q6475861,100.0,Lake Forest College,170600.0,0.5761,,62405.0,100.0
+Lakeland University,Sheboygan,Wisconsin,Northern Athletics Collegiate Conference,D3,Q6478782,100.0,Lakeland University,385400.0,0.9247,,43694.0,100.0
+Lancaster Bible College,Lancaster,Pennsylvania,United East Conference,D3,Q6483113,100.0,Lancaster Bible College,328500.0,0.9668,1087.0,36544.0,100.0
+Lawrence University,Appleton,Wisconsin,Midwest Conference,D3,Q1809286,100.0,Lawrence University,385600.0,0.6892,1323.0,62166.0,100.0
+Lehman College,The Bronx,New York,City University of New York Athletic Conference,D3,Q1128593,100.0,CUNY Lehman College,702200.0,0.4701,1020.0,13704.0,85.0
+Lesley University,Boston,Massachusetts,New England Collegiate Conference(North Atlantic Conference in 2023),D3,Q6530549,100.0,Lesley University,216000.0,0.8381,,47620.0,100.0
+LeTourneau University,Longview,Texas,American Southwest Conference,D3,Q6506488,100.0,LeTourneau University,358400.0,0.5611,1227.0,44629.0,100.0
+Lewis & Clark College,Portland,Oregon,Northwest Conference,D3,Q4227955,100.0,Lewis & Clark College,319700.0,0.7982,1313.0,68735.0,100.0
+Linfield University,McMinnville,Oregon,Northwest Conference,D3,Q6553672,100.0,Linfield University-McMinnville Campus,319800.0,0.8018,1143.0,58485.0,67.0
+Luther College,Decorah,Iowa,American Rivers Conference,D3,Q6705529,100.0,Luther College,187400.0,0.6429,1229.0,57885.0,100.0
+Lycoming College,Williamsport,Pennsylvania,MAC Freedom(Landmark Conference in 2023),D3,Q6707331,100.0,Lycoming College,329300.0,0.6548,1117.0,57132.0,100.0
+Lynchburg College,Lynchburg,Virginia,Old Dominion Athletic Conference,D3,Q1468607,81.0,Liberty University,2053000.0,0.5013,1172.0,40567.0,100.0
+Lyon College,Batesville,Arkansas,Independent (St. Louis Intercollegiate Athletic Conference in 2023),D3,Q1795504,63.0,Lyon College,108800.0,0.5015,1198.0,41396.0,63.0
+Macalester College,St. Paul,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q1141571,100.0,Macalester College,235800.0,0.3869,1390.0,71053.0,100.0
+University of Maine at Farmington,Farmington,Maine,North Atlantic Conference,D3,Q7895656,100.0,University of Maine at Farmington,204000.0,0.9461,,22802.0,100.0
+Maine Maritime Academy,Castine,Maine,North Atlantic Conference,D3,Q5978689,100.0,Maine Maritime Academy,204400.0,0.5214,1085.0,28208.0,100.0
+University of Maine at Presque Isle,Presque Isle,Maine,North Atlantic Conference,D3,Q7895658,100.0,University of Maine at Presque Isle,203300.0,0.99,,17586.0,100.0
+Manchester University,North Manchester,Indiana,Heartland Collegiate Athletic Conference,D3,Q230899,100.0,Manchester University,182000.0,0.7038,,45489.0,100.0
+Manhattanville College,Purchase,New York,Skyline Conference,D3,Q14706889,100.0,Manhattanville College,276000.0,0.8981,,51214.0,100.0
+Maranatha Baptist University,Watertown,Wisconsin,Independent,D3,Q14714528,100.0,Maranatha Baptist University,2317200.0,0.805,1192.0,27793.0,100.0
+Marian University,Fond du Lac,Wisconsin,Northern Athletics Collegiate Conference,D3,Q6761994,100.0,Marian University,182100.0,0.6424,,49112.0,100.0
+Marian University,Fond du Lac,Wisconsin,Northern Athletics Collegiate Conference,D3,Q6761994,100.0,Marian University,386100.0,0.6767,1028.0,38372.0,100.0
+Marietta College,Marietta,Ohio,Ohio Athletic Conference,D3,Q6763222,100.0,Marietta College,307300.0,0.7391,1120.0,49601.0,100.0
+Martin Luther College,New Ulm,Minnesota,Upper Midwest Athletic Conference,D3,Q7974252,47.0,Martin Luther College,236100.0,0.8731,1185.0,27230.0,47.0
+University of Mary Hardin–Baylor,Belton,Texas,American Southwest Conference,D3,Q7895673,100.0,University of Mary Hardin-Baylor,358800.0,0.903,1105.0,42812.0,100.0
+University of Mary Washington,Fredericksburg,Virginia,Coast to Coast Athletic Conference,D3,Q657374,100.0,University of Mary Washington,374600.0,0.7549,1195.0,28327.0,100.0
+Marymount University,Arlington,Virginia,Atlantic East Conference,D3,Q14712798,100.0,Marymount University,372400.0,0.8526,1089.0,47495.0,100.0
+Maryville College,Maryville,Tennessee,Collegiate Conference of the South,D3,Q4309890,100.0,Maryville College,350500.0,0.6211,1159.0,49603.0,100.0
+Marywood University,Scranton,Pennsylvania,Atlantic East Conference,D3,Q6781819,100.0,Marywood University,329600.0,0.8203,1102.0,49609.0,100.0
+University of Massachusetts Boston,Boston,Massachusetts,Little East Conference,D3,Q15144,100.0,University of Massachusetts-Boston,222200.0,0.7968,,28910.0,100.0
+Massachusetts College of Liberal Arts,North Adams,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,Q6784220,100.0,Massachusetts College of Liberal Arts,218700.0,0.8768,1066.0,24458.0,100.0
+University of Massachusetts Dartmouth,Dartmouth,Massachusetts,Little East Conference,D3,Q4118040,100.0,University of Massachusetts-Dartmouth,221000.0,0.7618,1094.0,28948.0,100.0
+Massachusetts Institute of Technology,Cambridge,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q49108,100.0,Massachusetts Institute of Technology,217800.0,0.0726,1550.0,73160.0,100.0
+Massachusetts Institute of Technology,Cambridge,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q49108,100.0,Divers Institute of Technology,1148100.0,,,,69.0
+McDaniel College,Westminster,Maryland,Centennial Conference,D3,Q6800835,100.0,McDaniel College,210900.0,0.8113,,58638.0,100.0
+McMurry University,Abilene,Texas,American Southwest Conference(Southern Collegiate Athletic Conference in 2024),D3,Q6802425,100.0,McMurry University,359100.0,0.4739,1041.0,41764.0,100.0
+Medaille College,Buffalo,New York,Empire 8,D3,Q6804993,100.0,Medaille College,277700.0,0.718,,36840.0,100.0
+Medgar Evers College,Brooklyn,New York,City University of New York Athletic Conference,D3,Q6805332,100.0,CUNY Medgar Evers College,1009700.0,0.7848,,15448.0,89.0
+Meredith College,Raleigh,North Carolina,USA South Athletic Conference,D3,Q6818913,100.0,Meredith College,294500.0,0.7162,1111.0,50390.0,100.0
+Messiah University,Grantham,Pennsylvania,MAC Commonwealth,D3,Q3307047,100.0,Messiah University,329800.0,0.7752,1205.0,49864.0,100.0
+Methodist University,Fayetteville,North Carolina,USA South Athletic Conference,D3,Q6823850,100.0,Methodist College,622800.0,0.875,1000.0,30504.0,100.0
+Methodist University,Fayetteville,North Carolina,USA South Athletic Conference,D3,Q6823850,100.0,Methodist University,294600.0,0.7588,1050.0,55751.0,100.0
+Middlebury College,Middlebury,Vermont,New England Small College Athletic Conference,D3,Q1357891,100.0,Middlebury College,369100.0,0.2204,1444.0,74248.0,100.0
+Millikin University,Decatur,Illinois,College Conference of Illinois and Wisconsin,D3,Q3893320,100.0,Millikin University,172400.0,0.7115,1097.0,49304.0,100.0
+Millsaps College,Jackson,Mississippi,Southern Athletic Association,D3,Q6860022,100.0,Millsaps College,241400.0,0.6981,1184.0,57996.0,100.0
+Milwaukee School of Engineering,Milwaukee,Wisconsin,Northern Athletics Collegiate Conference,D3,Q1538982,100.0,Milwaukee School of Engineering,386800.0,0.6009,1294.0,53885.0,100.0
+University of Minnesota Morris,Morris,Minnesota,Upper Midwest Athletic Conference,D3,Q3551758,100.0,University of Minnesota-Morris,238900.0,0.6465,1199.0,24636.0,100.0
+Misericordia University,Dallas,Pennsylvania,MAC Freedom,D3,Q6875342,100.0,Misericordia University,324700.0,0.8329,,48844.0,100.0
+Mississippi University for Women,Columbus,Mississippi,St. Louis Intercollegiate Athletic Conference,D3,Q3468084,100.0,Mississippi University for Women,242200.0,0.9903,1106.0,20684.0,100.0
+Mitchell College,New London,Connecticut,New England Collegiate Conference(Great Northeast Athletic Conference in 2023),D3,Q4296923,100.0,Mitchell College,139300.0,0.7422,,48699.0,100.0
+Montclair State University,Montclair,New Jersey,New Jersey Athletic Conference,D3,Q5018694,100.0,Montclair State University,261700.0,0.8266,,26067.0,100.0
+Moravian College,Bethlehem,Pennsylvania,Landmark Conference,D3,Q4571902,100.0,Moravian University,330100.0,0.801,,59553.0,100.0
+Mount Aloysius College,Cresson,Pennsylvania,Allegheny Mountain Collegiate Conference,D3,Q15256672,100.0,Mount Aloysius College,330200.0,0.9524,,36886.0,100.0
+Mount Holyoke College,South Hadley,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q1140542,100.0,Mount Holyoke College,219200.0,0.5247,1367.0,69578.0,100.0
+Mount Mary University,Milwaukee,Wisconsin,Coast to Coast Athletic Conference,D3,Q6922044,100.0,Mount Mary University,386900.0,0.5301,984.0,44284.0,100.0
+Mount Saint Mary College,Newburgh,New York,Skyline Conference,D3,Q6923797,89.0,Mount Saint Mary College,277800.0,0.9017,1080.0,47103.0,89.0
+Mount Saint Mary College,Newburgh,New York,Skyline Conference,D3,Q6923797,89.0,Mount Saint Mary's University - Doheny Campus,124301.0,0.8933,1014.0,,81.0
+College of Mount Saint Vincent,The Bronx,New York,Skyline Conference,D3,Q2982993,100.0,College of Mount Saint Vincent,270300.0,0.9268,1002.0,51240.0,100.0
+University of Mount Union,Alliance,Ohio,Ohio Athletic Conference,D3,Q3551642,100.0,University of Mount Union,308300.0,0.7741,1107.0,44497.0,100.0
+Muhlenberg College,Allentown,Pennsylvania,Centennial Conference,D3,Q1951942,100.0,Muhlenberg College,330400.0,0.6218,1280.0,69413.0,100.0
+Muskingum University,New Concord,Ohio,Ohio Athletic Conference,D3,Q6942807,100.0,Muskingum University,308400.0,0.7966,,41716.0,100.0
+Nazareth College,Pittsford,New York,Empire 8,D3,Q6983311,100.0,Nazareth College,277900.0,0.7568,,51405.0,100.0
+Nebraska Wesleyan University,Lincoln,Nebraska,American Rivers Conference,D3,Q6984798,100.0,Nebraska Wesleyan University,255500.0,0.6953,1222.0,48718.0,100.0
+Neumann University,Aston,Pennsylvania,Atlantic East Conference,D3,Q7001944,100.0,Neumann University,398800.0,0.8034,991.0,50640.0,100.0
+New England College,Henniker,New Hampshire,New England Collegiate Conference(Great Northeast Athletic Conference in 2023),D3,Q12966654,100.0,New England College,257900.0,0.9625,,57285.0,100.0
+University of New England,Biddeford,Maine,Commonwealth Coast Conference,D3,Q1814435,100.0,University of New England,205000.0,0.8726,,56844.0,100.0
+The College of New Jersey,Ewing,New Jersey,New Jersey Athletic Conference,D3,Q21578,91.0,Princeton University,262700.0,0.0563,1506.0,74150.0,100.0
+The College of New Jersey,Ewing,New Jersey,New Jersey Athletic Conference,D3,Q21578,91.0,The College of New Jersey,264200.0,0.5125,1240.0,35502.0,91.0
+The College of New Jersey,Ewing,New Jersey,New Jersey Athletic Conference,D3,Q21578,91.0,Jersey College,4134100.0,0.3425,,,80.0
+The College of New Jersey,Ewing,New Jersey,New Jersey Athletic Conference,D3,Q21578,91.0,Jersey College,4134101.0,0.3425,,,80.0
+The College of New Jersey,Ewing,New Jersey,New Jersey Athletic Conference,D3,Q21578,91.0,Jersey College,4134102.0,0.3425,,,80.0
+The College of New Jersey,Ewing,New Jersey,New Jersey Athletic Conference,D3,Q21578,91.0,Jersey College,4134103.0,0.3425,,,80.0
+The College of New Jersey,Ewing,New Jersey,New Jersey Athletic Conference,D3,Q21578,91.0,Jersey College,4134104.0,0.3425,,,80.0
+The College of New Jersey,Ewing,New Jersey,New Jersey Athletic Conference,D3,Q21578,91.0,Jersey College,4134105.0,0.3425,,,80.0
+New Jersey City University,Jersey City,New Jersey,New Jersey Athletic Conference,D3,Q11991254,100.0,New Jersey City University,261300.0,0.9633,,25328.0,100.0
+State University of New York at Brockport,Brockport,New York,State University of New York Athletic Conference,D3,Q7603617,100.0,SUNY Brockport,284100.0,0.5811,1089.0,24340.0,100.0
+State University of New York at Canton,Canton,New York,North Atlantic Conference,D3,Q7603620,100.0,SUNY College of Technology at Canton,285500.0,0.8301,1029.0,23026.0,57.0
+State University of New York at Cobleskill,Cobleskill,New York,North Atlantic Conference,D3,Q7603621,100.0,SUNY College of Agriculture and Technology at Cobleskill,285600.0,0.8,1010.0,25633.0,78.0
+State University of New York at Cortland,Cortland,New York,State University of New York Athletic Conference,D3,Q7603623,100.0,SUNY Cortland,284300.0,0.522,1164.0,25585.0,100.0
+State University of New York at Delhi,Delhi,New York,North Atlantic Conference,D3,Q7603622,100.0,,,,,,
+State University of New York at Fredonia,Fredonia,New York,State University of New York Athletic Conference,D3,Q6487738,100.0,SUNY at Fredonia,284400.0,0.7225,1112.0,23327.0,100.0
+State University of New York at Geneseo,Geneseo,New York,State University of New York Athletic Conference,D3,Q6149540,100.0,SUNY College at Geneseo,284500.0,0.6136,1234.0,26266.0,69.0
+State University of New York Maritime College,The Bronx,New York,Skyline Conference,D3,Q7603615,100.0,SUNY Maritime College,285300.0,0.7271,1153.0,26864.0,100.0
+State University of New York at Morrisville,Morrisville,New York,United East Conference(North Atlantic Conference in 2023),D3,Q6914146,100.0,SUNY Morrisville,285900.0,0.7672,973.0,27687.0,100.0
+State University of New York Polytechnic Institute,Marcy,New York,North Atlantic Conference,D3,Q18155496,100.0,SUNY Polytechnic Institute,1167800.0,0.733,1177.0,23194.0,100.0
+State University of New York at New Paltz,New Paltz,New York,State University of New York Athletic Conference,D3,Q7603625,100.0,State University of New York at New Paltz,284600.0,0.6202,1187.0,25615.0,100.0
+State University of New York at Old Westbury,Old Westbury,New York,Skyline Conference,D3,Q7603624,100.0,SUNY College at Old Westbury,710900.0,0.5308,1015.0,19786.0,76.0
+State University of New York at Oneonta,Oneonta,New York,State University of New York Athletic Conference,D3,Q4146980,100.0,SUNY Oneonta,284700.0,0.6295,1034.0,25628.0,100.0
+State University of New York at Oswego,Oswego,New York,State University of New York Athletic Conference,D3,Q7603627,100.0,SUNY College at Oswego,284800.0,0.689,1112.0,24970.0,67.0
+State University of New York at Plattsburgh,Plattsburgh,New York,State University of New York Athletic Conference,D3,Q7603626,100.0,SUNY College at Plattsburgh,284900.0,0.6103,1078.0,25786.0,83.0
+State University of New York at Potsdam,Potsdam,New York,State University of New York Athletic Conference,D3,Q7603628,100.0,SUNY College at Potsdam,285000.0,0.7166,,23964.0,78.0
+State University of New York at Purchase,Purchase,New York,Skyline Conference,D3,Q4359408,100.0,SUNY at Purchase College,679100.0,0.737,1213.0,27991.0,93.0
+New York University,New York,New York,University Athletic Association,D3,Q49210,100.0,New York University,278500.0,0.2109,1458.0,73759.0,100.0
+Nichols College,Dudley,Massachusetts,Commonwealth Coast Conference,D3,Q7026557,100.0,Nichols College,219700.0,0.8037,,52520.0,100.0
+North Central College,Naperville,Illinois,College Conference of Illinois and Wisconsin,D3,Q7054763,88.0,North Central College,173400.0,0.5329,1164.0,52405.0,88.0
+North Central College,Naperville,Illinois,College Conference of Illinois and Wisconsin,D3,Q7054763,88.0,North Central State College,531300.0,,,9659.0,100.0
+North Central University,Minneapolis,Minnesota,Upper Midwest Athletic Conference,D3,Q7054767,100.0,North Central University,236900.0,0.9299,1077.0,37644.0,100.0
+North Park University,Chicago,Illinois,College Conference of Illinois and Wisconsin,D3,Q3551466,100.0,North Park University,173500.0,0.4396,1055.0,39373.0,100.0
+Northland College,Ashland,Wisconsin,Upper Midwest Athletic Conference,D3,Q7059510,100.0,Northland College,387500.0,0.643,1138.0,50029.0,100.0
+University of Northwestern – St. Paul,Roseville,Minnesota,Upper Midwest Athletic Conference,D3,Q7060296,100.0,University of Northwestern-St Paul,237100.0,0.9222,,43817.0,100.0
+Norwich University,Northfield,Vermont,Great Northeast Athletic Conference,D3,Q1681928,100.0,Norwich University,369200.0,0.7417,,59627.0,100.0
+Notre Dame of Maryland University,Baltimore,Maryland,Colonial States Athletic Conference,D3,Q7063504,100.0,Notre Dame of Maryland University,206500.0,0.6229,,52667.0,100.0
+Oberlin College,Oberlin,Ohio,North Coast Athletic Conference,D3,Q616591,100.0,Oberlin College,308600.0,0.3536,1348.0,77124.0,100.0
+Occidental College,Los Angeles,California,Southern California Intercollegiate Athletic Conference,D3,Q1346110,100.0,Occidental College,124900.0,0.409,1378.0,76600.0,100.0
+Oglethorpe University,Atlanta,Georgia,Southern Athletic Association,D3,Q4400868,100.0,Oglethorpe University,158600.0,0.6693,1203.0,55451.0,100.0
+Ohio Northern University,Ada,Ohio,Ohio Athletic Conference,D3,Q1683585,100.0,Ohio Northern University,308900.0,0.652,1218.0,49392.0,100.0
+Ohio Wesleyan University,Delaware,Ohio,North Coast Athletic Conference,D3,Q194266,100.0,Ohio Wesleyan University,310900.0,0.684,,62161.0,100.0
+Olivet College,Olivet,Michigan,Michigan Intercollegiate Athletic Association,D3,Q7087996,100.0,Olivet College,230800.0,0.6031,,42758.0,100.0
+Otterbein University,Westerville,Ohio,Ohio Athletic Conference,D3,Q7109428,100.0,Otterbein University,311000.0,0.7606,1158.0,45773.0,100.0
+University of the Ozarks,Clarksville,Arkansas,American Southwest Conference,D3,Q7896711,100.0,University of the Ozarks,109400.0,0.559,1070.0,34832.0,100.0
+Pacific Lutheran University,Tacoma,Washington,Northwest Conference,D3,Q3439925,100.0,Pacific Lutheran University,378500.0,0.863,,56830.0,100.0
+Pacific University,Forest Grove,Oregon,Northwest Conference,D3,Q630226,100.0,University of the Pacific,132900.0,0.7075,1221.0,64784.0,100.0
+Pacific University,Forest Grove,Oregon,Northwest Conference,D3,Q630226,100.0,Pacific University,321200.0,0.893,1166.0,62157.0,100.0
+Pennsylvania College of Technology,Williamsport,Pennsylvania,United East Conference,D3,Q99287886,56.0,Pennsylvania College of Technology,339500.0,,,30759.0,56.0
+"Pennsylvania State University, Altoona",Altoona,Pennsylvania,Allegheny Mountain Collegiate Conference,D3,Q7163226,100.0,Pennsylvania State University-Penn State Altoona,332903.0,0.7827,1198.0,,87.0
+Pfeiffer University,Misenheimer,North Carolina,USA South Athletic Conference,D3,Q1796553,100.0,Pfeiffer University,295500.0,0.7584,1008.0,44387.0,100.0
+Piedmont University,Demorest,Georgia,Collegiate Conference of the South,D3,Q7191499,100.0,Piedmont University,158800.0,0.7008,1085.0,40949.0,100.0
+University of Pittsburgh at Bradford,Bradford,Pennsylvania,Allegheny Mountain Collegiate Conference,D3,Q7896145,100.0,University of Pittsburgh-Bradford,337903.0,0.6818,1290.0,28132.0,96.0
+Plymouth State University,Plymouth,New Hampshire,Little East Conference,D3,Q7205857,100.0,Plymouth State University,259100.0,0.8937,,28222.0,100.0
+Pratt Institute,Brooklyn,New York,Coast to Coast Athletic Conference,D3,Q1204714,100.0,,,,,,
+Principia College,Elsah,Illinois,St. Louis Intercollegiate Athletic Conference,D3,Q7245134,100.0,Principia College,174400.0,0.9324,1143.0,,100.0
+University of Puget Sound,Tacoma,Washington,Northwest Conference,D3,Q956780,100.0,University of Puget Sound,379700.0,0.8685,,68072.0,100.0
+Ramapo College,Mahwah,New Jersey,New Jersey Athletic Conference,D3,Q7289009,100.0,Ramapo College of New Jersey,934400.0,0.6684,1140.0,29130.0,67.0
+Randolph College,Lynchburg,Virginia,Old Dominion Athletic Conference,D3,Q7291803,100.0,Randolph College,373400.0,0.8966,1060.0,58880.0,100.0
+Randolph–Macon College,Ashland,Virginia,Old Dominion Athletic Conference,D3,Q7291901,100.0,Randolph-Macon College,373300.0,0.7131,1141.0,56509.0,100.0
+University of Redlands,Redlands,California,Southern California Intercollegiate Athletic Conference,D3,Q1270831,100.0,University of Redlands,132200.0,0.6865,1135.0,68156.0,100.0
+Regis College,Weston,Massachusetts,Great Northeast Athletic Conference,D3,Q649299,100.0,Regis University,136300.0,0.782,1143.0,51593.0,100.0
+Regis College,Weston,Massachusetts,Great Northeast Athletic Conference,D3,Q649299,100.0,Regis College,220600.0,0.8408,,61605.0,100.0
+Regis College,Weston,Massachusetts,Great Northeast Athletic Conference,D3,Q649299,100.0,Denver College of Nursing,4148300.0,,,,55.0
+Rensselaer Polytechnic Institute,Troy,New York,Liberty League,D3,Q49211,100.0,Rensselaer Polytechnic Institute,280300.0,0.5726,1410.0,73816.0,100.0
+Rhode Island College,Providence,Rhode Island,Little East Conference,D3,Q1613236,100.0,Rhode Island College,340700.0,0.8127,988.0,17761.0,100.0
+Rhodes College,Memphis,Tennessee,Southern Athletic Association,D3,Q1321046,100.0,Rhodes College,351900.0,0.5136,1345.0,64249.0,100.0
+Ripon College,Ripon,Wisconsin,Midwest Conference,D3,Q7335662,100.0,Ripon College,388400.0,0.7406,1095.0,56059.0,100.0
+Rivier University,Nashua,New Hampshire,Great Northeast Athletic Conference,D3,Q7338849,100.0,Rivier University,258600.0,0.7571,,46498.0,100.0
+Roanoke College,Salem,Virginia,Old Dominion Athletic Conference,D3,Q7339779,100.0,Roanoke College,373600.0,0.7813,1155.0,61545.0,100.0
+University of Rochester,Rochester,New York,University Athletic Association,D3,Q149990,100.0,Rochester University,228800.0,0.9943,967.0,33013.0,100.0
+University of Rochester,Rochester,New York,University Athletic Association,D3,Q149990,100.0,University of Rochester,289400.0,0.3543,1429.0,75190.0,100.0
+Rochester Institute of Technology,Rochester,New York,Liberty League,D3,Q2140778,100.0,Rochester Institute of Technology,280600.0,0.7386,1341.0,61063.0,100.0
+Roger Williams University,Bristol,Rhode Island,Commonwealth Coast Conference,D3,Q3940116,100.0,Roger Williams University,341000.0,0.8601,,54865.0,100.0
+Rose-Hulman Institute of Technology,Terre Haute,Indiana,Heartland Collegiate Athletic Conference,D3,Q2166712,100.0,Rose-Hulman Institute of Technology,183000.0,0.7662,1371.0,70401.0,100.0
+Rosemont College,Rosement,Pennsylvania,Colonial States Athletic Conference,D3,Q2983788,100.0,Rosemont College,336000.0,0.691,1049.0,35805.0,100.0
+Rowan University,Glassboro,New Jersey,New Jersey Athletic Conference,D3,Q1799872,100.0,Rowan University,260900.0,0.7801,1150.0,34987.0,100.0
+Rutgers University–Camden,Camden,New Jersey,New Jersey Athletic Conference,D3,Q7382823,100.0,Rutgers University-Camden,262901.0,0.6986,1253.0,29130.0,100.0
+Rutgers University–Newark,Newark,New Jersey,New Jersey Athletic Conference,D3,Q7382780,100.0,Rutgers University-Newark,262902.0,0.6986,1253.0,27960.0,100.0
+College of Saint Benedict,St. Joseph,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q5146820,100.0,College of Saint Benedict,234100.0,0.8401,1201.0,60788.0,100.0
+St. Catherine University,St. Paul,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q3444427,100.0,St Catherine University,234200.0,0.7615,1122.0,50794.0,100.0
+St. John Fisher College,Pittsford,New York,Empire 8,D3,Q7588902,100.0,Saint John Fisher College,282100.0,0.6841,1161.0,49242.0,94.0
+Saint John's University,Collegeville,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q1138374,100.0,Saint Johns University,237900.0,0.8138,1193.0,59972.0,98.0
+Saint John's University,Collegeville,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q1138374,100.0,St. John's University-New York,282300.0,0.7507,1198.0,55877.0,100.0
+Saint John's University,Collegeville,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q1138374,100.0,United States University,4005300.0,,,20187.0,64.0
+University of Saint Joseph,West Hartford,Connecticut,Great Northeast Athletic Conference,D3,Q24399,100.0,University of Saint Joseph,140900.0,0.7802,1073.0,50959.0,100.0
+St. Joseph's College,Brooklyn,New York,Skyline Conference,D3,Q1475413,100.0,Saint Joseph's University,336700.0,0.8007,1205.0,63223.0,100.0
+St. Joseph's College,Long Island,New York,Skyline Conference,D3,Q1475413,100.0,Saint Joseph's University,336700.0,0.8007,1205.0,63223.0,100.0
+St. Lawrence University,Canton,New York,Liberty League,D3,Q1411093,100.0,St Lawrence University,282900.0,0.4726,1301.0,73045.0,100.0
+Saint Mary's College,Notre Dame,Indiana,Michigan Intercollegiate Athletic Association,D3,Q1255772,100.0,Saint Mary's College,183600.0,0.8151,1189.0,58956.0,100.0
+Saint Mary's College,Notre Dame,Indiana,Michigan Intercollegiate Athletic Association,D3,Q1255772,100.0,College of Saint Mary,254000.0,0.5,,31250.0,93.0
+Saint Mary's College,Notre Dame,Indiana,Michigan Intercollegiate Athletic Association,D3,Q1255772,100.0,St. Mary's University,362300.0,0.8543,1127.0,42354.0,100.0
+St. Mary's College of Maryland,St. Mary's City,Maryland,United East Conference,D3,Q16900571,68.0,St. Mary's College of Maryland,209500.0,0.7903,1190.0,30610.0,68.0
+Saint Mary's University of Minnesota,Winona,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q2212976,100.0,Saint Mary's University of Minnesota,238000.0,0.841,,49200.0,100.0
+St. Norbert College,De Pere,Wisconsin,Northern Athletics Collegiate Conference,D3,Q7590859,100.0,Saint Norbert College,389200.0,0.8425,1211.0,51383.0,100.0
+St. Olaf College,Northfield,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q1515763,100.0,St Olaf College,238200.0,0.5081,1309.0,62880.0,100.0
+The College of St. Scholastica,Duluth,Minnesota,Minnesota Intercollegiate Athletic Conference,D3,Q7726780,100.0,,,,,,
+University of St. Thomas,Houston,Texas,Southern Collegiate Athletic Conference,D3,Q1164229,100.0,University of St Thomas,234500.0,0.874,1249.0,57785.0,100.0
+University of St. Thomas,Houston,Texas,Southern Collegiate Athletic Conference,D3,Q1164229,100.0,University of St Thomas,365400.0,0.9609,,42652.0,100.0
+Saint Vincent College,Latrobe,Pennsylvania,Presidents' Athletic Conference,D3,Q12966706,84.0,Saint Vincent College,336800.0,0.7212,1090.0,50140.0,84.0
+Salem College,Winston-Salem,North Carolina,USA South Athletic Conference,D3,Q7404080,100.0,Salem Community College,546100.0,,,16353.0,100.0
+Salem College,Winston-Salem,North Carolina,USA South Athletic Conference,D3,Q7404080,100.0,Salem College,296000.0,0.8463,1061.0,44461.0,100.0
+Salem State University,Salem,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,Q3695750,100.0,Salem State University,218800.0,0.8675,,26423.0,100.0
+Salisbury University,Salisbury,Maryland,Coast to Coast Athletic Conference,D3,Q7404818,100.0,Salisbury University,209100.0,0.7762,,25057.0,100.0
+Salve Regina University,Newport,Rhode Island,Commonwealth Coast Conference(New England Women's and Men's Athletic Conference in 2023),D3,Q1695578,100.0,Salve Regina University,341100.0,0.7462,,61072.0,100.0
+Sarah Lawrence College,Yonkers,New York,Skyline Conference,D3,Q1051840,100.0,Sarah Lawrence College,281300.0,0.5463,1333.0,74123.0,100.0
+Schreiner University,Kerrville,Texas,Southern Collegiate Athletic Conference,D3,Q7432878,100.0,Schreiner University,361000.0,0.9615,1043.0,41896.0,100.0
+University of Scranton,Scranton,Pennsylvania,Landmark Conference,D3,Q2495907,100.0,University of Scranton,338400.0,0.7873,1200.0,62380.0,100.0
+University of the South,Sewanee,Tennessee,Southern Athletic Association,D3,Q1816857,100.0,,,,,,
+Shenandoah University,Winchester,Virginia,Old Dominion Athletic Conference,D3,Q1799245,100.0,Shenandoah University,373700.0,0.7438,1123.0,47850.0,100.0
+Simmons University,Boston,Massachusetts,Great Northeast Athletic Conference,D3,Q14437811,100.0,Simmons University,220800.0,0.8255,1168.0,60221.0,100.0
+Simpson College,Indianola,Iowa,American Rivers Conference,D3,Q7521155,100.0,Simpson University,129100.0,0.5972,1099.0,46394.0,100.0
+Simpson College,Indianola,Iowa,American Rivers Conference,D3,Q7521155,100.0,Simpson College,188700.0,0.8662,1149.0,53845.0,100.0
+Skidmore College,Saratoga Springs,New York,Liberty League,D3,Q7535073,100.0,Skidmore College,281400.0,0.3217,1324.0,74140.0,100.0
+Smith College,Northampton,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q49204,100.0,Smith College,220900.0,0.3652,,75169.0,100.0
+University of Southern Maine,Portland,Maine,Little East Conference,D3,Q3244049,100.0,University of Southern Maine,205400.0,0.8793,1062.0,19582.0,100.0
+Southern Virginia University,Buena Vista,Virginia,USA South Athletic Conference,D3,Q7570614,100.0,Southern Virginia University,373800.0,0.9903,1205.0,29875.0,100.0
+Southwestern University,Georgetown,Texas,Southern Collegiate Athletic Conference,D3,Q3551493,100.0,Southwestern University,362000.0,0.4937,1223.0,57825.0,100.0
+Spalding University,Louisville,Kentucky,St. Louis Intercollegiate Athletic Conference,D3,Q7572993,100.0,Spalding University,196000.0,0.9343,1026.0,38163.0,100.0
+Springfield College,Springfield,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q7580946,100.0,Springfield College,221100.0,0.6341,1239.0,55078.0,100.0
+Stevens Institute of Technology,Hoboken,New Jersey,MAC Freedom,D3,Q657222,100.0,Stevens Institute of Technology,263900.0,0.5306,1415.0,70591.0,100.0
+Stevenson University,Stevenson,Maryland,MAC Commonwealth,D3,Q7615536,100.0,Stevenson University,210700.0,0.8918,,53066.0,100.0
+Stockton University,Pomona,New Jersey,New Jersey Athletic Conference,D3,Q7329259,100.0,Stockton University,934500.0,0.7731,1108.0,30721.0,100.0
+Suffolk University,Boston,Massachusetts,Commonwealth Coast Conference,D3,Q1056123,100.0,Suffolk University,221800.0,0.859,1113.0,57850.0,100.0
+Sul Ross State University,Alpine,Texas,American Southwest Conference,D3,Q7635933,100.0,Sul Ross State University,362500.0,0.8083,960.0,20332.0,100.0
+Susquehanna University,Selinsgrove,Pennsylvania,Landmark Conference,D3,Q7649352,100.0,Susquehanna University,336900.0,0.7304,,64760.0,100.0
+Swarthmore College,Swarthmore,Pennsylvania,Centennial Conference,D3,Q1378320,100.0,Swarthmore College,337000.0,0.0906,1467.0,73932.0,100.0
+University of Texas at Dallas,Dallas,Texas,American Southwest Conference,D3,Q1781394,100.0,The University of Texas at Dallas,974100.0,0.7936,1345.0,27120.0,94.0
+Texas Lutheran University,Seguin,Texas,Southern Collegiate Athletic Conference,D3,Q3301911,100.0,Texas Lutheran University,364100.0,0.593,1098.0,42208.0,100.0
+Thomas College,Waterville,Maine,North Atlantic Conference,D3,Q7788537,100.0,Thomas College,205200.0,,,40911.0,100.0
+Transylvania University,Lexington,Kentucky,Heartland Collegiate Athletic Conference,D3,Q956056,100.0,Transylvania University,198700.0,0.9212,1267.0,53097.0,100.0
+Trine University,Angola,Indiana,Michigan Intercollegiate Athletic Association,D3,Q7842344,100.0,Trine University,183900.0,0.7875,1130.0,47142.0,100.0
+Trinity College,Hartford,Connecticut,New England Small College Athletic Conference,D3,Q258464,100.0,Trinity College,141400.0,0.3604,,76850.0,100.0
+Trinity University,San Antonio,Texas,Southern Collegiate Athletic Conference,D3,Q1311379,100.0,Trinity University,364700.0,0.3362,1355.0,60664.0,100.0
+Trinity Washington University,Washington,District of Columbia,Independent,D3,Q3539296,100.0,Trinity Washington University,146000.0,0.9579,,32710.0,100.0
+Tufts University,Medford,Massachusetts,New England Small College Athletic Conference,D3,Q49120,100.0,Tufts University,221900.0,0.163,1474.0,76151.0,100.0
+Union College,Schenectady,New York,Liberty League,D3,Q1567748,100.0,Union College,198800.0,0.5733,1035.0,39439.0,100.0
+Union College,Schenectady,New York,Liberty League,D3,Q1567748,100.0,Union College,256300.0,0.976,1072.0,36243.0,100.0
+Union College,Schenectady,New York,Liberty League,D3,Q1567748,100.0,Union College,288900.0,0.4126,1339.0,69879.0,100.0
+United States Coast Guard Academy,New London,Connecticut,New England Women's and Men's Athletic Conference,D3,Q650935,100.0,United States Coast Guard Academy,141500.0,0.2009,1332.0,,100.0
+United States Merchant Marine Academy,Kings Point,New York,Skyline Conference,D3,Q1806541,100.0,United States Merchant Marine Academy,289200.0,0.2411,1288.0,9565.0,100.0
+Ursinus College,Collegeville,Pennsylvania,Centennial Conference,D3,Q7901181,100.0,Ursinus College,338500.0,0.8044,1253.0,69604.0,100.0
+Vassar College,Poughkeepsie,New York,Liberty League,D3,Q2093794,100.0,Vassar College,289500.0,0.2454,1456.0,75203.0,100.0
+Wabash College,Crawfordsville,Indiana,North Coast Athletic Conference,D3,Q7958639,100.0,Wabash College,184400.0,0.6321,1226.0,58770.0,100.0
+Warren Wilson College,Swannanoa,North Carolina,Coast to Coast Athletic Conference,D3,Q7970595,100.0,Warren Wilson College,297900.0,0.8484,1220.0,52526.0,100.0
+Wartburg College,Waverly,Iowa,American Rivers Conference,D3,Q7971009,35.0,Wartburg College,189600.0,0.7172,1114.0,55508.0,35.0
+Washington & Jefferson College,Washington,Pennsylvania,Presidents' Athletic Conference,D3,Q7971641,100.0,Washington & Jefferson College,338900.0,0.9018,,62814.0,100.0
+Washington and Lee University,Lexington,Virginia,Old Dominion Athletic Conference,D3,Q1785291,100.0,Washington and Lee University,376800.0,0.2451,1451.0,73900.0,100.0
+Washington College,Chestertown,Maryland,Centennial Conference,D3,Q4564567,100.0,Washington College,210800.0,0.8028,,65405.0,100.0
+Washington University in St. Louis,St. Louis,Missouri,University Athletic Association,D3,Q777403,100.0,Washington University in St Louis,252000.0,0.1602,1520.0,76910.0,100.0
+Waynesburg University,Waynesburg,Pennsylvania,Presidents' Athletic Conference,D3,Q7976817,100.0,Waynesburg University,339100.0,0.8996,1082.0,37431.0,100.0
+Webster University,St. Louis,Missouri,St. Louis Intercollegiate Athletic Conference,D3,Q1465303,100.0,Webster University,252100.0,0.5312,1170.0,44260.0,100.0
+Wellesley College,Wellesley,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q49205,100.0,Wellesley College,222400.0,0.2041,1446.0,75198.0,100.0
+Wells College,Aurora,New York,United East Conference(Allegheny Mountain Collegiate Conference in 2023),D3,Q7424719,69.0,Wells College,290100.0,0.6436,,46640.0,69.0
+Wentworth Institute of Technology,Boston,Massachusetts,Commonwealth Coast Conference,D3,Q12010517,100.0,Wentworth Institute of Technology,222500.0,0.9354,1192.0,52232.0,100.0
+Wesleyan College,Macon,Georgia,Collegiate Conference of the South,D3,Q3446272,100.0,Wesleyan College,160000.0,0.5981,1052.0,34952.0,100.0
+Wesleyan University,Middletown,Connecticut,New England Small College Athletic Conference,D3,Q49167,100.0,Wesleyan University,142400.0,0.209,,75693.0,100.0
+Western Connecticut State University,Danbury,Connecticut,Little East Conference,D3,Q1552113,100.0,Western Connecticut State University,138000.0,0.8072,,23110.0,100.0
+Western New England University,Springfield,Massachusetts,Commonwealth Coast Conference,D3,Q7988102,100.0,Western New England University,222600.0,0.8943,,52924.0,100.0
+Westfield State University,Westfield,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,Q14438080,100.0,Westfield State University,218900.0,0.9244,1054.0,24844.0,100.0
+Westminster College,Fulton,Missouri,St. Louis Intercollegiate Athletic Conference,D3,Q5407122,100.0,Westminster College,252300.0,0.9743,1136.0,44500.0,100.0
+Westminster College,Fulton,Missouri,St. Louis Intercollegiate Athletic Conference,D3,Q5407122,100.0,Westminster College,339200.0,0.7651,,49932.0,100.0
+Westminster College,Fulton,Missouri,St. Louis Intercollegiate Athletic Conference,D3,Q5407122,100.0,Westminster College,368100.0,0.8745,1205.0,49060.0,100.0
+Westminster College,New Wilmington,Pennsylvania,Presidents' Athletic Conference,D3,Q5407122,100.0,Westminster College,252300.0,0.9743,1136.0,44500.0,100.0
+Westminster College,New Wilmington,Pennsylvania,Presidents' Athletic Conference,D3,Q5407122,100.0,Westminster College,339200.0,0.7651,,49932.0,100.0
+Westminster College,New Wilmington,Pennsylvania,Presidents' Athletic Conference,D3,Q5407122,100.0,Westminster College,368100.0,0.8745,1205.0,49060.0,100.0
+Wheaton College,Wheaton,Illinois,College Conference of Illinois and Wisconsin,D3,Q747179,100.0,Wheaton College,178100.0,0.8695,1336.0,50923.0,100.0
+Wheaton College,Wheaton,Illinois,College Conference of Illinois and Wisconsin,D3,Q747179,100.0,Wade College,1013000.0,,,22459.0,74.0
+Wheaton College,Norton,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q747179,100.0,Wheaton College,178100.0,0.8695,1336.0,50923.0,100.0
+Wheaton College,Norton,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q747179,100.0,Wade College,1013000.0,,,22459.0,74.0
+Whitman College,Walla Walla,Washington,Northwest Conference,D3,Q7996607,100.0,Whitman College,380300.0,0.5413,1360.0,69532.0,100.0
+Whittier College,Whittier,California,Southern California Intercollegiate Athletic Conference,D3,Q7996868,100.0,Whittier College,134200.0,0.7233,,61052.0,100.0
+Whitworth University,Spokane,Washington,Northwest Conference,D3,Q7996977,100.0,Sumner College,2104900.0,0.625,,,64.0
+Whitworth University,Spokane,Washington,Northwest Conference,D3,Q7996977,100.0,Whitworth University,380400.0,0.9101,1171.0,60359.0,100.0
+Widener University,Chester,Pennsylvania,MAC Commonwealth,D3,Q3443325,100.0,Widener University,331300.0,0.7458,1126.0,62831.0,100.0
+Wilkes University,Wilkes-Barre,Pennsylvania,MAC Freedom(Landmark Conference in 2023),D3,Q8002474,100.0,Wilkes University,339400.0,0.9177,1137.0,54085.0,100.0
+Willamette University,Salem,Oregon,Northwest Conference,D3,Q930291,100.0,Willamette University,322700.0,0.8017,,66416.0,100.0
+William Paterson University,Wayne,New Jersey,New Jersey Athletic Conference,D3,Q3444527,100.0,William Paterson University of New Jersey,262500.0,0.8062,,25327.0,100.0
+William Peace University,Raleigh,North Carolina,USA South Athletic Conference,D3,Q8016704,100.0,William Peace University,295300.0,0.6139,1053.0,47624.0,100.0
+William Smith College,Geneva,New York,Liberty League,D3,Q5533009,27.0,Hobart William Smith Colleges,273100.0,0.6184,1279.0,74375.0,32.5
+Williams College,Williamstown,Massachusetts,New England Small College Athletic Conference,D3,Q49166,100.0,Williams College,222900.0,0.1512,,75520.0,100.0
+Wilmington College,Wilmington,Ohio,Ohio Athletic Conference,D3,Q8022753,100.0,College of Wilmington,2205000.0,,,,92.0
+Wilmington College,Wilmington,Ohio,Ohio Athletic Conference,D3,Q8022753,100.0,Wilmington College,314200.0,0.7272,1083.0,38642.0,100.0
+Wilson College,Chambersburg,Pennsylvania,Colonial States Athletic Conference,D3,Q8023016,100.0,Wilson College,339600.0,0.922,1030.0,37019.0,100.0
+University of Wisconsin–Eau Claire,Eau Claire,Wisconsin,Wisconsin Intercollegiate Athletic Conference,D3,Q3551771,100.0,University of Wisconsin-Eau Claire,391700.0,0.8436,1170.0,20174.0,100.0
+University of Wisconsin–La Crosse,La Crosse,Wisconsin,Wisconsin Intercollegiate Athletic Conference,D3,Q2688358,100.0,University of Wisconsin-La Crosse,391900.0,0.7515,1185.0,17514.0,100.0
+Wisconsin Lutheran College,Milwaukee,Wisconsin,Northern Athletics Collegiate Conference,D3,Q8027229,100.0,Wisconsin Lutheran College,2136600.0,0.9562,1172.0,43118.0,100.0
+University of Wisconsin–Oshkosh,Oshkosh,Wisconsin,Wisconsin Intercollegiate Athletic Conference,D3,Q2503441,100.0,University of Wisconsin-Oshkosh,392000.0,0.7858,1105.0,18125.0,100.0
+University of Wisconsin–Platteville,Platteville,Wisconsin,Wisconsin Intercollegiate Athletic Conference,D3,Q2590962,100.0,University of Wisconsin-Platteville,392100.0,0.8148,1150.0,18670.0,100.0
+University of Wisconsin–River Falls,River Falls,Wisconsin,Wisconsin Intercollegiate Athletic Conference,D3,Q2687532,100.0,University of Wisconsin-River Falls,392300.0,0.7685,1120.0,17971.0,100.0
+University of Wisconsin–Stevens Point,Stevens Point,Wisconsin,Wisconsin Intercollegiate Athletic Conference,D3,Q2687782,100.0,University of Wisconsin-Stevens Point,392400.0,0.8654,1105.0,18217.0,100.0
+University of Wisconsin–Stout,Menomonie,Wisconsin,Wisconsin Intercollegiate Athletic Conference,D3,Q2590529,100.0,University of Wisconsin-Stout,391500.0,0.901,1135.0,19704.0,100.0
+University of Wisconsin–Superior,Superior,Wisconsin,Upper Midwest Athletic Conference,D3,Q10943718,100.0,University of Wisconsin-Superior,392500.0,0.8613,1085.0,18731.0,100.0
+University of Wisconsin–Whitewater,Whitewater,Wisconsin,Wisconsin Intercollegiate Athletic Conference,D3,Q3551772,100.0,University of Wisconsin-Whitewater,392600.0,0.7992,1105.0,18252.0,100.0
+Wittenberg University,Springfield,Ohio,North Coast Athletic Conference,D3,Q8028571,100.0,Wittenberg University,314300.0,0.9743,,53219.0,100.0
+College of Wooster,Wooster,Ohio,North Coast Athletic Conference,D3,Q1109093,100.0,The College of Wooster,303700.0,0.653,,66108.0,100.0
+Worcester Polytechnic Institute,Worcester,Massachusetts,New England Women's and Men's Athletic Conference,D3,Q195046,100.0,Worcester Polytechnic Institute,223300.0,0.5905,,69233.0,100.0
+Worcester State University,Worcester,Massachusetts,Massachusetts State Collegiate Athletic Conference,D3,Q3446068,100.0,Worcester State University,219000.0,0.8103,1097.0,21870.0,100.0
+Yeshiva University,New York,New York,Skyline Conference,D3,Q1048851,100.0,Yeshiva University,290300.0,0.6741,1288.0,64050.0,100.0
+"York College, City University of New York",Queens,New York,City University of New York Athletic Conference,D3,Q8055406,92.0,CUNY York College,475900.0,0.5276,960.0,13948.0,83.0

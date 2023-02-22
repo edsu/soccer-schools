@@ -1,0 +1,2962 @@
+School,OPEID,AdmissionRate,SAT,Cost,WikidataID,Score
+Alabama A & M University,100200.0,0.8965,959.0,23445.0,Q1551044,100.0
+University of Alabama at Birmingham,105200.0,0.806,1245.0,25542.0,Q1472663,100.0
+University of Alabama in Huntsville,105500.0,0.7711,1300.0,24861.0,Q1783148,100.0
+Alabama State University,100500.0,0.9888,938.0,21892.0,Q941524,100.0
+The University of Alabama,105100.0,0.8039,1262.0,30016.0,Q492318,100.0
+Central Alabama Community College,100700.0,,,9437.0,Q5060306,100.0
+Auburn University at Montgomery,831000.0,0.9555,1061.0,20225.0,Q758560,100.0
+Auburn University,100900.0,0.8507,1302.0,32196.0,Q540672,100.0
+Birmingham-Southern College,101200.0,0.6045,1202.0,32514.0,Q4916871,100.0
+Chattahoochee Valley Community College,1218200.0,,,10275.0,Q5087847,100.0
+Enterprise State Community College,101500.0,,,9561.0,Q5380357,100.0
+Coastal Alabama Community College,106000.0,,,14915.0,Q4705321,75.0
+Faulkner University,100300.0,0.7576,1068.0,34835.0,Q4571885,100.0
+Gadsden State Community College,101700.0,,,10527.0,Q5516461,100.0
+George C Wallace Community College-Dothan,101800.0,,,9990.0,Q7962771,84.0
+George C Wallace State Community College-Hanceville,787100.0,,,12537.0,Q7962897,88.0
+Huntingdon College,101900.0,0.5439,1101.0,37483.0,Q5945112,100.0
+Heritage Christian University,2199700.0,0.6667,,,Q5738742,100.0
+J. F. Drake State Community and Technical College,526000.0,,,12015.0,Q6105653,82.0
+Jacksonville State University,102000.0,0.6369,1084.0,21560.0,Q957995,100.0
+Jefferson State Community College,102200.0,,,14127.0,Q6175594,100.0
+Judson College,102300.0,0.5648,1068.0,32380.0,Q1711141,100.0
+Lawson State Community College,105900.0,,,14811.0,Q6505007,100.0
+University of West Alabama,102400.0,0.9313,1035.0,22645.0,Q637346,100.0
+Lurleen B Wallace Community College,898800.0,,,13532.0,Q6704953,100.0
+Marion Military Institute,102600.0,0.575,1147.0,18568.0,Q91647348,42.5
+Miles College,102800.0,,,22684.0,Q2272814,100.0
+University of Mobile,102900.0,0.6657,,36890.0,Q7895847,100.0
+University of Montevallo,100400.0,0.6052,1131.0,26018.0,Q1698206,100.0
+Northwest-Shoals Community College,569700.0,,,13107.0,Q7060428,100.0
+University of North Alabama,101600.0,0.8266,,21502.0,Q1273836,100.0
+Northeast Alabama Community College,103100.0,,,9200.0,Q14679337,100.0
+Oakwood University,103300.0,0.8881,,37764.0,Q1056848,100.0
+Bishop State Community College,103000.0,,,10492.0,Q4917715,100.0
+Samford University,103600.0,0.8399,1219.0,49634.0,Q6381586,100.0
+Shelton State Community College,569100.0,,,14232.0,Q7494031,100.0
+University of South Alabama,105700.0,0.7303,1162.0,21694.0,Q13572981,100.0
+Spring Hill College,104100.0,0.5416,1125.0,55844.0,Q5591503,100.0
+Stillman College,104400.0,0.5553,,27665.0,Q7617251,100.0
+Talladega College,104600.0,,,24220.0,Q7680006,100.0
+H Councill Trenholm State Community College,573400.0,,,12505.0,Q5628144,77.0
+Troy University,104700.0,0.9243,1094.0,21251.0,Q1817686,100.0
+Tuskegee University,105000.0,0.6113,1016.0,40750.0,Q1682329,100.0
+United States Sports Academy,2170600.0,,,,Q7892216,100.0
+Bevill State Community College,573300.0,,,14567.0,Q4899661,100.0
+University of Alaska Anchorage,1146200.0,0.7683,,18946.0,Q1285252,100.0
+Alaska Bible College,884300.0,,,25250.0,Q4708506,100.0
+University of Alaska Fairbanks,106300.0,0.6701,1138.0,19135.0,Q1285262,100.0
+University of Alaska Southeast,106500.0,0.6352,,16310.0,Q94279,100.0
+Alaska Pacific University,106100.0,0.9065,,34350.0,Q1565621,100.0
+Charter College,2576900.0,,,31263.0,Q32287,88.0
+Brookline College-Phoenix,2218800.0,,,,Q4974694,81.0
+Arizona Western College,107100.0,,,15171.0,Q4791459,100.0
+University of Arizona,108300.0,0.8513,1220.0,27461.0,Q503419,100.0
+Central Arizona College,728300.0,,,10699.0,Q5060345,100.0
+Eastern Arizona College,107300.0,,,14462.0,Q5329984,100.0
+Embry-Riddle Aeronautical University-Prescott,147902.0,0.6254,1239.0,54536.0,Q3052113,89.0
+The School of Architecture,2533200.0,,,,Q30263369,100.0
+Glendale Community College,107600.0,,,14471.0,Q5568352,100.0
+Grand Canyon University,107400.0,0.8069,,31376.0,Q4570025,100.0
+GateWay Community College,830300.0,,,15328.0,Q5526971,100.0
+Mesa Community College,107700.0,,,15405.0,Q6821056,100.0
+Mohave Community College,1186400.0,,,12325.0,Q6893709,100.0
+Dine College,824600.0,,,13921.0,Q5278773,100.0
+Northern Arizona University,108200.0,0.8164,,27969.0,Q139901,100.0
+Northland Pioneer College,1186200.0,,,15589.0,Q7059526,100.0
+Phoenix College,107800.0,,,14974.0,Q7186815,100.0
+Pima Community College,726600.0,,,8856.0,Q7194574,100.0
+Pima Medical Institute-Albuquerque,3678302.0,,,,Q7194581,79.0
+Prescott College,2065300.0,0.9842,1141.0,43649.0,Q7240840,100.0
+Rio Salado College,2177500.0,,,13516.0,Q7335324,100.0
+Scottsdale Community College,830400.0,,,15681.0,Q14680717,100.0
+South Mountain Community College,2146600.0,,,14737.0,Q7567992,100.0
+Arizona Christian University,711300.0,0.7147,1031.0,44585.0,Q4791274,100.0
+Yavapai College,107900.0,,,11934.0,Q8050369,100.0
+University of Arkansas at Little Rock,110100.0,0.5604,1098.0,20416.0,Q500154,100.0
+University of Arkansas for Medical Sciences,110900.0,,,,Q941298,100.0
+Arkansas Baptist College,108700.0,,,22405.0,Q4791744,100.0
+Lyon College,108800.0,0.5015,1198.0,41396.0,Q1795504,63.0
+Arkansas Technical School,3023400.0,,,,Q7569290,82.0
+University of Arkansas,110800.0,0.7767,1236.0,23997.0,Q1070333,100.0
+University of Arkansas at Pine Bluff,108600.0,0.5966,900.0,19541.0,Q2495825,100.0
+Arkansas State University,109000.0,0.6719,1149.0,23009.0,Q500131,100.0
+Arkansas Tech University,108900.0,0.9766,,19361.0,Q673111,100.0
+University of Arkansas at Monticello,108500.0,,,18822.0,Q1571390,100.0
+Black River Technical College,2052200.0,,,12970.0,Q4921669,100.0
+University of Central Arkansas,109200.0,0.9378,1166.0,23185.0,Q1782724,100.0
+Cossatot Community College of the University of Arkansas,2220900.0,,,11154.0,Q5174697,100.0
+Crowley's Ridge College,109500.0,,,23348.0,Q5189258,100.0
+East Arkansas Community College,1226000.0,,,12762.0,Q16890796,100.0
+National Park College,1210500.0,,,14685.0,Q14681302,100.0
+Harding University,109700.0,0.5507,1207.0,31647.0,Q5656138,100.0
+Henderson State University,109800.0,0.749,1098.0,23005.0,Q1604967,100.0
+Hendrix College,109900.0,0.7054,,64046.0,Q1605137,100.0
+John Brown University,110000.0,0.5886,1227.0,40774.0,Q6223569,100.0
+Arkansas State University Mid-South,2348200.0,,,13473.0,Q6840792,35.0
+Northwest Technical Institute,2073700.0,,,18248.0,Q7060212,75.0
+Ouachita Baptist University,110200.0,0.6177,1203.0,40200.0,Q7110141,100.0
+Arkansas State University Three Rivers,997600.0,,,12436.0,Q30624947,100.0
+Ozarka College,2087000.0,,,11345.0,Q7116523,100.0
+University of the Ozarks,109400.0,0.559,1070.0,34832.0,Q7896711,100.0
+Philander Smith College,110300.0,,,26178.0,Q7182919,100.0
+Southeast Arkansas College,570700.0,,,12716.0,Q7569290,100.0
+University of Arkansas Community College Rich Mountain,2111100.0,,,12152.0,Q7323380,73.0
+Shorter College,110500.0,,,19113.0,Q7502148,100.0
+Williams Baptist University,110600.0,0.693,1088.0,30063.0,Q8020982,100.0
+South Arkansas Community College,2074600.0,,,12251.0,Q7566003,100.0
+University of Arkansas-Fort Smith,111000.0,,,17288.0,Q2495828,100.0
+Academy of Art University,753100.0,,,43976.0,Q2822225,100.0
+Academy of Chinese Culture and Health Sciences,3288300.0,,,,Q4671433,100.0
+College of Alameda,672000.0,,,17384.0,Q5146625,100.0
+Allan Hancock College,111100.0,,,10701.0,Q4730667,100.0
+Berkeley School of Theology,112000.0,,,,Q6188028,84.0
+American Conservatory Theater,2099200.0,,,,Q7355885,29.5
+American River College,123200.0,,,12243.0,Q2791079,100.0
+Art Center College of Design,111600.0,0.7609,,66046.0,Q3272069,100.0
+Azusa Pacific University,111700.0,0.936,,56802.0,Q4583636,100.0
+Bakersfield College,111800.0,,,13774.0,Q4849288,100.0
+Barstow Community College,111900.0,,,16983.0,Q4865029,100.0
+Bethesda University,3266300.0,,,22453.0,Q25831351,100.0
+Biola University,112200.0,0.6438,1196.0,58012.0,Q864450,100.0
+Butte College,807300.0,,,13806.0,Q5002793,100.0
+California Institute of Integral Studies,1215400.0,,,,Q3444680,100.0
+Cabrillo College,112400.0,,,19207.0,Q1024969,100.0
+California Baptist University,112500.0,0.8018,1064.0,48731.0,Q1563992,100.0
+California College of the Arts,112700.0,0.8545,,68956.0,Q1026804,100.0
+University of California-Hastings College of Law,394700.0,,,,Q3577853,96.0
+California Institute of Technology,113100.0,0.0669,1566.0,74763.0,Q161562,100.0
+California Lutheran University,113300.0,0.7439,1159.0,60668.0,Q1026831,100.0
+California Polytechnic State University-San Luis Obispo,114300.0,0.3843,1325.0,28927.0,Q1026846,100.0
+Alliant International University-San Diego,1111700.0,0.381,,,Q1066989,86.0
+California State University-Bakersfield,799300.0,0.7838,,18661.0,Q1026902,100.0
+California State University-Stanislaus,115700.0,0.8932,,17424.0,Q624564,100.0
+California State University-San Bernardino,114200.0,0.7812,988.0,19114.0,Q1026944,100.0
+California State Polytechnic University-Pomona,114400.0,0.6481,1134.0,22365.0,Q1026868,100.0
+California State University-Chico,114600.0,0.9017,1073.0,25073.0,Q1026912,100.0
+California State University-Dominguez Hills,114100.0,0.812,,15019.0,Q1026909,100.0
+California State University-Fresno,114700.0,0.9011,996.0,17683.0,Q1026919,100.0
+California State University-Fullerton,113700.0,0.6762,1085.0,17791.0,Q1026925,100.0
+California State University-East Bay,113800.0,0.7328,,23357.0,Q1026916,100.0
+California State University-Long Beach,113900.0,0.4212,1133.0,19846.0,Q1026926,100.0
+California State University-Los Angeles,114000.0,0.7648,964.0,15307.0,Q1026932,100.0
+California State University-Northridge,115300.0,0.6581,1006.0,19794.0,Q1026939,100.0
+California State University-Sacramento,115000.0,0.8309,1033.0,21576.0,Q101076543,68.0
+University of California-Berkeley,131200.0,0.1748,1437.0,39016.0,Q168756,100.0
+University of California-Davis,131300.0,0.4635,1299.0,35532.0,Q129421,100.0
+University of California-Irvine,131400.0,0.2992,1339.0,34355.0,Q868421,100.0
+University of California-Los Angeles,131500.0,0.1433,,35497.0,Q174710,100.0
+University of California-Riverside,131600.0,0.6578,1200.0,30561.0,Q1075148,100.0
+University of California-San Diego,131700.0,0.3661,1387.0,33240.0,Q622664,100.0
+University of California-San Francisco,131900.0,,,,Q1061104,100.0
+University of California-Santa Barbara,132000.0,0.367,1369.0,36492.0,Q263064,100.0
+University of California-Santa Cruz,132100.0,0.6473,1284.0,35925.0,Q7895186,72.0
+Sofia University,2267600.0,,,,Q841581,100.0
+California Christian College,884400.0,1.0,,15210.0,Q5020313,100.0
+Haven University,4274800.0,,,,Q917899,82.0
+California Institute of the Arts,113200.0,0.2742,,74111.0,Q1026827,100.0
+California State University Maritime Academy,113400.0,0.8249,,28149.0,Q1026832,100.0
+California Western School of Law,1310300.0,,,,Q5021183,100.0
+Canada College,697300.0,,,9662.0,Q5055561,100.0
+College of the Canyons,890300.0,,,11774.0,Q5146881,100.0
+Cerritos College,116100.0,,,9395.0,Q5064834,100.0
+Cerro Coso Community College,1011100.0,,,17346.0,Q5064897,100.0
+Chabot College,116200.0,,,12377.0,Q5066011,100.0
+Chaffey College,116300.0,,,18264.0,Q5066795,100.0
+Chapman University,116400.0,0.5826,1275.0,74336.0,Q1805085,100.0
+Charles R Drew University of Medicine and Science,1036500.0,0.25,,33171.0,Q5081831,100.0
+Concordia University-Irvine,2070500.0,0.7818,1128.0,53235.0,Q5158998,100.0
+San Diego Christian College,1203100.0,0.4967,1016.0,47755.0,Q7413609,100.0
+Church Divinity School of the Pacific,116500.0,,,,Q5116581,100.0
+Citrus College,116600.0,,,12322.0,Q5122883,100.0
+City College of San Francisco,450200.0,,,14724.0,Q2974556,100.0
+Claremont Graduate University,116900.0,,,,Q50015,100.0
+Claremont McKenna College,117000.0,0.1334,1436.0,76475.0,Q5126318,100.0
+Coastline Community College,2063500.0,,,16142.0,Q5138391,100.0
+University of Silicon Valley,117700.0,0.4194,,32382.0,Q6156824,94.0
+Columbia College,770700.0,,,14989.0,Q49088,100.0
+Columbia College Hollywood,2110200.0,,,35331.0,Q5149660,100.0
+Compton College,4281700.0,,,16383.0,Q5350877,100.0
+Contra Costa College,119000.0,,,13667.0,Q5165598,100.0
+Cosumnes River College,753600.0,,,11035.0,Q5175230,100.0
+Crafton Hills College,927200.0,,,24369.0,Q5180556,100.0
+Cuesta College,119200.0,,,18498.0,Q5192620,100.0
+Cuyamaca College,2111300.0,,,12722.0,Q5197087,100.0
+Cypress College,119300.0,,,13711.0,Q5200315,100.0
+De Anza College,448000.0,,,12838.0,Q928272,100.0
+College of the Desert,118200.0,,,19432.0,Q5146883,100.0
+Diablo Valley College,119100.0,,,13754.0,Q5270173,100.0
+Dominican School of Philosophy & Theology,129600.0,,,,Q1237670,95.0
+East Los Angeles College,2226000.0,,,18405.0,Q5328880,100.0
+Emperor's College of Traditional Oriental Medicine,2609000.0,,,,Q5373859,100.0
+Empire College,903200.0,,,,Q5374058,100.0
+Evergreen Valley College,1245200.0,,,18639.0,Q5417253,100.0
+FIDM-Fashion Institute of Design & Merchandising-Los Angeles,1111200.0,0.382,,51281.0,Q5436735,83.0
+FIDM-Fashion Institute of Design & Merchandising-San Francisco,1111202.0,0.382,,49998.0,Q5436735,81.0
+Fielding Graduate University,2096100.0,,,,Q5447173,100.0
+Five Branches University,3131300.0,,,,Q5455840,100.0
+Foothill College,119900.0,,,13752.0,Q5466480,100.0
+Franciscan School of Theology,1179200.0,,,,Q5483015,100.0
+Fresno City College,130700.0,,,10995.0,Q2587006,100.0
+Fresno Pacific University,125300.0,0.6694,1019.0,43317.0,Q2587376,100.0
+Fuller Theological Seminary,120000.0,,,,Q262617,100.0
+Fullerton College,120100.0,,,14803.0,Q5508288,100.0
+Gavilan College,120200.0,,,12401.0,Q5528065,100.0
+Glendale Community College,120300.0,,,11366.0,Q5568352,100.0
+Golden Gate University,120500.0,,,,Q1534879,100.0
+Golden West College,120600.0,,,11401.0,Q5579962,100.0
+Graduate Theological Union,120700.0,,,,Q3113166,100.0
+Grossmont College,120800.0,,,11511.0,Q5610609,100.0
+Hartnell College,120900.0,,,13195.0,Q5675100,100.0
+Harvey Mudd College,117100.0,0.1796,1534.0,79539.0,Q12236173,100.0
+Holy Names University,118300.0,0.8912,,57486.0,Q5885852,100.0
+California State Polytechnic University-Humboldt,114900.0,0.8514,1081.0,24991.0,Q624560,100.0
+Imperial Valley College,121400.0,,,10240.0,Q14682464,100.0
+Institute for Business and Technology,2128300.0,,,,Q4919440,90.0
+Irvine Valley College,2539500.0,,,11978.0,Q6074403,100.0
+American Jewish University,274100.0,,,,Q1563835,100.0
+Reedley College,130800.0,,,12717.0,Q7306738,100.0
+Life Pacific University,2270600.0,0.931,1015.0,29158.0,Q6544942,100.0
+University of La Verne,121600.0,0.7625,1054.0,60759.0,Q8214783,100.0
+Lake Tahoe Community College,1290700.0,,,10947.0,Q6477941,100.0
+Laney College,126600.0,,,19375.0,Q6485557,100.0
+Lassen Community College,121700.0,,,15778.0,Q6493966,74.0
+Latin American Bible Institute,4284300.0,0.7273,,,Q6496201,85.0
+Lincoln University,697500.0,,,,Q1048626,100.0
+La Sierra University,121500.0,0.5697,1048.0,45629.0,Q6465284,100.0
+Loma Linda University,121800.0,,,,Q1057447,100.0
+Long Beach City College,121900.0,,,12061.0,Q10863001,100.0
+Southern California University of Health Sciences,122900.0,,,,Q7569745,100.0
+Los Angeles Harbor College,122400.0,,,18393.0,Q12061371,100.0
+Los Angeles Pierce College,122600.0,,,18941.0,Q10863000,100.0
+Los Angeles Southwest College,704700.0,,,16826.0,Q6682339,100.0
+Los Angeles Trade Technical College,122700.0,,,16343.0,Q9091546,100.0
+Los Angeles Valley College,122800.0,,,17215.0,Q6682369,100.0
+The Master's University and Seminary,122000.0,0.5988,,40783.0,Q3851554,78.0
+Los Angeles City College,122300.0,,,16506.0,Q1727138,100.0
+Los Angeles Mission College,1255000.0,,,18781.0,Q6682269,100.0
+Los Medanos College,1034000.0,,,13497.0,Q6682943,100.0
+Loyola Marymount University,1164900.0,0.5014,1320.0,70235.0,Q1786078,100.0
+MTI College,1291200.0,0.8023,,,Q17026946,100.0
+College of Marin,117800.0,,,15841.0,Q5146760,100.0
+Mendocino College,1167200.0,,,16849.0,Q6816680,100.0
+Merced College,123700.0,,,19055.0,Q6818062,100.0
+Merritt College,126700.0,,,18713.0,Q6820339,100.0
+Mills College,123800.0,0.9114,1180.0,48360.0,Q638859,100.0
+MiraCosta College,123900.0,,,11676.0,Q6872180,100.0
+Mission College,2119100.0,,,11905.0,Q726793,100.0
+Modesto Junior College,124000.0,,,18505.0,Q6889228,100.0
+Middlebury Institute of International Studies at Monterey,369110.0,0.2204,1444.0,,Q1946114,100.0
+Monterey Peninsula College,124200.0,,,18472.0,Q6905338,100.0
+Moorpark College,711500.0,,,9365.0,Q6908463,100.0
+Mt San Antonio College,124500.0,,,10827.0,Q6930336,100.0
+Mount Saint Mary's University,124300.0,0.8933,1014.0,57689.0,Q6923804,100.0
+Musicians Institute,2161800.0,0.6844,,41195.0,Q679759,100.0
+Napa Valley College,124700.0,,,20895.0,Q6964796,100.0
+National University,1146000.0,0.8936,,26208.0,Q1568237,100.0
+Naval Postgraduate School,131000.0,,,,Q1515048,100.0
+Notre Dame de Namur University,117900.0,,,,Q7063485,100.0
+Occidental College,124900.0,0.409,1378.0,76600.0,Q1346110,100.0
+Ohlone College,448100.0,,,17095.0,Q7081084,100.0
+Orange Coast College,125000.0,,,11715.0,Q7099536,100.0
+Oxnard College,1284200.0,,,9662.0,Q7115703,100.0
+Hope International University,125200.0,0.3829,1029.0,46231.0,Q5899317,100.0
+Palo Alto University,2138300.0,,,,Q2587890,100.0
+Pacific Oaks College,125500.0,0.2667,,,Q7122600,100.0
+Pacific School of Religion,125600.0,,,,Q4458746,100.0
+Pacific States University,3163300.0,,,,Q7122708,100.0
+Pacific Union College,125800.0,0.5917,1030.0,44714.0,Q3360203,100.0
+University of the Pacific,132900.0,0.7075,1221.0,64784.0,Q630226,100.0
+Palo Verde College,125900.0,,,17656.0,Q7128537,100.0
+Palomar College,126000.0,,,13033.0,Q7128599,100.0
+Pasadena City College,126100.0,,,11386.0,Q7141532,100.0
+Pepperdine University,1014900.0,0.4185,1314.0,75312.0,Q117876,100.0
+Platt College-San Diego,2304300.0,,,31593.0,Q7202471,100.0
+Point Loma Nazarene University,126200.0,0.8355,1210.0,53045.0,Q7208069,100.0
+Pomona College,117300.0,0.0862,,74438.0,Q7227384,100.0
+Porterville College,126800.0,,,11968.0,Q7231703,100.0
+Santa Ana College,128400.0,,,12076.0,Q7419158,100.0
+Pardee RAND Graduate School,1044100.0,,,,Q11347596,100.0
+University of Redlands,132200.0,0.6865,1135.0,68156.0,Q1270831,100.0
+College of the Redwoods,118500.0,,,11792.0,Q2465519,100.0
+Rio Hondo College,126900.0,,,12245.0,Q7335261,100.0
+Riverside City College,127000.0,,,13890.0,Q14683818,100.0
+Sacramento City College,123300.0,,,12766.0,Q7396963,100.0
+Saddleback College,891800.0,,,13237.0,Q7397744,100.0
+Samuel Merritt University,701200.0,,,,Q7412178,100.0
+San Diego City College,127300.0,,,13143.0,Q7413611,100.0
+San Diego Mesa College,127500.0,,,13223.0,Q7413692,100.0
+San Diego Miramar College,1182000.0,,,12431.0,Q5390871,100.0
+San Diego State University,115100.0,0.367,1207.0,23367.0,Q913861,100.0
+University of San Diego,1039500.0,0.587,,70440.0,Q262663,100.0
+San Francisco Art Institute,394800.0,0.9467,,70023.0,Q586735,100.0
+San Francisco Conservatory of Music,127800.0,0.4562,,69135.0,Q2034815,100.0
+San Francisco State University,115400.0,0.8409,1030.0,24513.0,Q1256981,100.0
+University of San Francisco,132500.0,0.703,1248.0,69987.0,Q1887879,100.0
+San Joaquin College of Law,2500000.0,,,,Q7414385,100.0
+San Joaquin Delta College,128000.0,,,21683.0,Q17066372,100.0
+William Jessup University,128100.0,0.6521,,50819.0,Q8013573,100.0
+San Jose City College,128200.0,,,21322.0,Q7414439,100.0
+San Jose State University,115500.0,0.6737,1127.0,25747.0,Q498526,100.0
+College of San Mateo,118100.0,,,9117.0,Q18409139,100.0
+Santa Barbara City College,128500.0,,,14618.0,Q7419214,100.0
+Santa Clara University,132600.0,0.5072,1367.0,74297.0,Q992830,100.0
+Santa Monica College,128600.0,,,11347.0,Q1033692,100.0
+Santa Rosa Junior College,128700.0,,,13885.0,Q7419896,100.0
+Saybrook University,2120600.0,,,,Q7429134,100.0
+Scripps College,117400.0,0.3513,1406.0,77588.0,Q10664609,100.0
+College of the Sequoias,118600.0,,,8441.0,Q5146897,100.0
+Shasta Bible College and Graduate School,2359300.0,1.0,,18260.0,Q7490591,100.0
+Shasta College,128900.0,,,12023.0,Q7490593,100.0
+Sierra College,129000.0,,,11415.0,Q7511366,100.0
+Trinity Law School,177212.0,0.8592,1079.0,,Q14684169,100.0
+Simpson University,129100.0,0.5972,1099.0,46394.0,Q7521155,100.0
+College of the Siskiyous,118700.0,,,15938.0,Q5146898,100.0
+Skyline College,771300.0,,,9473.0,Q7537896,100.0
+San Bernardino Valley College,127200.0,,,14713.0,Q7413443,100.0
+Saint Mary's College of California,130200.0,0.7731,1174.0,69071.0,Q7401829,100.0
+Solano Community College,129200.0,,,13091.0,Q7555714,100.0
+Sonoma State University,115600.0,0.8912,1050.0,26537.0,Q624571,100.0
+South Coast College,2277400.0,,,22814.0,Q7566851,100.0
+Vanguard University of Southern California,129300.0,0.4999,1050.0,48086.0,Q7914844,100.0
+Southwestern College,129400.0,,,12806.0,Q4791274,100.0
+St John's Seminary,129900.0,,,,Q7588840,100.0
+Starr King School for the Ministry,408000.0,,,,Q7602223,100.0
+Marshall B Ketchum University,123000.0,,,,Q7569707,100.0
+Southern California Institute of Architecture,2075800.0,0.673,1180.0,70734.0,Q1786506,100.0
+University of Southern California,132800.0,0.1611,1441.0,77362.0,Q4614,100.0
+Southwestern Law School,129500.0,,,,Q7571428,100.0
+Taft College,130900.0,,,15037.0,Q7675030,100.0
+Claremont School of Theology,128800.0,,,,Q5126331,100.0
+Thomas Aquinas College,2358000.0,0.8553,1297.0,38164.0,Q7787106,100.0
+Ventura College,133400.0,,,9371.0,Q7920365,100.0
+The Santa Barbara and Ventura Colleges of Law at Ventura,4250100.0,,,,Q7419201,80.0
+Victor Valley College,133500.0,,,16951.0,Q7926413,100.0
+Berkeley City College,2242700.0,,,15451.0,Q4891998,100.0
+Walden University,2504200.0,,,,Q7961485,100.0
+West Hills College-Coalinga,117600.0,,,15687.0,Q18706107,100.0
+West Los Angeles College,859600.0,,,15783.0,Q7985808,100.0
+West Valley College,133800.0,,,12182.0,Q7986758,100.0
+Westminster Theological Seminary in California,2276800.0,,,,Q7989214,81.0
+Westmont College,134100.0,0.7016,1259.0,64240.0,Q3444458,100.0
+Whittier College,134200.0,0.7233,,61052.0,Q7996868,100.0
+Woodbury University,134300.0,0.704,,55032.0,Q3445331,100.0
+The Wright Institute,884600.0,,,,Q12204488,38.0
+Thomas Jefferson School of Law,1085400.0,,,,Q7791286,100.0
+Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,2262400.0,0.7286,,27734.0,Q8052835,100.0
+Yuba College,134400.0,,,12942.0,Q8060105,100.0
+Adams State University,134500.0,0.9988,1004.0,22317.0,Q351971,100.0
+Aims Community College,758200.0,,,12903.0,Q4697183,100.0
+Arapahoe Community College,134600.0,,,14919.0,Q4784195,100.0
+University of Colorado Colorado Springs,450900.0,0.8961,,22169.0,Q2495841,100.0
+Spartan College of Aeronautics and Technology,729700.0,,,29204.0,Q7573895,100.0
+University of Colorado Boulder,137000.0,0.842,1268.0,31034.0,Q736674,100.0
+Colorado Christian University,940100.0,,,46894.0,Q5148756,100.0
+Colorado College,134700.0,0.136,,74760.0,Q1111261,100.0
+Colorado Mountain College,450600.0,,,11457.0,Q5148844,100.0
+Colorado Northwestern Community College,135900.0,,,18968.0,Q5148854,100.0
+Colorado School of Mines,134800.0,0.5497,1372.0,36107.0,Q1111367,100.0
+Colorado State University-Fort Collins,135000.0,0.8352,1199.0,27513.0,Q1111640,79.0
+Colorado Technical University-Colorado Springs,1014800.0,,,23174.0,Q5148968,77.0
+Community College of Aurora,2276900.0,,,15774.0,Q5154688,100.0
+Denver Seminary,135200.0,,,,Q5259781,100.0
+University of Denver,137100.0,0.6067,1296.0,69469.0,Q519427,100.0
+Fort Lewis College,135300.0,0.9151,1037.0,23881.0,Q1438597,100.0
+Front Range Community College,793300.0,,,16622.0,Q5505816,100.0
+Iliff School of Theology,135400.0,,,,Q5998152,100.0
+Lamar Community College,135500.0,,,17835.0,Q6480842,100.0
+Colorado Mesa University,135800.0,0.7544,,22143.0,Q1507218,100.0
+Metropolitan State University of Denver,136000.0,0.8333,973.0,19975.0,Q613736,100.0
+Morgan Community College,998100.0,,,15093.0,Q6911609,100.0
+Naropa University,2117500.0,1.0,,51142.0,Q2975783,100.0
+Nazarene Bible College,1300700.0,,,,Q6983269,100.0
+Northeastern Junior College,136100.0,,,18400.0,Q7058041,100.0
+University of Northern Colorado,134900.0,0.877,1099.0,23864.0,Q1783608,100.0
+Otero Junior College,136200.0,,,18040.0,Q7108531,100.0
+Pikes Peak Community College,889600.0,,,17112.0,Q7193647,100.0
+Pueblo Community College,2116300.0,,,18270.0,Q7258436,100.0
+Red Rocks Community College,954300.0,,,14480.0,Q7304941,100.0
+Regis University,136300.0,0.782,1143.0,51593.0,Q649299,100.0
+Colorado State University Pueblo,136500.0,0.9431,1022.0,21950.0,Q1111515,100.0
+Trinidad State College,136800.0,,,19905.0,Q7842406,86.0
+United States Air Force Academy,136900.0,0.1343,1371.0,,Q1331280,100.0
+Western Colorado University,137200.0,0.885,1110.0,24194.0,Q2564975,100.0
+Asnuntuck Community College,1115000.0,,,12543.0,Q4807464,100.0
+University of Bridgeport,141600.0,0.7095,1026.0,53853.0,Q1055874,100.0
+Central Connecticut State University,137800.0,0.6485,1062.0,22518.0,Q1053764,100.0
+Charter Oak State College,3234300.0,,,16369.0,Q32287,100.0
+Connecticut College,137900.0,0.3772,1400.0,74590.0,Q1797448,100.0
+University of Connecticut,141700.0,0.6379,1222.0,33896.0,Q49206,100.0
+Goodwin University,2244900.0,,,33558.0,Q4151520,56.0
+Eastern Connecticut State University,142500.0,0.697,,27425.0,Q1278152,100.0
+Fairfield University,138500.0,0.5613,1281.0,67080.0,Q1393265,100.0
+Capital Community College,763500.0,,,15618.0,Q5035532,100.0
+Hartford Seminary,138700.0,,,,Q4496116,100.0
+University of Hartford,142200.0,0.7741,1129.0,57475.0,Q747053,100.0
+Holy Apostles College and Seminary,138900.0,,,,Q722186,100.0
+Housatonic Community College,451300.0,,,11816.0,Q5913494,100.0
+Manchester Community College,139200.0,,,12790.0,Q6747336,100.0
+Naugatuck Valley Community College,698200.0,,,12245.0,Q6981119,100.0
+Middlesex Community College,803800.0,,,9205.0,Q2075221,100.0
+Mitchell College,139300.0,0.7422,,48699.0,Q4296923,100.0
+Three Rivers Community College,976500.0,,,11935.0,Q7797727,100.0
+University of New Haven,139700.0,0.911,1147.0,58438.0,Q917899,100.0
+Norwalk Community College,139900.0,,,12710.0,Q7060777,100.0
+Northwestern Connecticut Community College,139800.0,,,10880.0,Q7060299,100.0
+Paier College,745900.0,0.9449,,22945.0,Q319761,59.0
+Post University,140100.0,,,30161.0,Q4374296,100.0
+Quinebaug Valley Community College,1053000.0,,,14482.0,Q7272216,100.0
+Quinnipiac University,140200.0,0.8239,,66237.0,Q1030044,100.0
+Sacred Heart University,140300.0,0.6553,,61591.0,Q1276963,100.0
+University of Saint Joseph,140900.0,0.7802,1073.0,50959.0,Q24399,100.0
+Gateway Community College,803700.0,,,12907.0,Q5526971,100.0
+Southern Connecticut State University,140600.0,0.7968,,25413.0,Q1253123,100.0
+Trinity College,141400.0,0.3604,,76850.0,Q258464,100.0
+Tunxis Community College,976400.0,,,12455.0,Q14715133,100.0
+United States Coast Guard Academy,141500.0,0.2009,1332.0,,Q650935,100.0
+Wesleyan University,142400.0,0.209,,75693.0,Q49167,100.0
+Western Connecticut State University,138000.0,0.8072,,23110.0,Q1552113,100.0
+Yale University,142600.0,0.0653,1520.0,76645.0,Q49112,100.0
+Delaware State University,142800.0,0.3934,923.0,23888.0,Q1183967,100.0
+University of Delaware,143100.0,0.6599,1254.0,28708.0,Q1068072,100.0
+Goldey-Beacom College,142900.0,0.5521,,39197.0,Q14685417,100.0
+Wesley College,143300.0,0.5859,933.0,40704.0,Q7983886,100.0
+Wilmington University,794800.0,,,18524.0,Q13564053,100.0
+American University,143400.0,0.3865,1328.0,66416.0,Q168000,100.0
+The Catholic University of America,143700.0,0.8223,,65857.0,Q179036,100.0
+University of the District of Columbia,144100.0,,,22638.0,Q3551751,100.0
+Pontifical Faculty of the Immaculate Conception at the Dominican House of Studies,1280300.0,,,,Q5290747,73.0
+Gallaudet University,144300.0,0.6262,904.0,38892.0,Q1056373,100.0
+George Washington University,144400.0,0.4304,1385.0,74023.0,Q432637,100.0
+Georgetown University,144500.0,0.1681,1473.0,76280.0,Q333886,100.0
+Howard University,144800.0,0.3864,1192.0,45971.0,Q1068752,100.0
+Trinity Washington University,146000.0,0.9579,,32710.0,Q3539296,100.0
+Wesley Theological Seminary,146400.0,,,,Q7984013,100.0
+The Baptist College of Florida,2159600.0,0.7556,1055.0,19926.0,Q4857614,93.0
+Barry University,146600.0,0.653,,47118.0,Q809106,100.0
+Bethune-Cookman University,146700.0,0.9773,919.0,30219.0,Q3298457,100.0
+Lynn University,150500.0,0.7868,,55651.0,Q3269570,100.0
+Eastern Florida State College,147000.0,,,9443.0,Q14685856,100.0
+College of Central Florida,147100.0,,,14143.0,Q7895238,69.0
+Johnson University Florida,349503.0,0.5052,1039.0,27611.0,Q5461269,61.0
+University of Central Florida,395400.0,0.4517,1261.0,21309.0,Q143451,100.0
+Daytona State College,147500.0,,,12978.0,Q5243619,100.0
+Eckerd College,148700.0,0.6858,,63342.0,Q5332879,100.0
+Edward Waters University,147800.0,0.5703,903.0,26503.0,Q5345817,58.0
+Embry-Riddle Aeronautical University-Daytona Beach,147900.0,0.6254,1239.0,54724.0,Q3052113,84.0
+Florida Agricultural and Mechanical University,148000.0,0.3298,1101.0,23312.0,Q1430048,100.0
+Florida Atlantic University,148100.0,0.7478,1147.0,21761.0,Q429863,100.0
+Florida State College at Jacksonville,148400.0,,,9145.0,Q5461608,100.0
+Flagler College,789300.0,0.5649,1125.0,35809.0,Q5456945,61.0
+Florida College,148200.0,0.7634,1107.0,30016.0,Q5461285,100.0
+AdventHealth University,3115500.0,0.9087,1089.0,33648.0,Q4686466,74.0
+Florida Institute of Technology,146900.0,0.7085,1241.0,59433.0,Q3152650,100.0
+Florida International University,963500.0,0.5788,1190.0,19384.0,Q1065809,100.0
+The College of the Florida Keys,148500.0,,,21064.0,Q8563967,66.0
+Florida Memorial University,148600.0,0.3841,,28157.0,Q5461515,100.0
+Florida Southern College,148800.0,0.5037,1230.0,52794.0,Q5461600,100.0
+Florida State University,148900.0,0.3245,1308.0,22278.0,Q861548,100.0
+University of Florida,153500.0,0.3199,1381.0,21151.0,Q501758,100.0
+Full Sail University,2362100.0,,,35865.0,Q5508130,100.0
+Key College,2325100.0,,,15356.0,Q6404613,81.0
+Hillsborough Community College,787000.0,,,9288.0,Q5763679,100.0
+Hobe Sound Bible College,2188900.0,,,14488.0,Q5874998,100.0
+International Academy,2257900.0,,,,Q4076909,86.0
+AI Miami International University of Art and Design,887800.0,,,27974.0,Q6827343,93.0
+Jacksonville University,149500.0,0.7774,1115.0,54991.0,Q935018,100.0
+Lake Technical College,2228300.0,,,,Q7405883,77.0
+Luther Rice College & Seminary,3100900.0,0.4444,,,Q6705628,100.0
+Miami Dade College,150600.0,,,11345.0,Q3027788,100.0
+University of Miami,153600.0,0.3309,1354.0,69563.0,Q738258,100.0
+North Florida College,150800.0,,,9001.0,Q7055358,81.0
+University of North Florida,984100.0,0.7992,1144.0,19469.0,Q1473796,100.0
+Nova Southeastern University,150900.0,0.7624,1145.0,50429.0,Q1798499,100.0
+Northwest Florida State College,151000.0,,,12351.0,Q7060041,100.0
+Palm Beach Atlantic University,884900.0,0.9171,1127.0,49839.0,Q7127976,100.0
+Palm Beach State College,151200.0,,,16053.0,Q7128010,100.0
+Pasco-Hernando State College,1065200.0,,,10934.0,Q7141850,73.0
+Pensacola State College,151300.0,,,9421.0,Q7164705,100.0
+Polk State College,151400.0,,,13931.0,Q22058818,42.0
+Ringling College of Art and Design,1257400.0,0.6851,,69060.0,Q3936030,100.0
+Rollins College,151500.0,0.6081,,66805.0,Q2164222,100.0
+Saint Leo University,152600.0,0.73,,38890.0,Q892503,100.0
+St Petersburg College,152800.0,,,11834.0,Q7591484,100.0
+Santa Fe College,151900.0,,,13888.0,Q7419511,100.0
+Seminole State College of Florida,152000.0,,,13075.0,Q7449539,100.0
+Sheridan Technical College,990200.0,,,,Q29093802,38.0
+St. John Vianney College Seminary,807500.0,0.9231,,40000.0,Q7588924,100.0
+University of South Florida,153700.0,0.4924,1256.0,21134.0,Q500606,100.0
+St. Thomas University,146800.0,0.5962,1004.0,46539.0,Q2323376,100.0
+Stetson University,153100.0,0.8149,,63006.0,Q2341039,100.0
+Southeastern University,152100.0,0.4266,1081.0,39276.0,Q7569505,100.0
+Tallahassee Community College,153300.0,,,9290.0,Q1454789,100.0
+The University of Tampa,153800.0,0.5551,1174.0,46341.0,Q751289,100.0
+Trinity Baptist College,3101900.0,0.6748,1006.0,22571.0,Q7842579,100.0
+Trinity College of Florida,3028200.0,0.5048,957.0,25963.0,Q7842694,94.0
+Valencia College,675000.0,,,10735.0,Q7910651,100.0
+Warner University,884800.0,0.5412,,34297.0,Q7969774,100.0
+Webber International University,154000.0,0.474,951.0,42702.0,Q7978693,100.0
+The University of West Florida,395500.0,0.5756,1168.0,17716.0,Q659255,93.0
+Agnes Scott College,154200.0,0.6752,,55403.0,Q2826926,100.0
+Albany Technical College,560100.0,,,8609.0,Q4709395,100.0
+Albany State University,154400.0,0.7302,858.0,19309.0,Q4709390,100.0
+Atlanta Technical College,854300.0,,,9429.0,Q4816162,100.0
+Point University,154700.0,0.3487,1007.0,34160.0,Q5756235,86.0
+Atlanta's John Marshall Law School,3173300.0,,,,Q6246901,83.0
+Clark Atlanta University,155900.0,0.5905,974.0,39194.0,Q4572296,100.0
+Berry College,155400.0,0.7722,,52966.0,Q4894781,100.0
+Brenau University,155600.0,0.9219,1047.0,44094.0,Q4960619,100.0
+Brewton-Parker College,155700.0,0.9814,,31902.0,Q4962789,100.0
+College of Coastal Georgia,155800.0,0.9594,1006.0,18200.0,Q5146666,100.0
+West Georgia Technical College,1048700.0,,,10042.0,Q7985209,100.0
+Clayton  State University,897600.0,0.6854,,18374.0,Q5130334,100.0
+Columbia Theological Seminary,156000.0,,,,Q5149859,100.0
+Columbus Technical College,562400.0,,,12259.0,Q5150133,100.0
+Columbus State University,156100.0,0.7832,1007.0,19807.0,Q5150130,100.0
+Georgia Northwestern Technical College,402400.0,,,10980.0,Q16994044,100.0
+Covenant College,348400.0,0.9755,1209.0,49420.0,Q5178987,100.0
+South University-Savannah,1303900.0,,,30800.0,Q7568720,100.0
+East Georgia State College,1099700.0,,,14618.0,Q5328416,100.0
+Emmanuel College,156300.0,0.5275,1005.0,31589.0,Q3052646,100.0
+Emory University,156400.0,0.2103,1454.0,72604.0,Q621043,100.0
+Georgia Highlands College,950700.0,,,11974.0,Q16994039,100.0
+Fort Valley State University,156600.0,0.7232,,20264.0,Q5472214,100.0
+Georgia Southwestern State University,157300.0,0.734,1040.0,19125.0,Q5547746,100.0
+Georgia College & State University,160200.0,0.8594,1194.0,28707.0,Q5547419,100.0
+Georgia Southern University,157200.0,0.9117,1083.0,22608.0,Q624959,100.0
+Georgia State University,157400.0,0.8094,1147.0,27206.0,Q1509333,100.0
+University of Georgia,159800.0,0.4838,1384.0,27329.0,Q761534,100.0
+Gordon State College,157500.0,0.7878,986.0,15024.0,Q5585003,100.0
+Southern Crescent Technical College,562100.0,,,14629.0,Q7569810,100.0
+Interdenominational Theological Center,156800.0,,,,Q6046045,100.0
+LaGrange College,157800.0,0.5967,1077.0,46034.0,Q6460745,100.0
+Lanier Technical College,525400.0,,,13171.0,Q6487078,100.0
+Life University,2074800.0,0.9681,1003.0,37684.0,Q6545022,100.0
+Mercer University,158000.0,0.7816,1285.0,52940.0,Q1798612,100.0
+Morehouse College,158200.0,0.7707,,48802.0,Q1524124,100.0
+Morehouse School of Medicine,2482100.0,,,,Q6911272,100.0
+Oglethorpe University,158600.0,0.6693,1203.0,55451.0,Q4400868,100.0
+Paine College,158700.0,0.7499,899.0,26534.0,Q7124862,100.0
+Piedmont University,158800.0,0.7008,1085.0,40949.0,Q7191499,100.0
+Reinhardt University,158900.0,0.9869,1073.0,39983.0,Q7310359,100.0
+Savannah Technical College,561800.0,,,12978.0,Q7427891,100.0
+Savannah College of Art and Design,2141500.0,0.7792,,58367.0,Q20857859,18.5
+Savannah State University,159000.0,0.4614,925.0,16819.0,Q3474474,100.0
+Shorter University,159100.0,0.7093,1071.0,34403.0,Q7502154,100.0
+South Georgia Technical College,561700.0,,,11576.0,Q7567348,100.0
+The Creative Circus,2285500.0,,,,Q7727993,100.0
+Spelman College,159400.0,0.5258,1129.0,54163.0,Q7575916,100.0
+Thomas University,155500.0,0.3452,881.0,27354.0,Q7794632,100.0
+Toccoa Falls College,159600.0,0.5773,,37297.0,Q7811969,100.0
+Wiregrass Georgia Technical College,525600.0,,,11201.0,Q8026801,100.0
+Valdosta State University,159900.0,0.7845,1072.0,20998.0,Q2508061,100.0
+Wesleyan College,160000.0,0.5981,1052.0,34952.0,Q3446272,100.0
+University of West Georgia,160100.0,0.7762,1012.0,23684.0,Q2495945,100.0
+Young Harris College,160400.0,0.6503,1065.0,44203.0,Q14686966,100.0
+Chaminade University of Honolulu,160500.0,0.8897,1056.0,38649.0,Q1725405,100.0
+University of Hawaii at Hilo,161100.0,0.7383,1046.0,20440.0,Q2150914,100.0
+University of Hawaii at Manoa,161000.0,0.8369,1181.0,23405.0,Q217439,100.0
+Hawaii Pacific University,727900.0,0.814,1067.0,47698.0,Q1591615,100.0
+Honolulu Community College,161200.0,,,13226.0,Q5896667,100.0
+Kapiolani Community College,161300.0,,,11912.0,Q6366682,100.0
+Kauai Community College,161400.0,,,13897.0,Q6378632,100.0
+Leeward Community College,454900.0,,,13392.0,Q6516572,100.0
+University of Hawaii Maui College,161500.0,,,16868.0,Q7895485,100.0
+University of Hawaii-West Oahu,2107800.0,0.9523,1012.0,19914.0,Q1171185,100.0
+Windward Community College,1122000.0,,,16556.0,Q8024795,100.0
+Boise Bible College,2234500.0,0.9038,988.0,24258.0,Q4938441,100.0
+Boise State University,161600.0,0.7749,1135.0,21621.0,Q891082,100.0
+College of Eastern Idaho,1113300.0,,,12309.0,Q5330206,80.0
+Idaho State University,162000.0,,,20652.0,Q1656608,100.0
+University of Idaho,162600.0,0.7444,1116.0,21525.0,Q1854488,100.0
+The College of Idaho,161700.0,0.4835,1153.0,45607.0,Q5146733,100.0
+Northwest Nazarene University,162400.0,0.7683,1098.0,42068.0,Q7060132,100.0
+Brigham Young University-Idaho,162500.0,0.9701,1132.0,12381.0,Q1029431,100.0
+College of Southern Idaho,161900.0,,,11990.0,Q111943971,26.0
+American Islamic College,2311300.0,,,,Q42417604,100.0
+School of the Art Institute of Chicago,175300.0,0.7778,1161.0,68575.0,Q112311962,47.5
+Augustana College,163300.0,0.5735,,55924.0,Q3298337,100.0
+Aurora University,163400.0,0.8395,1066.0,35658.0,Q777323,100.0
+Southwestern Illinois College,163600.0,,,11621.0,Q7571420,100.0
+Bethany Theological Seminary,163700.0,,,,Q4897784,100.0
+Black Hawk College,163800.0,,,11625.0,Q4920876,100.0
+Blackburn College,163900.0,0.5518,1006.0,32584.0,Q4922668,100.0
+Bradley University,164100.0,0.7328,1196.0,48295.0,Q897052,100.0
+Carl Sandburg College,726500.0,,,10663.0,Q5040755,100.0
+Catholic Theological Union at Chicago,923200.0,,,,Q5053247,83.0
+The Chicago School of Professional Psychology at Chicago,2155307.0,0.101,,,Q7722398,100.0
+Chicago State University,169400.0,0.4642,887.0,21867.0,Q915866,100.0
+Chicago Theological Seminary,166100.0,,,,Q5095808,100.0
+University of Chicago,177400.0,0.0731,1537.0,81531.0,Q131252,100.0
+City Colleges of Chicago-Malcolm X College,165000.0,,,9137.0,Q6742723,58.0
+City Colleges of Chicago-Wilbur Wright College,165500.0,,,8174.0,Q8000254,63.0
+Columbia College Chicago,166500.0,0.8953,,45103.0,Q5149662,100.0
+Concordia University-Chicago,166600.0,0.7854,1099.0,42750.0,Q5159004,100.0
+Danville Area Community College,166900.0,,,9948.0,Q5221341,100.0
+DePaul University,167100.0,0.7024,,57122.0,Q1179603,100.0
+College of DuPage,665600.0,,,12606.0,Q5146678,100.0
+East-West University,2168600.0,,,29370.0,Q5329668,100.0
+Eastern Illinois University,167400.0,0.5554,1058.0,24125.0,Q624985,100.0
+Elgin Community College,167500.0,,,8729.0,Q5360020,100.0
+Eureka College,167800.0,0.6136,1026.0,37986.0,Q5411163,100.0
+Fox College,2522800.0,0.5,,21434.0,Q5303107,72.0
+Garrett-Evangelical Theological Seminary,168200.0,,,,Q5523962,100.0
+Gem City College,456000.0,,,,Q113275604,78.0
+Governors State University,914500.0,0.4784,956.0,21549.0,Q1540471,100.0
+Greenville University,168400.0,0.5921,1014.0,40959.0,Q5604671,100.0
+Highland Community College,168100.0,,,11969.0,Q5758717,100.0
+Rosalind Franklin University of Medicine and Science,165900.0,,,,Q7367225,100.0
+University of Illinois Chicago,177600.0,0.7263,1159.0,25831.0,Q955764,100.0
+Benedictine University,176700.0,0.6099,1097.0,46006.0,Q4887352,100.0
+Illinois College of Optometry,168900.0,,,,Q5999410,100.0
+University of Illinois Urbana-Champaign,177500.0,0.633,1352.0,30302.0,Q457281,100.0
+Illinois Wesleyan University,169600.0,0.5693,1233.0,63174.0,Q2159219,100.0
+Illinois Central College,675300.0,,,14596.0,Q5999373,100.0
+Illinois College,168800.0,0.7524,,44465.0,Q574316,100.0
+Olney Central College,174200.0,,,12940.0,Q7088448,100.0
+Illinois Institute of Technology,169100.0,0.6066,1311.0,64710.0,Q659706,100.0
+Illinois State University,169200.0,0.8131,1140.0,31124.0,Q558922,100.0
+Illinois Valley Community College,170500.0,,,11014.0,Q5999827,100.0
+Institute for Clinical Social Work,2573700.0,,,,Q7742178,94.0
+John A Logan College,807600.0,,,11409.0,Q6217783,100.0
+John Wood Community College,1281300.0,,,11893.0,Q6264778,100.0
+Joliet Junior College,169900.0,,,9220.0,Q6269988,100.0
+Judson University,170000.0,0.5701,1020.0,40737.0,Q1711141,100.0
+Kankakee Community College,769000.0,,,11443.0,Q6363574,100.0
+Kaskaskia College,170100.0,,,11417.0,Q6374573,100.0
+Kishwaukee College,768400.0,,,12526.0,Q6416672,100.0
+Knox College,170400.0,0.7084,1229.0,60393.0,Q593199,100.0
+College of Lake County,769400.0,,,9387.0,Q5146744,100.0
+Lake Forest College,170600.0,0.5761,,62405.0,Q6475861,100.0
+Lake Forest Graduate School of Management,2319200.0,,,,Q6475863,100.0
+Lake Land College,764400.0,,,10140.0,Q6476553,100.0
+Lewis and Clark Community College,1002000.0,,,9113.0,Q16981182,100.0
+Lewis University,170700.0,0.6606,1139.0,43255.0,Q6537128,100.0
+Lincoln Christian University,170800.0,,,27166.0,Q6550534,100.0
+Lincoln College,170900.0,0.6985,,31844.0,Q1048626,100.0
+Lincoln Land Community College,717000.0,,,11100.0,Q6550804,100.0
+Loyola University Chicago,171000.0,0.7054,1261.0,60717.0,Q1537759,100.0
+Lutheran School of Theology at Chicago,171200.0,,,,Q6705732,100.0
+McCormick Theological Seminary,172100.0,,,,Q6800587,100.0
+McHenry County College,769100.0,,,12214.0,Q6801562,100.0
+McKendree University,172200.0,0.7008,1107.0,44383.0,Q12061548,100.0
+Meadville Theological School of Lombard College,172300.0,,,,Q13360891,100.0
+Methodist College,622800.0,0.875,1000.0,30504.0,Q6823850,100.0
+Millikin University,172400.0,0.7115,1097.0,49304.0,Q3893320,100.0
+Moody Bible Institute,172700.0,0.9751,,29460.0,Q2257594,100.0
+Moraine Valley Community College,769200.0,,,10386.0,Q6909049,100.0
+Morton College,172800.0,,,12695.0,Q6914831,100.0
+National Louis University,173300.0,0.9746,,23675.0,Q6974219,100.0
+National University of Health Sciences,173200.0,,,,Q6979247,100.0
+North Central College,173400.0,0.5329,1164.0,52405.0,Q7054763,88.0
+North Park University,173500.0,0.4396,1055.0,39373.0,Q3551466,100.0
+Northern Baptist Theological Seminary,173600.0,,,,Q16201643,100.0
+Northern Illinois University,173700.0,0.5925,,26312.0,Q1191344,100.0
+Northwestern University,173900.0,0.0931,1505.0,78654.0,Q309350,100.0
+Northeastern Illinois University,169300.0,0.607,915.0,24295.0,Q2000943,100.0
+Oakton Community College,989600.0,,,11218.0,Q7074230,100.0
+Olivet Nazarene University,174100.0,0.6657,1101.0,48119.0,Q7088000,100.0
+Parkland College,711800.0,,,13034.0,Q7138559,100.0
+Prairie State College,164000.0,,,14638.0,Q7237976,100.0
+Principia College,174400.0,0.9324,1143.0,,Q7245134,100.0
+Quincy University,174500.0,0.6713,1106.0,41831.0,Q7272195,100.0
+Rend Lake College,711900.0,,,12171.0,Q7312772,100.0
+Richland Community College,1087900.0,,,10658.0,Q7330616,100.0
+Rock Valley College,174700.0,,,14559.0,Q7354736,100.0
+Roosevelt University,174900.0,0.7652,1043.0,44322.0,Q2124886,100.0
+Dominican University,175000.0,0.7646,1072.0,43228.0,Q5290854,100.0
+Rush University,980000.0,,,,Q750639,100.0
+University of St Francis,166400.0,0.6009,1096.0,42819.0,Q1276380,100.0
+Saint Xavier University,176800.0,0.79,1048.0,41360.0,Q3945126,100.0
+University of Illinois Springfield,933300.0,0.7733,1107.0,24309.0,Q941855,100.0
+Sauk Valley Community College,175200.0,,,13448.0,Q7427250,100.0
+Shawnee Community College,769300.0,,,12596.0,Q7491517,100.0
+St. Augustine College,2185400.0,,,18988.0,Q7587180,100.0
+University of Saint Mary of the Lake,176500.0,,,,Q7896226,100.0
+Southeastern Illinois College,175700.0,,,10801.0,Q7569478,100.0
+Spoon River College,164300.0,,,12226.0,Q7579152,100.0
+Saint Anthony College of Nursing,998700.0,1.0,,39624.0,Q7400981,100.0
+Southern Illinois University-Carbondale,175800.0,0.9178,1096.0,29023.0,Q1472347,100.0
+Southern Illinois University-Edwardsville,175900.0,0.8505,1154.0,24244.0,Q519349,100.0
+South Suburban College,176900.0,,,11077.0,Q7568570,100.0
+Trinity Christian College,177100.0,0.6366,1103.0,42996.0,Q7842639,100.0
+Trinity International University-Illinois,177200.0,0.8592,1079.0,47226.0,Q7842863,88.0
+Triton College,177300.0,,,10977.0,Q7844318,100.0
+VanderCook College of Music,177800.0,1.0,1007.0,37584.0,Q7914412,100.0
+Waubonsee Community College,693100.0,,,9361.0,Q7975106,100.0
+Western Illinois University,178000.0,0.6696,1011.0,26287.0,Q1474005,100.0
+Wheaton College,178100.0,0.8695,1336.0,50923.0,Q747179,100.0
+Anderson University,178500.0,0.665,1071.0,44342.0,Q4754215,100.0
+Ball State University,178600.0,0.8705,,24439.0,Q805122,100.0
+Bethel University,178700.0,0.9279,,40149.0,Q3445045,100.0
+Butler University,178800.0,0.7569,1265.0,61623.0,Q1017974,100.0
+Christian Theological Seminary,178900.0,,,,Q5110194,100.0
+Concordia Theological Seminary,2087600.0,,,,Q1800537,100.0
+DePauw University,179200.0,0.6849,1235.0,66946.0,Q1179599,100.0
+Earlham College,179300.0,0.591,1236.0,61156.0,Q5326502,100.0
+University of Evansville,179500.0,0.643,,50986.0,Q4026988,100.0
+Franklin College,179800.0,0.7607,1076.0,46533.0,Q5491369,100.0
+Goshen College,179900.0,0.9238,1084.0,44994.0,Q1538540,100.0
+Grace College and Theological Seminary,180000.0,0.7465,1134.0,36725.0,Q5591059,73.0
+Hanover College,180100.0,0.6932,1195.0,52998.0,Q5649375,100.0
+Holy Cross College,726300.0,0.7702,1283.0,44469.0,Q2620177,100.0
+Huntington University,180300.0,0.7767,1090.0,38461.0,Q5945521,100.0
+Ivy Tech Community College,991700.0,,,13149.0,Q6099951,100.0
+Purdue University Fort Wayne,182800.0,0.8278,1090.0,19224.0,Q6023669,100.0
+Indiana University-Purdue University-Indianapolis,181300.0,0.7854,1102.0,21127.0,Q1433199,100.0
+University of Indianapolis,180400.0,0.8448,1076.0,44681.0,Q7895554,100.0
+Indiana Institute of Technology,180500.0,0.6307,,40161.0,Q14688450,100.0
+University of Southern Indiana,180800.0,0.9387,1089.0,20146.0,Q940289,100.0
+Indiana State University,180700.0,0.9229,,22718.0,Q666128,100.0
+Indiana University-Kokomo,181400.0,0.8271,,16738.0,Q11287623,100.0
+Indiana University-South Bend,181600.0,0.8687,1039.0,16667.0,Q178848,78.0
+Indiana University-Bloomington,180900.0,0.8038,1261.0,25587.0,Q1079140,100.0
+Indiana University-Northwest,181500.0,0.8168,1005.0,13054.0,Q6023619,100.0
+Indiana University-Southeast,181700.0,0.8541,1055.0,17421.0,Q6023656,100.0
+Manchester University,182000.0,0.7038,,45489.0,Q230899,100.0
+Marian University,182100.0,0.6424,,49112.0,Q6761994,100.0
+Indiana Wesleyan University-Marion,182200.0,0.9147,1134.0,39347.0,Q6023698,89.0
+Martin University,2140800.0,,,23393.0,Q6776789,100.0
+Anabaptist Mennonite Biblical Seminary,182300.0,,,,Q4750556,100.0
+University of Notre Dame,184000.0,0.1899,1489.0,74172.0,Q178848,100.0
+Oakland City University,182400.0,0.6331,1021.0,37683.0,Q7073984,100.0
+Rose-Hulman Institute of Technology,183000.0,0.7662,1371.0,70401.0,Q2166712,100.0
+University of Saint Francis-Fort Wayne,183200.0,0.9905,1075.0,40759.0,Q1276602,96.0
+Saint Mary-of-the-Woods College,183500.0,0.7123,1026.0,42591.0,Q7401849,100.0
+Saint Mary's College,183600.0,0.8151,1189.0,58956.0,Q1255772,100.0
+Saint Meinrad School of Theology,727600.0,,,,Q7401893,83.0
+Taylor University,183800.0,0.701,,48656.0,Q7690168,100.0
+Trine University,183900.0,0.7875,1130.0,47142.0,Q7842344,100.0
+Valparaiso University,184200.0,0.8663,1199.0,53847.0,Q186047,100.0
+Vincennes University,184300.0,,,18741.0,Q2526468,100.0
+Wabash College,184400.0,0.6321,1226.0,58770.0,Q7958639,100.0
+Allen College,3069100.0,,,,Q18588985,100.0
+Briar Cliff University,184600.0,,,45452.0,Q4965764,100.0
+Buena Vista University,184700.0,0.5568,,48297.0,Q4985470,100.0
+Central College,185000.0,0.6368,1116.0,53402.0,Q5060595,100.0
+Clarke University,185200.0,0.892,1085.0,48724.0,Q5127510,100.0
+Coe College,185400.0,0.7986,,58857.0,Q5140489,100.0
+Cornell College,185600.0,0.8241,1224.0,58201.0,Q5171517,100.0
+Des Moines Area Community College,712000.0,,,13704.0,Q5263500,100.0
+Divine Word College,185800.0,1.0,,,Q5284145,100.0
+Dordt University,185900.0,0.7184,1209.0,46028.0,Q3112939,100.0
+Drake University,186000.0,0.6792,1254.0,57643.0,Q5305629,100.0
+University of Dubuque,189100.0,0.7863,1010.0,47188.0,Q5311189,67.0
+Ellsworth Community College,186200.0,,,16181.0,Q5366145,100.0
+Emmaus Bible College,2328900.0,0.9211,1117.0,29368.0,Q5373395,100.0
+Faith Baptist Bible College and Theological Seminary,712100.0,0.676,1152.0,28069.0,Q5431147,100.0
+Graceland University-Lamoni,186600.0,0.6807,1043.0,43960.0,Q3113029,85.0
+Grand View University,186700.0,0.9702,1059.0,39864.0,Q5595242,100.0
+Grinnell College,186800.0,0.1925,1448.0,70346.0,Q2982991,100.0
+Orion Technical College,1206400.0,,,25591.0,Q5645170,86.0
+Hawkeye Community College,459500.0,,,15608.0,Q5685070,100.0
+Indian Hills Community College,840300.0,,,13652.0,Q6020480,100.0
+Iowa Central Community College,186500.0,,,14724.0,Q6064292,100.0
+Iowa Lakes Community College,186400.0,,,16233.0,Q24062130,100.0
+Iowa State University,186900.0,0.8842,1197.0,21740.0,Q1136919,100.0
+Iowa Wesleyan University,187100.0,0.7119,959.0,45994.0,Q14689086,100.0
+Iowa Western Community College,459800.0,,,17982.0,Q6064720,100.0
+University of Iowa,189200.0,0.8428,1229.0,24806.0,Q182973,100.0
+Kirkwood Community College,407600.0,,,14222.0,Q6415889,100.0
+Luther College,187400.0,0.6429,1229.0,57885.0,Q6705529,100.0
+Maharishi International University,1111300.0,1.0,,28730.0,Q6733411,100.0
+Marshalltown Community College,187500.0,,,12554.0,Q6773873,100.0
+Mercy College of Health Sciences,627300.0,0.9167,1105.0,29813.0,Q17010017,100.0
+Morningside University,187900.0,0.686,,45927.0,Q6912982,100.0
+Mount Mercy University,188000.0,0.7621,,48189.0,Q6922161,100.0
+Ashford University,188100.0,,,25683.0,Q4805015,100.0
+North Iowa Area Community College,187700.0,,,13679.0,Q7055704,100.0
+University of Northern Iowa,189000.0,0.7888,1149.0,21047.0,Q1781094,100.0
+Northwestern College,188300.0,0.7377,1146.0,45760.0,Q2288251,100.0
+Northeast Iowa Community College,458700.0,,,14264.0,Q7057914,100.0
+Northwest Iowa Community College,460000.0,,,16895.0,Q7060093,100.0
+Des Moines University-Osteopathic Medical Center,185500.0,,,,Q5263531,61.0
+Saint Ambrose University,188900.0,0.7384,1110.0,46894.0,Q1669453,100.0
+St Luke's College,729100.0,0.5926,,24978.0,Q7589772,76.0
+Simpson College,188700.0,0.8662,1149.0,53845.0,Q7521155,100.0
+Southeastern Community College,184800.0,,,12365.0,Q7569425,100.0
+Southwestern Community College,185700.0,,,14973.0,Q7571405,100.0
+Upper Iowa University,189300.0,0.653,1035.0,45237.0,Q7898705,100.0
+Wartburg College,189600.0,0.7172,1114.0,55508.0,Q7971009,35.0
+Western Iowa Tech Community College,731600.0,,,13677.0,Q7987981,100.0
+William Penn University,190000.0,0.5503,,38337.0,Q8016768,100.0
+Allen County Community College,190100.0,,,13048.0,Q4731591,100.0
+Baker University,190300.0,0.9341,1102.0,44473.0,Q4849228,100.0
+Barton County Community College,460800.0,,,15231.0,Q4865605,100.0
+Benedictine College,1025600.0,0.9678,1213.0,46309.0,Q4887341,100.0
+Bethany College,190400.0,0.6832,1035.0,49294.0,Q4897730,100.0
+Butler Community College,190600.0,,,17439.0,Q5002596,100.0
+Central Christian College of Kansas,190800.0,,,30742.0,Q5060545,100.0
+Cloud County Community College,190900.0,,,14251.0,Q5135655,100.0
+Coffeyville Community College,191000.0,,,11650.0,Q5140993,100.0
+Colby Community College,191100.0,,,14481.0,Q5142015,100.0
+Cowley County Community College,190200.0,,,12849.0,Q5179758,100.0
+Dodge City Community College,191300.0,,,11716.0,Q5287843,100.0
+Emporia State University,192700.0,0.8608,,19526.0,Q1339396,100.0
+Fort Hays State University,191500.0,0.9135,,18111.0,Q591426,100.0
+Barclay College,191700.0,0.4798,,34250.0,Q4859925,100.0
+Friends University,191800.0,0.5754,1081.0,39879.0,Q284508,100.0
+Fort Scott Community College,191600.0,,,10013.0,Q5471998,100.0
+Garden City Community College,191900.0,,,10927.0,Q5522202,100.0
+Haskell Indian Nations University,1043800.0,0.7273,,8934.0,Q845332,100.0
+Hesston College,192000.0,,,40861.0,Q5746274,100.0
+Highland Community College,192100.0,,,11540.0,Q5758717,100.0
+Hutchinson Community College,192300.0,,,12763.0,Q5950653,100.0
+Independence Community College,192400.0,,,12148.0,Q8171840,100.0
+Johnson County Community College,824400.0,,,17358.0,Q6268244,100.0
+Kansas City Kansas Community College,192500.0,,,18270.0,Q6364783,100.0
+Kansas Christian College,2168900.0,,,19599.0,Q5060545,81.0
+University of Kansas,194800.0,0.9093,1227.0,26204.0,Q52413,100.0
+Newman University,193900.0,0.8308,,41633.0,Q4710828,100.0
+Kansas State University,192800.0,0.9415,,24626.0,Q31249,100.0
+Kansas Wesleyan University,192900.0,0.6179,,44254.0,Q6365149,100.0
+Labette Community College,193000.0,,,12506.0,Q6467012,100.0
+Manhattan Christian College,193100.0,0.4895,1085.0,30594.0,Q14689766,100.0
+McPherson College,193300.0,0.5216,,44154.0,Q6802590,100.0
+MidAmerica Nazarene University,703200.0,0.6376,,48863.0,Q6840874,100.0
+Neosho County Community College,193600.0,,,14992.0,Q14689828,100.0
+North Central Kansas Technical College,526500.0,,,16847.0,Q21410979,100.0
+Ottawa University-Ottawa,193700.0,0.5389,1017.0,47369.0,Q627969,86.0
+Pittsburg State University,192600.0,0.9068,,18657.0,Q2097334,100.0
+Pratt Community College,193800.0,,,13819.0,Q7238753,100.0
+University of Saint Mary,194300.0,0.5956,1020.0,42175.0,Q7896225,100.0
+Seward County Community College,822800.0,,,12041.0,Q7458174,100.0
+Southwestern College,194000.0,0.5624,1020.0,46869.0,Q4791274,100.0
+Sterling College,194500.0,0.3688,1061.0,40406.0,Q7611389,100.0
+Tabor College,194600.0,0.4639,1047.0,44240.0,Q7673529,100.0
+Washburn University,194900.0,0.4081,,20011.0,Q941551,100.0
+Wichita State University-Campus of Applied Sciences and Technology,549800.0,,,16169.0,Q7998112,100.0
+Wichita State University,195000.0,0.7963,1167.0,20418.0,Q429561,100.0
+Asbury University,195200.0,0.7515,1203.0,42462.0,Q4803762,100.0
+Asbury Theological Seminary,195300.0,,,,Q2645880,100.0
+Ashland Community and Technical College,199000.0,,,12041.0,Q4805237,100.0
+Bellarmine University,195400.0,0.8237,1196.0,56319.0,Q2894666,100.0
+Berea College,195500.0,0.3296,1189.0,54866.0,Q846859,100.0
+Southcentral Kentucky Community and Technical College,527100.0,,,12613.0,Q7569240,100.0
+Brescia University,195800.0,0.4783,1112.0,36939.0,Q4961841,100.0
+Campbellsville University,195900.0,0.7764,,38502.0,Q5028213,100.0
+Bluegrass Community and Technical College,524400.0,,,11766.0,Q14690128,100.0
+Centre College,196100.0,0.7208,1325.0,56645.0,Q1804942,100.0
+Clear Creek Baptist Bible College,2535600.0,,,19055.0,Q5130680,100.0
+University of the Cumberlands,196200.0,0.8144,1095.0,23624.0,Q7896695,100.0
+Eastern Kentucky University,196300.0,0.9795,1116.0,23384.0,Q1278206,100.0
+Elizabethtown Community and Technical College,199100.0,,,12115.0,Q5363875,100.0
+Georgetown College,196400.0,0.7216,,53196.0,Q333886,100.0
+Henderson Community College,199300.0,,,12017.0,Q5713257,100.0
+Hopkinsville Community College,199400.0,,,11706.0,Q5900754,100.0
+Jefferson Community and Technical College,696100.0,,,12442.0,Q14716404,79.0
+Kentucky Mountain Bible College,3002100.0,0.3939,1115.0,15750.0,Q6392309,100.0
+Kentucky State University,196800.0,0.8398,959.0,16885.0,Q1187623,100.0
+Kentucky Wesleyan College,196900.0,0.6019,1083.0,40177.0,Q1739079,100.0
+University of Kentucky,198900.0,0.9636,1223.0,30178.0,Q1360303,100.0
+Kentucky Christian University,196500.0,0.2829,970.0,34496.0,Q6392195,100.0
+Lexington Theological Seminary,197100.0,,,,Q6537868,100.0
+Lindsey Wilson College,197200.0,,,38208.0,Q6552909,100.0
+University of Louisville,199900.0,0.6512,1198.0,28247.0,Q1317143,100.0
+Louisville Presbyterian Theological Seminary,197400.0,,,,Q6689522,100.0
+Madisonville Community College,901000.0,,,11586.0,Q6728231,100.0
+Maysville Community and Technical College,696000.0,,,11894.0,Q6797991,100.0
+Morehead State University,197600.0,0.767,,22059.0,Q633040,100.0
+Murray State University,197700.0,0.7703,1179.0,21349.0,Q574586,100.0
+Gateway Community and Technical College,527300.0,,,12279.0,Q5527226,100.0
+Northern Kentucky University,927500.0,0.8703,1144.0,17869.0,Q2001033,100.0
+West Kentucky Community and Technical College,197900.0,,,12648.0,Q7985612,100.0
+Big Sandy Community and Technical College,199600.0,,,10914.0,Q4906269,100.0
+Somerset Community College,199700.0,,,11956.0,Q7559838,100.0
+Southeast Kentucky Community & Technical College,199800.0,,,10899.0,Q7569355,96.0
+The Southern Baptist Theological Seminary,198200.0,0.7726,1105.0,,Q7569667,95.0
+Spalding University,196000.0,0.9343,1026.0,38163.0,Q7572993,100.0
+Thomas More University,200100.0,0.9191,,42003.0,Q7792539,100.0
+Transylvania University,198700.0,0.9212,1267.0,53097.0,Q956056,100.0
+Union College,198800.0,0.5733,1035.0,39439.0,Q1567748,100.0
+Western Kentucky University,200200.0,0.9775,1130.0,21084.0,Q1474105,100.0
+Bossier Parish Community College,2055400.0,,,13806.0,Q4947595,100.0
+Centenary College of Louisiana,200300.0,0.6369,1191.0,55300.0,Q5059076,100.0
+Delgado Community College,462500.0,,,13584.0,Q5253711,100.0
+Dillard University,200400.0,0.6531,1044.0,33421.0,Q4359655,100.0
+Nunez Community College,2166100.0,,,15542.0,Q7069822,100.0
+Grambling State University,200600.0,0.9322,942.0,24332.0,Q5593620,100.0
+Louisiana State University Health Sciences Center-New Orleans,201400.0,,,,Q6460011,98.0
+Louisiana State University-Alexandria,201100.0,0.6354,1042.0,14207.0,Q13634567,96.0
+Louisiana State University and Agricultural & Mechanical College,201000.0,0.7338,1229.0,32724.0,Q1521725,97.0
+Louisiana State University-Eunice,201200.0,,,15664.0,Q6689310,96.0
+Louisiana State University-Shreveport,201300.0,0.8268,1133.0,19065.0,Q6689312,100.0
+Louisiana College,200700.0,0.7116,1082.0,27669.0,Q17008973,100.0
+Louisiana Tech University,200800.0,0.6357,1216.0,21927.0,Q1872239,100.0
+Loyola University New Orleans,201600.0,0.7239,1160.0,54417.0,Q172430,100.0
+McNeese State University,201700.0,0.633,1136.0,19489.0,Q634396,100.0
+University of New Orleans,201500.0,0.8291,1088.0,20864.0,Q1474157,100.0
+New Orleans Baptist Theological Seminary,201900.0,,,,Q11283766,100.0
+Nicholls State University,200500.0,0.9329,1104.0,21275.0,Q11884307,100.0
+University of Louisiana at Monroe,202000.0,0.7798,1118.0,20851.0,Q1552010,100.0
+Northwestern State University of Louisiana,202100.0,0.9485,1050.0,22940.0,Q2001231,100.0
+University of Holy Cross,202300.0,0.5273,,23715.0,Q12065026,100.0
+Saint Joseph Seminary College,202700.0,,,38070.0,Q7401553,100.0
+Fletcher Technical Community College,576100.0,,,14386.0,Q55106540,95.0
+Remington College-Lafayette Campus,3026514.0,,,26820.0,Q7311825,67.0
+SOWELA Technical Community College,546700.0,,,14960.0,Q7571863,100.0
+Southeastern Louisiana University,202400.0,0.9737,1105.0,21073.0,Q615998,100.0
+Southern University and A & M College,202500.0,0.4345,975.0,23592.0,Q627271,100.0
+Southern University at New Orleans,202600.0,0.72,925.0,16762.0,Q12002144,100.0
+Southern University at Shreveport,768600.0,,,15051.0,Q7570578,100.0
+University of Louisiana at Lafayette,203100.0,0.6728,1148.0,22948.0,Q116485,100.0
+Tulane University of Louisiana,202900.0,0.1111,1427.0,75628.0,Q1193547,100.0
+Xavier University of Louisiana,203200.0,0.8062,1112.0,36391.0,Q390087,100.0
+College of the Atlantic,1138500.0,0.758,,54899.0,Q5146880,100.0
+Bates College,203600.0,0.141,,73538.0,Q810771,100.0
+Beal University,520400.0,,,,Q877925,76.0
+Bowdoin College,203800.0,0.0916,,73800.0,Q895401,100.0
+Maine College of Health Professions,630500.0,0.45,975.0,23255.0,Q104901588,100.0
+Central Maine Community College,527600.0,,,14522.0,Q5061387,100.0
+Colby College,203900.0,0.1027,1456.0,73600.0,Q1075116,100.0
+Eastern Maine Community College,527700.0,,,15932.0,Q5330269,100.0
+Kennebec Valley Community College,982600.0,,,12651.0,Q6389547,100.0
+University of Maine at Augusta,676000.0,,,16948.0,Q7895654,100.0
+University of Maine at Farmington,204000.0,0.9461,,22802.0,Q7895656,100.0
+University of Maine at Fort Kent,204100.0,0.9983,,18521.0,Q7895655,100.0
+University of Maine at Machias,205306.0,0.9221,,18704.0,Q7895657,100.0
+University of Maine,205300.0,0.9221,,24581.0,Q834825,100.0
+Maine Maritime Academy,204400.0,0.5214,1085.0,28208.0,Q5978689,100.0
+University of Maine at Presque Isle,203300.0,0.99,,17586.0,Q7895658,100.0
+University of New England,205000.0,0.8726,,56844.0,Q1814435,100.0
+Northern Maine Community College,576000.0,,,15968.0,Q14715332,100.0
+Maine College of Art & Design,1167300.0,0.7026,,51962.0,Q3695342,85.0
+Southern Maine Community College,552500.0,,,16251.0,Q7570118,100.0
+University of Southern Maine,205400.0,0.8793,1062.0,19582.0,Q3244049,100.0
+Thomas College,205200.0,,,40911.0,Q7788537,100.0
+Unity College,685800.0,0.9977,,42474.0,Q85837839,76.0
+Washington County Community College,923100.0,,,13156.0,Q7971755,100.0
+Anne Arundel Community College,205800.0,,,19226.0,Q4768125,100.0
+Baltimore City Community College,206100.0,,,11306.0,Q4852809,100.0
+University of Baltimore,210200.0,0.7993,1018.0,24521.0,Q7895109,100.0
+Bowie State University,206200.0,0.8121,936.0,22891.0,Q895439,100.0
+Capitol Technology University,143600.0,0.8436,,40538.0,Q5035867,100.0
+Cecil College,830800.0,,,12353.0,Q5056011,100.0
+Chesapeake College,465000.0,,,9691.0,Q5092825,82.0
+Washington Adventist University,206700.0,0.9395,,33721.0,Q3551510,100.0
+Coppin State University,206800.0,0.402,902.0,17787.0,Q5168881,100.0
+Frederick Community College,207100.0,,,9455.0,Q5497565,100.0
+Frostburg State University,207200.0,0.7361,1024.0,24650.0,Q1470544,100.0
+Garrett College,1001400.0,,,12943.0,Q5523877,100.0
+Goucher College,207300.0,0.7941,,62979.0,Q4134258,100.0
+Hagerstown Community College,207400.0,,,12303.0,Q5638638,100.0
+Harford Community College,207500.0,,,11720.0,Q5656978,100.0
+Hood College,207600.0,0.7133,,56168.0,Q6930281,65.0
+Howard Community College,817500.0,,,15531.0,Q5919334,100.0
+Johns Hopkins University,207700.0,0.1106,1532.0,74001.0,Q193727,100.0
+Loyola University Maryland,207800.0,0.8024,,67196.0,Q5399470,100.0
+University of Maryland Global Campus,1164400.0,,,19764.0,Q14692455,100.0
+University of Maryland Baltimore,210400.0,,,,Q4119470,100.0
+University of Maryland-Baltimore County,210500.0,0.6948,1255.0,25997.0,Q503415,100.0
+University of Maryland-College Park,210300.0,0.5096,1391.0,27343.0,Q503415,100.0
+University of Maryland Eastern Shore,210600.0,0.6203,927.0,24348.0,Q49089,100.0
+Montgomery College,691100.0,,,13943.0,Q6905671,100.0
+Morgan State University,208300.0,0.7359,988.0,23254.0,Q1054905,100.0
+Mount St. Mary's University,208600.0,0.8045,1082.0,57867.0,Q6923804,100.0
+Notre Dame of Maryland University,206500.0,0.6229,,52667.0,Q7063504,100.0
+Prince George's Community College,208900.0,,,16400.0,Q7243998,100.0
+Salisbury University,209100.0,0.7762,,25057.0,Q7404818,100.0
+St. Mary's College of Maryland,209500.0,0.7903,1190.0,30610.0,Q16900571,68.0
+St. John's College,209200.0,0.6139,,50001.0,Q663625,100.0
+Towson University,209900.0,0.788,1122.0,25697.0,Q1474129,100.0
+United States Naval Academy,210100.0,0.0908,1367.0,,Q559549,100.0
+Stevenson University,210700.0,0.8918,,53066.0,Q7615536,100.0
+Washington College,210800.0,0.8028,,65405.0,Q4564567,100.0
+McDaniel College,210900.0,0.8113,,58638.0,Q6800835,100.0
+Wor-Wic Community College,2073900.0,,,13613.0,Q8037300,100.0
+Hult International Business School,4143200.0,0.4515,,62875.0,Q1047226,100.0
+American International College,211400.0,0.6938,1015.0,51505.0,Q6048175,72.0
+Amherst College,211500.0,0.1183,1497.0,76750.0,Q49165,100.0
+Anna Maria College,211700.0,0.8607,,52919.0,Q4767291,100.0
+Assumption University,211800.0,0.8092,,57238.0,Q745391,100.0
+Boston Baptist College,3248300.0,0.7778,1050.0,26691.0,Q4947745,100.0
+Bay State College,396500.0,0.3414,,38507.0,Q4874113,100.0
+Becker College,212300.0,0.8296,1086.0,55633.0,Q4878659,100.0
+Bentley University,212400.0,0.5782,1281.0,71094.0,Q693674,100.0
+Berklee College of Music,212600.0,0.516,,66342.0,Q248970,100.0
+Berkshire Community College,216700.0,,,14877.0,Q4892251,100.0
+Boston Architectural College,396600.0,,,35044.0,Q3445063,100.0
+Boston College,212800.0,0.2638,1433.0,75872.0,Q49118,100.0
+Boston University,213000.0,0.2009,1419.0,74911.0,Q49110,100.0
+Brandeis University,213300.0,0.334,1424.0,76044.0,Q49119,100.0
+Bridgewater State University,218300.0,0.8231,1049.0,23845.0,Q3446076,100.0
+Bristol Community College,217600.0,,,11156.0,Q4968880,100.0
+Bunker Hill Community College,1121000.0,,,13520.0,Q3695816,100.0
+Cambridge College,2182900.0,,,,Q3695713,100.0
+Cape Cod Community College,216800.0,,,13531.0,Q5034681,100.0
+Laboure College,632400.0,0.5106,,,Q6467575,100.0
+Clark University,213900.0,0.4713,1271.0,58153.0,Q1095773,100.0
+Dean College,214400.0,0.7052,,59018.0,Q7984930,83.0
+Eastern Nazarene College,214500.0,0.6438,1030.0,41194.0,Q3046576,100.0
+Emerson College,214600.0,0.4105,1302.0,72119.0,Q1335573,100.0
+Emmanuel College,214700.0,0.7552,1202.0,58787.0,Q3052646,100.0
+Endicott College,214800.0,0.704,,52642.0,Q5376124,100.0
+Fisher College,215000.0,0.7772,938.0,48411.0,Q5454775,100.0
+Fitchburg State University,218400.0,0.8799,,22881.0,Q4982087,100.0
+Framingham State University,218500.0,0.7853,1044.0,25810.0,Q4982077,100.0
+Gordon College,215300.0,0.6827,1159.0,51869.0,Q5585003,100.0
+Gordon-Conwell Theological Seminary,974700.0,,,,Q5586069,100.0
+Greenfield Community College,216900.0,,,13743.0,Q5603955,100.0
+Hampshire College,466100.0,0.5882,,67079.0,Q1706859,100.0
+Harvard University,215500.0,0.0501,1520.0,75914.0,Q13371,100.0
+Hebrew College,215700.0,,,,Q5695836,100.0
+Hellenic College-Holy Cross Greek Orthodox School of Theology,215400.0,0.5714,,41282.0,Q5707189,100.0
+College of the Holy Cross,214100.0,0.3794,1371.0,71448.0,Q2620177,100.0
+Holyoke Community College,217000.0,,,13273.0,Q5887074,100.0
+Lesley University,216000.0,0.8381,,47620.0,Q6530549,100.0
+Longy School of Music of Bard College,267104.0,0.5741,,57086.0,Q6674563,100.0
+University of Massachusetts-Lowell,216100.0,0.752,1232.0,29174.0,Q15143,100.0
+University of Massachusetts-Amherst,222100.0,0.6532,1307.0,31749.0,Q15142,100.0
+University of Massachusetts-Boston,222200.0,0.7968,,28910.0,Q15144,100.0
+Massachusetts Bay Community College,217100.0,,,14058.0,Q6784196,100.0
+Massachusetts College of Art and Design,218000.0,0.7027,,29569.0,Q4381563,100.0
+Massachusetts Institute of Technology,217800.0,0.0726,1550.0,73160.0,Q49108,100.0
+University of Massachusetts Medical School Worcester,975600.0,,,,Q7895715,89.0
+William James College,2163600.0,,,,Q6784362,100.0
+Massasoit Community College,217700.0,,,13308.0,Q6784557,100.0
+Merrimack College,212000.0,0.8164,,59617.0,Q558957,100.0
+Middlesex Community College,993600.0,,,10354.0,Q2075221,100.0
+Mount Holyoke College,219200.0,0.5247,1367.0,69578.0,Q1140542,100.0
+Mount Wachusett Community College,217200.0,,,13771.0,Q12062125,100.0
+The New England Conservatory of Music,219400.0,0.3627,,70360.0,Q1347162,94.0
+New England College of Optometry,216400.0,,,,Q14715762,100.0
+New England Law-Boston,891600.0,,,,Q386348,81.0
+Nichols College,219700.0,0.8037,,52520.0,Q7026557,100.0
+Massachusetts College of Liberal Arts,218700.0,0.8768,1066.0,24458.0,Q6784220,100.0
+North Shore Community College,217300.0,,,12716.0,Q735057,100.0
+Northeastern University,219900.0,0.2048,1492.0,73196.0,Q37548,100.0
+Northern Essex Community College,217400.0,,,12314.0,Q7058332,100.0
+College of Our Lady of the Elms,214000.0,0.6978,1087.0,50266.0,Q5366900,100.0
+Pope St John XXIII National Seminary,220200.0,,,,Q4926268,100.0
+Quincy College,220500.0,,,19203.0,Q7272145,69.0
+Quinsigamond Community College,217500.0,,,12401.0,Q7272348,100.0
+Regis College,220600.0,0.8408,,61605.0,Q649299,100.0
+Roxbury Community College,1193000.0,,,15042.0,Q7372413,100.0
+Saint John's Seminary,221400.0,,,,Q7401445,100.0
+Salem State University,218800.0,0.8675,,26423.0,Q3695750,100.0
+Simmons University,220800.0,0.8255,1168.0,60221.0,Q14437811,100.0
+Bard College at Simon's Rock,964500.0,0.9395,,72193.0,Q4860034,100.0
+Smith College,220900.0,0.3652,,75169.0,Q49204,100.0
+Springfield College,221100.0,0.6341,1239.0,55078.0,Q7580946,100.0
+Springfield Technical Community College,807800.0,,,14391.0,Q7581060,100.0
+University of Massachusetts-Dartmouth,221000.0,0.7618,1094.0,28948.0,Q4118040,100.0
+Stonehill College,221700.0,0.6896,,62253.0,Q14715866,100.0
+Suffolk University,221800.0,0.859,1113.0,57850.0,Q1056123,100.0
+Tufts University,221900.0,0.163,1474.0,76151.0,Q49120,100.0
+Wellesley College,222400.0,0.2041,1446.0,75198.0,Q49205,100.0
+Wentworth Institute of Technology,222500.0,0.9354,1192.0,52232.0,Q12010517,100.0
+Western New England University,222600.0,0.8943,,52924.0,Q7988102,100.0
+Westfield State University,218900.0,0.9244,1054.0,24844.0,Q14438080,100.0
+Wheaton College (Massachusetts),222700.0,0.7709,1282.0,70453.0,Q924318,100.0
+Williams College,222900.0,0.1512,,75520.0,Q49166,100.0
+Worcester Polytechnic Institute,223300.0,0.5905,,69233.0,Q195046,100.0
+Worcester State University,219000.0,0.8103,1097.0,21870.0,Q3446068,100.0
+Albion College,223500.0,0.7444,1062.0,62041.0,Q2831920,100.0
+Alma College,223600.0,0.6673,,55662.0,Q4733528,100.0
+Alpena Community College,223700.0,,,9916.0,Q4734793,100.0
+Andrews University,223800.0,0.4878,1205.0,40948.0,Q109176,100.0
+Aquinas College,223900.0,0.7091,1123.0,43921.0,Q4782979,100.0
+Baker College,467300.0,0.5376,,19593.0,Q4849134,100.0
+Bay de Noc Community College,224000.0,,,13694.0,Q4874178,100.0
+Calvin University,224100.0,0.7321,1229.0,50191.0,Q482731,100.0
+Calvin Theological Seminary,224200.0,,,,Q5024513,100.0
+Carnegie Institute,761700.0,,,20770.0,Q558977,75.0
+Michigan School of Psychology,2198900.0,,,,Q6837668,100.0
+Central Michigan University,224300.0,0.6867,1113.0,25078.0,Q250205,100.0
+Mott Community College,226100.0,,,11549.0,Q6918618,100.0
+Cleary University,224600.0,0.6526,,35998.0,Q5130976,100.0
+Concordia University Ann Arbor,384256.0,0.6727,1138.0,45348.0,Q5158997,100.0
+Cranbrook Academy of Art,224800.0,,,,Q29075482,100.0
+College for Creative Studies,677100.0,0.5538,,57085.0,Q63368322,31.0
+Davenport University,224900.0,0.9256,,31321.0,Q5230267,100.0
+Delta College,225100.0,,,10851.0,Q17066372,100.0
+University of Detroit Mercy,232300.0,0.795,1165.0,38440.0,Q1320232,100.0
+Eastern Michigan University,225900.0,0.7518,1098.0,24994.0,Q1278221,100.0
+Ferris State University,226000.0,0.8246,1058.0,23106.0,Q1407897,100.0
+Glen Oaks Community College,226300.0,,,12376.0,Q5567925,100.0
+Kettering University,226200.0,0.7413,1278.0,58080.0,Q6395480,100.0
+Gogebic Community College,226400.0,,,13326.0,Q5577338,100.0
+Grace Christian University,226500.0,1.0,,22919.0,Q5591004,31.0
+Cornerstone University,226600.0,0.8697,1067.0,35814.0,Q5171689,100.0
+Grand Rapids Community College,226700.0,,,13543.0,Q1771451,100.0
+Grand Valley State University,226800.0,0.8752,,24280.0,Q1472315,100.0
+Great Lakes Christian College,226900.0,,,26764.0,Q5599431,100.0
+Henry Ford College,227000.0,,,10230.0,Q5721408,100.0
+Hillsdale College,227200.0,0.3648,1398.0,,Q5763774,100.0
+Hope College,227300.0,0.7783,1219.0,48607.0,Q2475371,100.0
+Jackson College,227400.0,,,18547.0,Q6116999,100.0
+Kalamazoo College,227500.0,0.7433,,63808.0,Q6350383,100.0
+Kalamazoo Valley Community College,694900.0,,,10309.0,Q6350423,100.0
+Kellogg Community College,227600.0,,,13692.0,Q6385846,100.0
+Kirtland Community College,717100.0,,,11841.0,Q6416228,100.0
+Lake Michigan College,227700.0,,,14066.0,Q6476901,100.0
+Lake Superior State University,229300.0,0.695,1050.0,23239.0,Q1591654,100.0
+Lansing Community College,227800.0,,,10017.0,Q6487450,100.0
+Lawrence Technological University,227900.0,0.8246,,49729.0,Q6504630,100.0
+Macomb Community College,890600.0,,,14229.0,Q17018054,100.0
+Madonna University,228200.0,0.6837,1029.0,35736.0,Q6728390,100.0
+Rochester University,228800.0,0.9943,967.0,33013.0,Q149990,100.0
+University of Michigan-Ann Arbor,232500.0,0.2611,1445.0,30926.0,Q230492,100.0
+Michigan State University,229000.0,0.7631,1216.0,28626.0,Q270222,100.0
+Michigan Technological University,229200.0,0.7036,1269.0,29765.0,Q12432,100.0
+University of Michigan-Dearborn,232600.0,0.6751,1211.0,21509.0,Q7895782,100.0
+University of Michigan-Flint,232700.0,0.7742,1086.0,21376.0,Q7895785,100.0
+Mid Michigan College,676800.0,,,13373.0,Q6840980,80.0
+Monroe County Community College,229400.0,,,9123.0,Q6902155,100.0
+Montcalm Community College,229500.0,,,12981.0,Q6904550,100.0
+Muskegon Community College,229700.0,,,10369.0,Q6942755,100.0
+Northern Michigan University,230100.0,0.6689,,23578.0,Q624970,100.0
+Northwestern Michigan College,230200.0,,,13311.0,Q7060343,100.0
+Northwood University,407200.0,0.768,1093.0,41997.0,Q7060498,100.0
+Oakland Community College,230300.0,,,8747.0,Q7073987,100.0
+Oakland University,230700.0,0.811,1110.0,23778.0,Q782116,100.0
+Olivet College,230800.0,0.6031,,42758.0,Q7087996,100.0
+Sacred Heart Major Seminary,231300.0,1.0,,36882.0,Q7397231,100.0
+Saginaw Valley State University,231400.0,0.8946,1086.0,22353.0,Q7399281,100.0
+Siena Heights University,231600.0,0.7443,,39539.0,Q7511074,100.0
+St Clair County Community College,231000.0,,,11579.0,Q7587566,100.0
+Specs Howard School of Media Arts,2237800.0,,,,Q7575070,100.0
+Spring Arbor University,231800.0,0.633,1100.0,41548.0,Q7580375,100.0
+Finlandia University,232200.0,0.83,,34832.0,Q1742604,79.0
+Western Michigan University-Thomas M. Cooley Law School,1262700.0,,,,Q17032823,91.0
+Walsh College,407100.0,,,,Q3444269,100.0
+Washtenaw Community College,232800.0,,,9551.0,Q7972632,100.0
+Wayne County Community College District,923000.0,,,11013.0,Q7976138,100.0
+Wayne State University,232900.0,0.6901,1112.0,24541.0,Q349055,100.0
+West Shore Community College,795000.0,,,9333.0,Q14716344,100.0
+Western Michigan University,233000.0,0.8494,1129.0,26567.0,Q1546191,100.0
+Western Theological Seminary,233100.0,,,,Q7199405,100.0
+Academy College,2050300.0,,,31816.0,Q2822225,81.0
+Alexandria Technical & Community College,554400.0,,,17880.0,Q4720997,95.0
+Anoka Technical College,735000.0,,,16828.0,Q4769889,100.0
+Anoka-Ramsey Community College,233200.0,,,15446.0,Q4769881,100.0
+Augsburg University,233400.0,0.7312,1050.0,54069.0,Q616905,100.0
+Riverland Community College,233500.0,,,14154.0,Q7338244,100.0
+Northwest Technical College,575900.0,,,16285.0,Q7060212,100.0
+Bemidji State University,233600.0,0.6944,1105.0,20919.0,Q816377,100.0
+Bethany Lutheran College,233700.0,0.6451,,38528.0,Q4897766,100.0
+Bethel University,905800.0,0.8663,1203.0,52723.0,Q3445045,100.0
+Carleton College,234000.0,0.2118,1438.0,74275.0,Q1041671,100.0
+Concordia College at Moorhead,234600.0,0.5808,1169.0,53819.0,Q5158956,75.0
+Concordia University-Saint Paul,234700.0,0.686,,32686.0,Q5159001,100.0
+Martin Luther College,236100.0,0.8731,1185.0,27230.0,Q7974252,47.0
+Minnesota State Community and Technical College,554100.0,,,15009.0,Q6868461,100.0
+Gustavus Adolphus College,235300.0,0.7061,,59205.0,Q5621541,100.0
+Hamline University,235400.0,0.6895,1147.0,51984.0,Q1366519,100.0
+Hennepin Technical College,1049100.0,,,15455.0,Q5714836,100.0
+Hibbing Community College,235500.0,,,14422.0,Q5750676,100.0
+Inver Hills Community College,974000.0,,,15246.0,Q14692660,100.0
+Itasca Community College,235600.0,,,16948.0,Q6094102,100.0
+Luther Seminary,235700.0,,,,Q4824397,100.0
+Macalester College,235800.0,0.3869,1390.0,71053.0,Q1141571,100.0
+South Central College,553700.0,,,14879.0,Q5060602,81.0
+Minnesota State University-Mankato,236000.0,0.6726,1105.0,20858.0,Q1937387,100.0
+Mayo Clinic College of Medicine and Science,1173200.0,0.313,,,Q6797536,100.0
+Mesabi Range College,400900.0,,,16613.0,Q6821105,62.0
+Metropolitan State University,1037400.0,0.6189,,22819.0,Q6825262,100.0
+University of Minnesota-Twin Cities,396900.0,0.6979,1314.0,27654.0,Q238101,100.0
+University of Minnesota-Duluth,238800.0,0.7855,1169.0,25326.0,Q2495874,100.0
+University of Minnesota-Morris,238900.0,0.6465,1199.0,24636.0,Q3551758,100.0
+Minnesota State University Moorhead,236700.0,0.6605,1106.0,22525.0,Q6868559,100.0
+North Hennepin Community College,237000.0,,,14410.0,Q7055585,100.0
+Normandale Community College,795400.0,,,15200.0,Q7053028,100.0
+North Central University,236900.0,0.9299,1077.0,37644.0,Q7054767,100.0
+Northland Community and Technical College,238500.0,,,15669.0,Q7059512,100.0
+University of Northwestern-St Paul,237100.0,0.9222,,43817.0,Q7060296,100.0
+Northwestern Health Sciences University,1232800.0,,,25985.0,Q7060311,100.0
+Pine Technical & Community College,553500.0,,,14482.0,Q7569290,45.0
+Rainy River Community College,677500.0,,,13022.0,Q7285018,100.0
+Rochester Community and Technical College,237300.0,,,19165.0,Q24062830,100.0
+College of Saint Benedict,234100.0,0.8401,1201.0,60788.0,Q5146820,100.0
+St Cloud Technical and Community College,553400.0,,,13539.0,Q7587641,100.0
+Saint Cloud State University,237700.0,0.7322,1087.0,19635.0,Q1136874,100.0
+Saint Johns University,237900.0,0.8138,1193.0,59972.0,Q1138374,98.0
+Saint Mary's University of Minnesota,238000.0,0.841,,49200.0,Q2212976,100.0
+St Olaf College,238200.0,0.5081,1309.0,62880.0,Q1515763,100.0
+Crown College,238300.0,0.4689,1063.0,41227.0,Q5189332,100.0
+The College of Saint Scholastica,234300.0,0.7331,1205.0,50923.0,Q3551594,88.0
+University of St Thomas,234500.0,0.874,1249.0,57785.0,Q1164229,100.0
+St Catherine University,234200.0,0.7615,1122.0,50794.0,Q3444427,100.0
+Saint Paul College,553300.0,,,16897.0,Q105706960,100.0
+Southwest Minnesota State University,237500.0,0.806,1048.0,20481.0,Q7571324,100.0
+Vermilion Community College,235000.0,,,17922.0,Q7921585,100.0
+Dunwoody College of Technology,464100.0,0.9738,,31769.0,Q5315811,100.0
+Ridgewater College,525200.0,,,15652.0,Q21027898,100.0
+Winona State University,239400.0,0.7518,1118.0,22003.0,Q3233786,100.0
+Mitchell Hamline School of Law,239100.0,,,,Q22060180,100.0
+Century College,1054600.0,,,14626.0,Q17163918,86.0
+Alcorn State University,239600.0,0.3772,1035.0,24285.0,Q1805243,100.0
+Belhaven University,239700.0,0.4954,1083.0,35975.0,Q4882717,100.0
+Blue Mountain College,239800.0,0.9912,1065.0,25475.0,Q4929506,100.0
+Coahoma Community College,240100.0,,,8292.0,Q5137668,100.0
+Copiah-Lincoln Community College,240200.0,,,10663.0,Q5168572,100.0
+Delta State University,240300.0,0.9961,1063.0,20678.0,Q3887993,100.0
+East Central Community College,240400.0,,,11577.0,Q5328044,100.0
+East Mississippi Community College,240500.0,,,12407.0,Q5329000,100.0
+Hinds Community College,240700.0,,,9805.0,Q5766201,100.0
+Holmes Community College,240800.0,,,12162.0,Q5883533,100.0
+Itawamba Community College,240900.0,,,11187.0,Q6094155,100.0
+Jackson State University,241000.0,0.8998,993.0,24570.0,Q1747601,100.0
+Jones County Junior College,241100.0,,,11200.0,Q6275177,100.0
+Meridian Community College,241300.0,,,11696.0,Q6819301,100.0
+Millsaps College,241400.0,0.6981,1184.0,57996.0,Q6860022,100.0
+Mississippi Delta Community College,241600.0,,,7664.0,Q6879118,100.0
+University of Mississippi,244000.0,0.8802,1220.0,25562.0,Q1138384,100.0
+Mississippi University for Women,242200.0,0.9903,1106.0,20684.0,Q3468084,100.0
+Mississippi Valley State University,242400.0,0.8272,945.0,20315.0,Q3316928,100.0
+Mississippi College,241500.0,0.2876,1218.0,34918.0,Q6879096,100.0
+Mississippi Gulf Coast Community College,241700.0,,,13189.0,Q6879156,100.0
+Mississippi State University,242300.0,0.8004,1244.0,25778.0,Q1939211,100.0
+Northeast Mississippi Community College,242600.0,,,13245.0,Q7057941,100.0
+Northwest Mississippi Community College,242700.0,,,11193.0,Q7060118,100.0
+Pearl River Community College,243000.0,,,11911.0,Q7158147,100.0
+Rust College,243300.0,0.2947,,16700.0,Q7382396,100.0
+Southeastern Baptist College,243500.0,0.561,930.0,12525.0,Q7569416,100.0
+Southwest Mississippi Community College,243600.0,,,11347.0,Q7571325,100.0
+University of Southern Mississippi,244100.0,0.9633,1135.0,24047.0,Q624090,100.0
+Tougaloo College,243900.0,0.712,990.0,22784.0,Q6603941,100.0
+Wesley Biblical Seminary,2516200.0,,,,Q7983850,100.0
+William Carey University,244700.0,0.5528,1172.0,23334.0,Q8006551,100.0
+Aquinas Institute of Theology,163200.0,,,,Q4782996,100.0
+Avila University,244900.0,0.4198,1065.0,30366.0,Q4828842,100.0
+Baptist Bible College,1320800.0,,,24641.0,Q4857601,100.0
+Cox College,2068200.0,1.0,,,Q5179878,100.0
+Calvary University,245000.0,,,18784.0,Q5024150,100.0
+Central Christian College of the Bible,2266400.0,,,24769.0,Q5060546,100.0
+University of Central Missouri,245400.0,0.6359,1120.0,19802.0,Q7895252,100.0
+Columbia College,245600.0,,,37709.0,Q49088,100.0
+Conception Seminary College,246700.0,1.0,1255.0,38960.0,Q2005895,58.0
+Concordia Seminary,245700.0,,,,Q1124179,100.0
+Cottey College,245800.0,0.6054,1104.0,33080.0,Q5175610,100.0
+Covenant Theological Seminary,470700.0,,,,Q4118781,100.0
+Culver-Stockton College,246000.0,0.9833,1039.0,40296.0,Q5193756,100.0
+Drury University,246100.0,0.7068,1208.0,40913.0,Q5309401,100.0
+East Central College,886200.0,,,12782.0,Q5328044,80.0
+Eden Theological Seminary,246200.0,,,,Q5336928,100.0
+Pinnacle Career Institute,1040500.0,,,,Q7196285,50.0
+Evangel University,246300.0,0.9542,,37127.0,Q4569311,100.0
+Fontbonne University,246400.0,0.8536,1050.0,40906.0,Q5465153,100.0
+Ozarks Technical Community College,3083000.0,,,11386.0,Q7116527,100.0
+Hannibal-LaGrange University,908900.0,0.6463,1120.0,36128.0,Q5649147,100.0
+Harris-Stowe State University,246600.0,,,17740.0,Q5666316,100.0
+Jefferson College,246800.0,,,12752.0,Q2471216,81.0
+Kenrick Glennon Seminary,247600.0,,,,Q6391348,100.0
+Lincoln University,247900.0,,,18374.0,Q1048626,100.0
+Lindenwood University,248000.0,0.9213,1111.0,30609.0,Q5617088,100.0
+Logan University,470300.0,0.8462,,20535.0,Q6666966,100.0
+Metropolitan Community College-Kansas City,248400.0,,,12358.0,Q6825055,83.0
+Lutheran School of Nursing,666600.0,,,,Q104859219,50.0
+Maryville University of Saint Louis,248200.0,0.9489,,46850.0,Q6781811,100.0
+Midwestern Baptist Theological Seminary,248500.0,0.97,,24811.0,Q6843458,100.0
+Missouri Baptist University,754000.0,0.6484,1047.0,40548.0,Q6879494,100.0
+Missouri Southern State University,248800.0,0.9833,1087.0,15867.0,Q6879708,100.0
+Missouri Valley College,248900.0,0.6218,956.0,35425.0,Q7589600,66.0
+Missouri Western State University,249000.0,,,18632.0,Q1939221,100.0
+University of Missouri-Columbia,251600.0,0.8178,1247.0,26902.0,Q579968,100.0
+University of Missouri-Kansas City,251800.0,0.6301,1184.0,22897.0,Q940690,100.0
+Missouri University of Science and Technology,251700.0,0.8146,1328.0,23123.0,Q4380853,100.0
+University of Missouri-St Louis,251900.0,0.5759,1188.0,24481.0,Q625103,100.0
+Moberly Area Community College,249100.0,,,12329.0,Q6886673,100.0
+Nazarene Theological Seminary,249400.0,,,,Q6983281,100.0
+Truman State University,249500.0,0.721,1278.0,21640.0,Q7847734,100.0
+Northwest Missouri State University,249600.0,0.8011,1104.0,20235.0,Q7060123,100.0
+Ozark Christian College,2202700.0,0.9818,,22811.0,Q7116478,100.0
+College of the Ozarks,250000.0,0.1428,1156.0,30764.0,Q5146892,100.0
+Park University,249800.0,,,21146.0,Q4568903,100.0
+Ranken Technical College,1250000.0,,,21674.0,Q7293233,100.0
+Research College of Nursing,639200.0,,,,Q23808450,73.0
+Rockhurst University,249900.0,0.7289,1167.0,53221.0,Q5594651,100.0
+Saint Louis University,250600.0,0.5554,1299.0,61975.0,Q734774,100.0
+Saint Louis Christian College,1258000.0,0.7027,1020.0,24180.0,Q7401662,100.0
+University of Health Sciences and Pharmacy in St. Louis,250400.0,0.7822,1266.0,47005.0,Q7589597,54.0
+Saint Louis Community College,247100.0,,,12245.0,Q7603129,81.0
+Saint Paul School of Theology,250900.0,,,,Q7402050,100.0
+Southwest Baptist University,250200.0,0.7335,1110.0,35243.0,Q7571224,100.0
+State Fair Community College,808000.0,,,11924.0,Q7603209,100.0
+Stephens College,251200.0,0.6429,1103.0,38435.0,Q12070051,100.0
+Southeast Missouri State University,250100.0,0.9333,,20872.0,Q635118,100.0
+Missouri State University-Springfield,250300.0,0.8657,1183.0,21859.0,Q1249251,81.0
+Three Rivers College,471300.0,,,15436.0,Q7797728,100.0
+North Central Missouri College,251400.0,,,15428.0,Q7054751,100.0
+Kansas City University,247400.0,,,,Q940690,79.0
+Washington University in St Louis,252000.0,0.1602,1520.0,76910.0,Q777403,100.0
+Webster University,252100.0,0.5312,1170.0,44260.0,Q1465303,100.0
+Westminster College,252300.0,0.9743,1136.0,44500.0,Q5407122,100.0
+William Jewell College,252400.0,0.364,1168.0,49150.0,Q3307837,100.0
+William Woods University,252500.0,0.6254,,41310.0,Q3445253,100.0
+Blackfeet Community College,2510600.0,,,12440.0,Q4922829,100.0
+Carroll College,252600.0,0.7302,1199.0,50675.0,Q1045167,100.0
+Dawson Community College,252900.0,,,14234.0,Q5242645,100.0
+Chief Dull Knife College,2545200.0,,,10410.0,Q5096717,100.0
+Montana State University Billings,253000.0,,,16755.0,Q6904332,100.0
+Flathead Valley Community College,677700.0,,,14060.0,Q5457900,100.0
+Aaniiih Nakoda College,2517500.0,,,12770.0,Q4661582,100.0
+Fort Peck Community College,2343000.0,,,9835.0,Q5471807,100.0
+Great Falls College Montana State University,931400.0,,,12678.0,Q5599153,100.0
+University of Providence,252700.0,0.9853,1013.0,40556.0,Q7252506,93.0
+Little Big Horn College,2286600.0,,,10608.0,Q6649089,100.0
+Miles Community College,252800.0,,,12703.0,Q6851351,100.0
+Montana Technological University,253100.0,0.9727,1192.0,21124.0,Q6904341,100.0
+Montana State University,253200.0,0.8077,1205.0,22073.0,Q1861687,100.0
+The University of Montana,253600.0,0.9578,1162.0,19958.0,Q2302336,91.0
+Montana State University-Northern,253300.0,,,15933.0,Q6904331,100.0
+Rocky Mountain College,253400.0,0.7117,1071.0,40804.0,Q14704764,100.0
+Salish Kootenai College,2143400.0,,,13476.0,Q7404844,100.0
+The University of Montana-Western,253700.0,0.5186,1001.0,17790.0,Q3551358,94.0
+Yellowstone Christian College,4249900.0,0.75,1010.0,,Q8051985,100.0
+Bellevue University,974300.0,,,22961.0,Q4883967,100.0
+Clarkson College,986200.0,0.5686,,24917.0,Q931865,100.0
+Bryan College of Health Sciences,639900.0,0.5777,,30615.0,Q7707460,70.0
+Central Community College,2099500.0,,,12352.0,Q5060624,100.0
+Chadron State College,253900.0,,,22030.0,Q5066497,100.0
+Concordia University-Nebraska,254100.0,0.7583,1138.0,45672.0,Q5159000,100.0
+Creighton University,254200.0,0.6402,,56120.0,Q770544,100.0
+Doane University,254400.0,0.688,,50470.0,Q5286494,100.0
+Hastings College,254800.0,0.6595,1117.0,44893.0,Q3577853,82.0
+University of Nebraska at Kearney,255100.0,0.8841,1130.0,23319.0,Q7895890,100.0
+Nebraska Methodist College of Nursing & Allied Health,640400.0,0.9186,1155.0,31690.0,Q6984754,96.0
+Mid-Plains Community College,255700.0,,,11678.0,Q51078211,100.0
+Midland University,255300.0,0.5079,1068.0,45689.0,Q6842463,100.0
+University of Nebraska at Omaha,255400.0,0.8229,1115.0,19797.0,Q2495890,100.0
+Nebraska Indian Community College,2550800.0,,,16957.0,Q6984746,100.0
+University of Nebraska Medical Center,689500.0,,,,Q7895888,100.0
+Nebraska Wesleyan University,255500.0,0.6953,1222.0,48718.0,Q6984798,100.0
+University of Nebraska-Lincoln,256500.0,0.7774,1220.0,24400.0,Q1353679,100.0
+Northeast Community College,1166700.0,,,13404.0,Q7057861,100.0
+Peru State College,255900.0,,,20321.0,Q7170975,100.0
+Summit Christian College,4240800.0,0.3571,1035.0,11009.0,Q7637784,100.0
+College of Saint Mary,254000.0,0.5,,31250.0,Q1255772,93.0
+Union College,256300.0,0.976,1072.0,36243.0,Q1567748,100.0
+Wayne State College,256600.0,,,19521.0,Q7976637,100.0
+Western Nebraska Community College,256000.0,,,11802.0,Q7988097,100.0
+York College,256700.0,0.6613,1033.0,30571.0,Q8055402,100.0
+College of Southern Nevada,1036200.0,,,12414.0,Q7368264,77.0
+University of Nevada-Las Vegas,256900.0,0.8102,1124.0,18756.0,Q2302311,100.0
+University of Nevada-Reno,256800.0,0.873,1154.0,23256.0,Q1185955,100.0
+Sierra Nevada University,919200.0,0.4631,1036.0,50040.0,Q1129091,100.0
+Truckee Meadows Community College,2107700.0,,,13389.0,Q7847197,100.0
+Dartmouth College,257300.0,0.0922,1500.0,77152.0,Q49116,100.0
+Franklin Pierce University,257500.0,0.8468,,56500.0,Q5491762,100.0
+University of New Hampshire-Franklin Pierce School of Law,258903.0,0.8481,1194.0,,Q7895906,84.0
+Magdalen College,2223300.0,0.7901,,35456.0,Q7726776,100.0
+New England College,257900.0,0.9625,,57285.0,Q12966654,100.0
+Southern New Hampshire University,258000.0,0.9354,,50505.0,Q3445256,100.0
+Keene State College,259000.0,0.9066,,28880.0,Q6382897,100.0
+University of New Hampshire at Manchester,258901.0,0.8481,1194.0,25244.0,Q7895907,100.0
+Plymouth State University,259100.0,0.8937,,28222.0,Q7205857,100.0
+White Mountains Community College,529100.0,,,19186.0,Q7995090,100.0
+River Valley Community College,756000.0,,,22769.0,Q22060819,100.0
+Lakes Region Community College,755500.0,,,21290.0,Q21188312,100.0
+Manchester Community College,258200.0,,,18214.0,Q6747336,100.0
+Nashua Community College,923600.0,,,12918.0,Q6966902,100.0
+Rivier University,258600.0,0.7571,,46498.0,Q7338849,100.0
+Saint Anselm College,258700.0,0.7615,1230.0,61163.0,Q3463654,100.0
+Granite State College,3101300.0,,,18834.0,Q5595931,100.0
+Thomas More College of Liberal Arts,3043100.0,0.8958,1210.0,33111.0,Q7591976,70.0
+Assumption College for Sisters,259500.0,,,,Q4810350,100.0
+Atlantic Cape Community College,259600.0,,,15170.0,Q4816324,100.0
+Bergen Community College,473600.0,,,15060.0,Q4891499,100.0
+Berkeley College-Woodland Park,750200.0,,,33412.0,Q2897191,90.0
+Brookdale Community College,840400.0,,,14824.0,Q4974383,100.0
+Rowan College at Burlington County,773000.0,,,12307.0,Q4999226,100.0
+Camden County College,686500.0,,,11606.0,Q5025748,42.0
+Centenary University,259900.0,0.93,997.0,44856.0,Q1054905,65.0
+Drew University,260300.0,0.7315,,58116.0,Q1795487,100.0
+Essex County College,710700.0,,,12653.0,Q5154689,93.0
+Felician University,261000.0,0.9355,973.0,49240.0,Q14705495,100.0
+Georgian Court University,260800.0,0.809,1039.0,45458.0,Q5548012,100.0
+Rowan University,260900.0,0.7801,1150.0,34987.0,Q1799872,100.0
+Hudson County Community College,1295400.0,,,12543.0,Q5928620,100.0
+New Jersey City University,261300.0,0.9633,,25328.0,Q11991254,100.0
+Kean University,262200.0,0.7805,1010.0,25863.0,Q6382148,100.0
+Mercer County Community College,474000.0,,,11963.0,Q6818271,100.0
+Middlesex College,261500.0,,,14288.0,Q2075221,77.0
+Monmouth University,261600.0,0.7893,1130.0,55898.0,Q922647,100.0
+Montclair State University,261700.0,0.8266,,26067.0,Q5018694,100.0
+New Brunswick Theological Seminary,261900.0,,,,Q13428327,100.0
+New Jersey Institute of Technology,262100.0,0.6603,1299.0,31511.0,Q3272013,100.0
+Passaic County Community College,999400.0,,,15135.0,Q7142508,100.0
+Princeton Theological Seminary,262600.0,,,,Q909696,100.0
+Princeton University,262700.0,0.0563,1506.0,74150.0,Q21578,100.0
+Ramapo College of New Jersey,934400.0,0.6684,1140.0,29130.0,Q7289009,67.0
+Rider University,262800.0,0.7566,1124.0,61693.0,Q3551664,100.0
+Rutgers University-Camden,262901.0,0.6986,1253.0,29130.0,Q7382823,100.0
+Rutgers University-New Brunswick,262900.0,0.6986,1253.0,32022.0,Q499451,72.0
+Rutgers University-Newark,262902.0,0.6986,1253.0,27960.0,Q7382780,100.0
+Saint Peter's University,263800.0,0.8464,,47570.0,Q3443737,100.0
+Salem Community College,546100.0,,,16353.0,Q7404080,100.0
+Seton Hall University,263200.0,0.7823,1244.0,60646.0,Q585828,100.0
+Raritan Valley Community College,773100.0,,,11685.0,Q7294576,100.0
+Stevens Institute of Technology,263900.0,0.5306,1415.0,70591.0,Q657222,100.0
+Stockton University,934500.0,0.7731,1108.0,30721.0,Q7329259,100.0
+The College of New Jersey,264200.0,0.5125,1240.0,35502.0,Q21578,91.0
+Union County College,264300.0,,,12194.0,Q7568220,69.0
+William Paterson University of New Jersey,262500.0,0.8062,,25327.0,Q3444527,100.0
+Central New Mexico Community College,474200.0,,,9577.0,Q5061506,100.0
+Navajo Technical University,2357600.0,,,11664.0,Q17012153,100.0
+Clovis Community College,474300.0,,,11024.0,Q5135988,100.0
+New Mexico Highlands University,265300.0,,,18299.0,Q7010189,100.0
+New Mexico Junior College,265500.0,,,8211.0,Q653440,100.0
+New Mexico Institute of Mining and Technology,265400.0,0.9658,1263.0,22878.0,Q1052208,100.0
+New Mexico State University-Alamogordo,265701.0,0.6267,1050.0,12836.0,Q7010288,100.0
+Southeast New Mexico College,265703.0,0.6267,1050.0,13540.0,Q7010292,59.0
+San Juan College,266000.0,,,11971.0,Q7414571,100.0
+Santa Fe Community College,2278100.0,,,14437.0,Q7419513,100.0
+University of the Southwest,265000.0,,,27310.0,Q7896772,100.0
+Southwestern College,3076100.0,,,,Q4791274,100.0
+Southwestern Indian Polytechnic Institute,2511000.0,,,12798.0,Q7571422,100.0
+Mesalands Community College,3206300.0,,,12947.0,Q6821115,100.0
+Western New Mexico University,266400.0,,,17772.0,Q7988105,100.0
+Adelphi University,266600.0,0.7461,1162.0,53535.0,Q4682076,100.0
+Albany College of Pharmacy and Health Sciences,288500.0,0.7519,1238.0,50326.0,Q2830804,100.0
+Albany Law School,288600.0,,,,Q4709336,100.0
+Albany Medical College,288700.0,,,,Q1780816,100.0
+Alfred University,266800.0,0.6411,1102.0,50643.0,Q3446091,100.0
+American Academy of Dramatic Arts-New York,746500.0,0.6913,,58580.0,Q389336,88.0
+American Musical and Dramatic Academy,757200.0,0.4441,,58517.0,Q4744555,100.0
+Apex Technical School,751800.0,,,,Q91180494,38.0
+Bard College,267100.0,0.5741,,74464.0,Q49109,100.0
+Barnard College,270800.0,0.136,1447.0,77758.0,Q167733,100.0
+Berkeley College-New York,739400.0,,,35385.0,Q2897191,80.0
+Brooklyn Law School,267700.0,,,,Q1812600,100.0
+SUNY Broome Community College,286200.0,,,13872.0,Q4975271,91.0
+Canisius College,268100.0,0.7602,1152.0,39217.0,Q1033335,100.0
+Cayuga County Community College,286100.0,,,12804.0,Q5055461,100.0
+Cazenovia College,268500.0,0.7218,1003.0,51761.0,Q5055525,100.0
+Christ the King Seminary,282200.0,,,,Q5108992,100.0
+Clarkson University,269900.0,0.7799,1259.0,69456.0,Q931865,100.0
+Clinton Community College,678700.0,,,13746.0,Q5134088,100.0
+Colgate Rochester Crozer Divinity School,270000.0,,,,Q5144788,100.0
+Colgate University,270100.0,0.2747,1404.0,75000.0,Q1191335,100.0
+Metropolitan College of New York,976900.0,0.4041,,34022.0,Q3307468,100.0
+Columbia University in the City of New York,270700.0,0.0666,1517.0,79750.0,Q49088,100.0
+Columbia-Greene Community College,678900.0,,,11269.0,Q5149957,100.0
+Concordia College,270900.0,0.9529,1053.0,44662.0,Q5142951,100.0
+Cooper Union for the Advancement of Science and Art,271000.0,0.1751,1422.0,61775.0,Q130981,100.0
+Cornell University,271100.0,0.1071,1480.0,75204.0,Q49115,100.0
+Weill Medical College of Cornell University,271101.0,0.1071,1480.0,,Q3567094,100.0
+Culinary Institute of America,730400.0,0.9668,,50216.0,Q1143412,100.0
+CUNY Bernard M Baruch College,727300.0,0.4071,1268.0,13569.0,Q809633,91.0
+CUNY Borough of Manhattan Community College,269100.0,,,12796.0,Q4946345,94.0
+CUNY Bronx Community College,269200.0,,,11750.0,Q4974180,90.0
+CUNY Brooklyn College,268700.0,0.4974,1105.0,13802.0,Q371625,86.0
+College of Staten Island CUNY,269800.0,,,15176.0,Q5146845,100.0
+CUNY City College,268800.0,0.5054,1164.0,13667.0,Q1093910,83.0
+CUNY Graduate School and University Center,476500.0,,,,Q1024543,94.0
+CUNY Hostos Community College,861100.0,,,14189.0,Q5909476,91.0
+CUNY Hunter College,268900.0,0.4048,1259.0,13219.0,Q1446181,85.0
+CUNY John Jay College of Criminal Justice,269300.0,0.3743,1093.0,13549.0,Q1700617,100.0
+CUNY Kingsborough Community College,269400.0,,,13470.0,Q6413125,92.0
+CUNY LaGuardia Community College,1005100.0,,,14285.0,Q6460759,92.0
+CUNY Lehman College,702200.0,0.4701,1020.0,13704.0,Q1128593,85.0
+CUNY Medgar Evers College,1009700.0,0.7848,,15448.0,Q6805332,89.0
+CUNY New York City College of Technology,269600.0,0.7907,,13563.0,Q3678632,93.0
+CUNY Queens College,269000.0,0.5349,1122.0,13768.0,Q1760438,100.0
+CUNY Queensborough Community College,269700.0,,,12744.0,Q7270850,93.0
+CUNY School of Law,3191300.0,,,,Q5123486,100.0
+CUNY York College,475900.0,0.5276,960.0,13948.0,Q8055406,83.0
+D'Youville College,271200.0,0.8307,1064.0,38790.0,Q5203187,100.0
+Daemen University,280800.0,0.6178,,40900.0,Q5208240,39.0
+Dominican College of Blauvelt,271300.0,0.7462,,43424.0,Q5290735,100.0
+Dutchess Community College,286400.0,,,14105.0,Q5317480,100.0
+Erie Community College,1068400.0,,,11203.0,Q5388284,100.0
+Fashion Institute of Technology,286600.0,0.5898,,18403.0,Q844999,100.0
+Finger Lakes Community College,753200.0,1.0,,16187.0,Q5450199,100.0
+Five Towns College,1256100.0,0.47,,35154.0,Q5456170,100.0
+Fordham University,272200.0,0.5253,1334.0,71388.0,Q130965,100.0
+Fulton-Montgomery Community College,286700.0,,,15845.0,Q5508483,100.0
+The General Theological Seminary,272600.0,,,,Q1501676,93.0
+Genesee Community College,678200.0,,,12541.0,Q5532715,100.0
+Hamilton College,272800.0,0.1841,1462.0,72190.0,Q1191335,100.0
+Herkimer County Community College,478800.0,,,14805.0,Q5739244,100.0
+Hilbert College,273500.0,0.9171,,31358.0,Q5761194,100.0
+Hobart William Smith Colleges,273100.0,0.6184,1279.0,74375.0,Q5533009,32.5
+Hofstra University,273200.0,0.6911,,62917.0,Q1623314,100.0
+Houghton College,273400.0,0.7998,,44952.0,Q4500472,100.0
+Hudson Valley Community College,286800.0,,,13688.0,Q5928989,100.0
+Iona College,273700.0,0.8595,1107.0,54052.0,Q6063486,100.0
+Ithaca College,273900.0,0.7568,,64006.0,Q3540690,100.0
+Jamestown Community College,286900.0,,,15896.0,Q6146214,100.0
+Jefferson Community College,287000.0,,,17591.0,Q6175407,100.0
+Jewish Theological Seminary of America,274000.0,0.5833,1468.0,79512.0,Q1688743,100.0
+The Juilliard School,274200.0,0.0764,,73642.0,Q503246,100.0
+Keuka College,274400.0,0.9091,,50240.0,Q6395612,100.0
+LIM College,746600.0,0.8405,,47961.0,Q5115137,69.0
+Le Moyne College,274800.0,0.7474,1165.0,49194.0,Q6506386,83.0
+Long Island University,275100.0,0.8501,1194.0,50591.0,Q1783603,100.0
+Manhattan College,275800.0,0.7765,,57992.0,Q2749572,100.0
+Manhattan School of Music,275900.0,0.4156,,70925.0,Q1702106,100.0
+Manhattanville College,276000.0,0.8981,,51214.0,Q14706889,100.0
+Maria College of Albany,276300.0,0.355,,21451.0,Q6761106,72.0
+Marist College,276500.0,0.5505,,60670.0,Q7592865,71.0
+Marymount Manhattan College,276900.0,0.8818,1109.0,59167.0,Q3296302,100.0
+Medaille College,277700.0,0.718,,36840.0,Q6804993,100.0
+Mercy College,277200.0,0.8196,1025.0,29754.0,Q16951582,100.0
+Mohawk Valley Community College,287100.0,,,14843.0,Q6893825,100.0
+Molloy College,277500.0,0.7414,1172.0,46531.0,Q6896481,100.0
+Monroe College,479900.0,0.4884,,24323.0,Q3321306,100.0
+Monroe Community College,287200.0,,,14048.0,Q6902141,100.0
+Mount Saint Mary College,277800.0,0.9017,1080.0,47103.0,Q6923797,89.0
+College of Mount Saint Vincent,270300.0,0.9268,1002.0,51240.0,Q2982993,100.0
+Icahn School of Medicine at Mount Sinai,702600.0,,,,Q1950740,100.0
+Nassau Community College,287300.0,,,12443.0,Q6967558,100.0
+Nazareth College,277900.0,0.7568,,51405.0,Q6983311,100.0
+The New School,2066200.0,0.691,1269.0,71907.0,Q599316,100.0
+Northeast College of Health Sciences,1227700.0,,,,Q7057949,56.0
+New York Law School,278300.0,,,,Q3339059,100.0
+New York Medical College,278400.0,,,,Q4115972,100.0
+New York Theological Seminary,267400.0,,,,Q13428369,100.0
+New York University,278500.0,0.2109,1458.0,73759.0,Q49210,100.0
+Niagara County Community College,287400.0,,,11187.0,Q7023609,100.0
+Niagara University,278800.0,0.9241,1118.0,47384.0,Q3551657,100.0
+North Country Community College,711100.0,,,17864.0,Q7054934,100.0
+New York College of Podiatric Medicine,274900.0,,,,Q14707079,100.0
+New York Institute of Technology,278200.0,0.7468,1190.0,49465.0,Q1709596,100.0
+Nyack College,279000.0,0.9732,965.0,38589.0,Q7070780,100.0
+Onondaga Community College,287500.0,,,13836.0,Q7094484,100.0
+Orange County Community College,287600.0,,,11009.0,Q7099552,100.0
+Pace University,279100.0,0.8287,1163.0,63709.0,Q556098,100.0
+Plaza College,1235800.0,0.3001,,22081.0,Q7203590,100.0
+Davis College,2169100.0,0.2857,,26841.0,Q5241855,100.0
+Rensselaer Polytechnic Institute,280300.0,0.5726,1410.0,73816.0,Q49211,100.0
+Roberts Wesleyan College,280500.0,0.7581,1146.0,45599.0,Q7352053,100.0
+Rochester Institute of Technology,280600.0,0.7386,1341.0,61063.0,Q2140778,100.0
+University of Rochester,289400.0,0.3543,1429.0,75190.0,Q149990,100.0
+Rockefeller University,280700.0,,,,Q270272,100.0
+Rockland Community College,287700.0,,,15629.0,Q7355439,100.0
+St Bernard's School of Theology and Ministry,281500.0,,,,Q7587290,100.0
+St Bonaventure University,281700.0,0.7631,1151.0,50646.0,Q93662,100.0
+St. Francis College,282000.0,0.8452,964.0,32776.0,Q530424,100.0
+St. Joseph's College of Nursing,646700.0,0.7273,,33896.0,Q98946284,100.0
+St Lawrence University,282900.0,0.4726,1301.0,73045.0,Q1411093,100.0
+The College of Saint Rose,270500.0,0.8188,,48125.0,Q7726778,100.0
+St. Thomas Aquinas College,283200.0,0.8684,1036.0,47572.0,Q7591912,100.0
+Sarah Lawrence College,281300.0,0.5463,1333.0,74123.0,Q1051840,100.0
+Schenectady County Community College,678500.0,,,11879.0,Q7431152,100.0
+Siena College,281600.0,0.8066,,58200.0,Q768054,100.0
+Skidmore College,281400.0,0.3217,1324.0,74140.0,Q7535073,100.0
+Saint Vladimirs Orthodox Theological Seminary,283300.0,,,,Q402829,97.0
+Saint John Fisher College,282100.0,0.6841,1161.0,49242.0,Q7588902,94.0
+St. John's University-New York,282300.0,0.7507,1198.0,55877.0,Q1138374,100.0
+Sullivan County Community College,287900.0,,,16351.0,Q7636401,100.0
+SUNY College of Technology at Canton,285500.0,0.8301,1029.0,23026.0,Q7603620,57.0
+SUNY College of Agriculture and Technology at Cobleskill,285600.0,0.8,1010.0,25633.0,Q7603621,78.0
+SUNY Morrisville,285900.0,0.7672,973.0,27687.0,Q6914146,100.0
+SUNY at Albany,283500.0,0.5715,1177.0,26563.0,Q1780816,88.0
+Binghamton University,283600.0,0.4303,1376.0,28010.0,Q863813,100.0
+University at Buffalo,283700.0,0.6695,1230.0,26958.0,Q681025,100.0
+Stony Brook University,283800.0,0.4891,1337.0,26270.0,Q969850,100.0
+SUNY College of Environmental Science and Forestry,285100.0,0.6017,1237.0,29680.0,Q7603610,100.0
+SUNY Polytechnic Institute,1167800.0,0.733,1177.0,23194.0,Q18155496,100.0
+SUNY Brockport,284100.0,0.5811,1089.0,24340.0,Q7603617,100.0
+SUNY Buffalo State,284200.0,0.8007,960.0,23111.0,Q4570064,84.0
+SUNY Cortland,284300.0,0.522,1164.0,25585.0,Q7603623,100.0
+SUNY at Fredonia,284400.0,0.7225,1112.0,23327.0,Q6487738,100.0
+SUNY College at Geneseo,284500.0,0.6136,1234.0,26266.0,Q6149540,69.0
+State University of New York at New Paltz,284600.0,0.6202,1187.0,25615.0,Q7603625,100.0
+SUNY Oneonta,284700.0,0.6295,1034.0,25628.0,Q4146980,100.0
+SUNY College at Oswego,284800.0,0.689,1112.0,24970.0,Q7603627,67.0
+SUNY College at Potsdam,285000.0,0.7166,,23964.0,Q7603628,78.0
+SUNY at Purchase College,679100.0,0.737,1213.0,27991.0,Q4359408,93.0
+SUNY College at Old Westbury,710900.0,0.5308,1015.0,19786.0,Q7603624,76.0
+SUNY College at Plattsburgh,284900.0,0.6103,1078.0,25786.0,Q7603626,83.0
+SUNY Downstate Health Sciences University,283900.0,,,,Q3246712,100.0
+SUNY Empire State College,1028600.0,,,19726.0,Q5374138,89.0
+SUNY Maritime College,285300.0,0.7271,1153.0,26864.0,Q7603615,100.0
+Upstate Medical University,284000.0,,,,Q3297997,100.0
+Syracuse University,288200.0,0.6872,,72780.0,Q617433,100.0
+Teachers College at Columbia University,397900.0,,,,Q7691246,96.0
+Tompkins Cortland Community College,678800.0,,,17250.0,Q7820362,100.0
+Touro College,1014200.0,0.7598,,33523.0,Q904943,100.0
+Excelsior College,283400.0,,,,Q5419469,36.0
+Union College,288900.0,0.4126,1339.0,69879.0,Q1567748,100.0
+Union Theological Seminary in the City of New York,289000.0,,,,Q1196251,100.0
+United States Merchant Marine Academy,289200.0,0.2411,1288.0,9565.0,Q1806541,100.0
+United States Military Academy,289300.0,0.0864,1359.0,,Q9219,100.0
+Vassar College,289500.0,0.2454,1456.0,75203.0,Q2093794,100.0
+School of Visual Arts,746800.0,0.7153,1205.0,65272.0,Q1279835,100.0
+Wagner College,289900.0,0.7043,,61877.0,Q1605513,100.0
+Webb Institute,290000.0,0.2102,1489.0,72690.0,Q7978660,100.0
+Wells College,290100.0,0.6436,,46640.0,Q7424719,69.0
+The College of Westchester,520800.0,0.8837,,29294.0,Q7987232,80.0
+SUNY Westchester Community College,288100.0,,,14719.0,Q7987232,92.0
+Yeshiva Derech Chaim,2265100.0,0.5636,,20207.0,Q5261736,39.0
+Yeshiva University,290300.0,0.6741,1288.0,64050.0,Q1048851,100.0
+College of the Albemarle,291700.0,,,11359.0,Q5146859,100.0
+South Piedmont Community College,798500.0,,,11633.0,Q7568220,100.0
+Appalachian State University,290600.0,0.7951,1181.0,19661.0,Q620640,100.0
+Asheville-Buncombe Technical Community College,403300.0,,,12989.0,Q4804932,100.0
+Barton College,290800.0,0.4244,1030.0,46539.0,Q4865607,100.0
+Beaufort County Community College,855800.0,,,14017.0,Q20708823,100.0
+Belmont Abbey College,291000.0,0.801,1085.0,31943.0,Q4884322,100.0
+Bennett College,291100.0,0.7288,,34755.0,Q4889676,100.0
+Bladen Community College,798700.0,,,11314.0,Q4923738,100.0
+Blue Ridge Community College,968400.0,,,12552.0,Q4929702,100.0
+Brevard College,291200.0,0.4524,,43036.0,Q4962514,75.0
+Brunswick Community College,2170700.0,,,13391.0,Q28227714,100.0
+Cabarrus College of Health Sciences,647700.0,0.3538,1036.0,23513.0,Q5015257,100.0
+Caldwell Community College and Technical Institute,483500.0,,,11083.0,Q5019139,100.0
+Campbell University,291300.0,0.8129,1115.0,51131.0,Q904219,100.0
+Cape Fear Community College,532000.0,,,15634.0,Q5034785,100.0
+Carteret Community College,808100.0,,,18927.0,Q5047231,100.0
+Catawba College,291400.0,0.5212,1038.0,44235.0,Q5051596,100.0
+Catawba Valley Community College,531800.0,,,14349.0,Q5051600,100.0
+Central Carolina Community College,544900.0,,,12784.0,Q5060508,100.0
+Central Piedmont Community College,291500.0,,,11543.0,Q5061651,100.0
+Chowan University,291600.0,0.6736,891.0,37161.0,Q5105527,100.0
+Cleveland Community College,808200.0,,,5528.0,Q5132104,100.0
+Coastal Carolina Community College,531600.0,,,13658.0,Q5138264,100.0
+Craven Community College,679900.0,,,12326.0,Q5182720,100.0
+Davidson-Davie Community College,291900.0,,,14580.0,Q5241643,100.0
+Davidson College,291800.0,0.2,1402.0,70744.0,Q2902978,100.0
+Duke University,292000.0,0.0774,1530.0,77846.0,Q168751,100.0
+Durham Technical Community College,544800.0,,,13381.0,Q5316567,100.0
+East Carolina University,292300.0,0.8792,1100.0,22301.0,Q1277776,100.0
+Elizabeth City State University,292600.0,0.7483,929.0,12754.0,Q5362587,100.0
+Elon University,292700.0,0.717,1258.0,52587.0,Q4568893,100.0
+Fayetteville Technical Community College,764000.0,,,12009.0,Q5439067,100.0
+Fayetteville State University,292800.0,0.7938,948.0,16623.0,Q1399078,100.0
+Forsyth Technical Community College,531700.0,,,10895.0,Q5470661,100.0
+Gardner-Webb University,292900.0,0.7795,1074.0,45333.0,Q3551409,100.0
+Gaston College,297300.0,,,18540.0,Q5526717,100.0
+Greensboro College,293000.0,0.7761,1008.0,30302.0,Q5604445,100.0
+Guilford College,293100.0,0.7801,1059.0,53479.0,Q5615915,100.0
+Guilford Technical Community College,483800.0,,,15692.0,Q5615941,100.0
+Halifax Community College,798600.0,,,9556.0,Q5642145,100.0
+High Point University,293300.0,0.7705,1182.0,54296.0,Q5756235,100.0
+Isothermal Community College,293400.0,,,11373.0,Q14707985,100.0
+James Sprunt Community College,768700.0,,,11811.0,Q14707988,100.0
+Johnson C Smith University,293600.0,0.492,883.0,33444.0,Q11979088,100.0
+Johnston Community College,933600.0,,,11629.0,Q6268628,100.0
+Lees-McRae College,293900.0,0.7329,1068.0,43437.0,Q96508227,50.0
+Lenoir Community College,294000.0,,,12804.0,Q6523043,100.0
+Lenoir-Rhyne University,294100.0,0.7662,,50232.0,Q6523054,100.0
+Livingstone College,294200.0,0.6895,847.0,28312.0,Q6659715,100.0
+Mars Hill University,294400.0,0.6729,,45406.0,Q6773136,100.0
+Mayland Community College,1119700.0,,,12285.0,Q23302803,100.0
+Meredith College,294500.0,0.7162,1111.0,50390.0,Q6818913,100.0
+Methodist University,294600.0,0.7588,1050.0,55751.0,Q6823850,100.0
+Mitchell Community College,294700.0,,,14072.0,Q6881169,100.0
+Montgomery Community College,808700.0,,,17206.0,Q6905673,100.0
+Montreat College,294800.0,0.712,1047.0,40841.0,Q6906389,100.0
+College of Wilmington,2205000.0,,,,Q8022753,92.0
+Nash Community College,855700.0,,,10674.0,Q6966772,100.0
+North Carolina A & T State University,290500.0,0.5671,1041.0,18348.0,Q1476484,100.0
+University of North Carolina at Asheville,290700.0,0.7942,1185.0,20127.0,Q7895940,100.0
+University of North Carolina at Chapel Hill,297400.0,0.25,1393.0,24220.0,Q192334,100.0
+University of North Carolina at Charlotte,297500.0,0.7953,1200.0,23478.0,Q1783178,100.0
+University of North Carolina at Greensboro,297600.0,0.8754,1093.0,19179.0,Q1321380,100.0
+North Carolina Central University,295000.0,0.8742,937.0,24075.0,Q1518804,100.0
+University of North Carolina School of the Arts,398100.0,0.3634,1224.0,21755.0,Q7895938,100.0
+North Carolina State University at Raleigh,297200.0,0.4622,1343.0,24202.0,Q1132346,100.0
+University of North Carolina Wilmington,298400.0,0.6797,1226.0,24837.0,Q2092214,100.0
+William Peace University,295300.0,0.6139,1053.0,47624.0,Q8016704,100.0
+University of North Carolina at Pembroke,295400.0,0.9138,1012.0,15952.0,Q10709746,100.0
+Pfeiffer University,295500.0,0.7584,1008.0,44387.0,Q1796553,100.0
+Piedmont Community College,964600.0,,,11488.0,Q7191501,100.0
+Pitt Community College,406200.0,,,11835.0,Q7199069,100.0
+Queens University of Charlotte,295700.0,0.6843,1150.0,49480.0,Q7270829,100.0
+Randolph Community College,544700.0,,,13659.0,Q7291805,100.0
+Richmond Community College,546400.0,,,11058.0,Q7330759,90.0
+Mid-Atlantic Christian University,2280900.0,0.4312,1004.0,30542.0,Q6840626,100.0
+Robeson Community College,861200.0,,,14483.0,Q7352160,100.0
+Rockingham Community College,295800.0,,,12493.0,Q7355383,100.0
+Rowan-Cabarrus Community College,575400.0,,,11038.0,Q17030021,100.0
+Saint Augustine's University,296800.0,0.6733,842.0,32073.0,Q7587158,96.0
+Salem College,296000.0,0.8463,1061.0,44461.0,Q7404080,100.0
+Sampson Community College,789200.0,,,18290.0,Q7410211,100.0
+Sandhills Community College,296100.0,,,14734.0,Q7416258,100.0
+Shaw University,296200.0,0.7056,,29686.0,Q3443493,100.0
+St. Andrews University,154001.0,0.474,951.0,44686.0,Q216273,100.0
+Southeastern Community College,296400.0,,,11610.0,Q7569425,100.0
+Southwestern Community College,846600.0,,,11405.0,Q7571405,100.0
+Stanly Community College,1119400.0,,,12042.0,Q7600091,100.0
+Southeastern Baptist Theological Seminary,296300.0,0.8243,,18955.0,Q7569414,100.0
+Surry Community College,297000.0,,,14345.0,Q7646919,100.0
+Alamance Community College,546300.0,,,21220.0,Q4705810,100.0
+Tri-County Community College,943000.0,,,12783.0,Q7839692,100.0
+Vance-Granville Community College,990300.0,,,10976.0,Q7914075,100.0
+Wake Forest University,297800.0,0.3198,,74135.0,Q392667,100.0
+Wake Technical Community College,484400.0,,,11193.0,Q7960951,100.0
+Warren Wilson College,297900.0,0.8484,1220.0,52526.0,Q7970595,100.0
+Wayne Community College,298000.0,,,10751.0,Q7976114,100.0
+Western Piedmont Community College,298200.0,,,14058.0,Q7988164,100.0
+Wilkes Community College,298300.0,,,10578.0,Q8002458,100.0
+Wilson Community College,484500.0,,,17363.0,Q8023021,100.0
+Wingate University,298500.0,0.7327,,49769.0,Q8025153,100.0
+Carolina Christian College,3570300.0,,,14600.0,Q5044794,100.0
+Winston-Salem State University,298600.0,0.7252,971.0,20382.0,Q8026034,100.0
+Western Carolina University,298100.0,0.4848,1129.0,18462.0,Q1050078,100.0
+Bismarck State College,298800.0,,,13476.0,Q4918312,100.0
+Dickinson State University,298900.0,0.9862,1031.0,17708.0,Q5273748,100.0
+Nueta Hidatsa Sahnish College,2553700.0,,,15379.0,Q5470816,100.0
+University of Jamestown,299000.0,0.719,1088.0,34565.0,Q6146207,100.0
+Cankdeska Cikana Community College,2236500.0,,,11652.0,Q5032498,100.0
+University of Mary,299200.0,0.7168,1143.0,30194.0,Q14708393,100.0
+Mayville State University,299300.0,0.5303,1065.0,18727.0,Q14708361,100.0
+Minot State University,299400.0,0.7733,1070.0,16896.0,Q5017530,100.0
+University of North Dakota,300500.0,0.8675,1163.0,23119.0,Q968559,100.0
+North Dakota State College of Science,299600.0,,,15205.0,Q7055057,100.0
+Williston State College,300700.0,,,16919.0,Q8022152,100.0
+Sitting Bull College,2188200.0,,,11262.0,Q7532066,100.0
+Turtle Mountain Community College,2301100.0,,,14646.0,Q7856434,100.0
+United Tribes Technical College,2242900.0,,,12422.0,Q7893617,100.0
+Valley City State University,300800.0,0.806,1030.0,18712.0,Q7912012,100.0
+Allegheny Wesleyan College,3457300.0,,,13524.0,Q65072501,100.0
+Art Academy of Cincinnati,301100.0,0.3081,,44864.0,Q4796670,100.0
+Ashland University,301200.0,0.7435,1105.0,33775.0,Q986122,100.0
+Athenaeum of Ohio,301300.0,,,,Q4813398,100.0
+Baldwin Wallace University,301400.0,0.6982,1176.0,48655.0,Q1805202,100.0
+Belmont College,994100.0,,,10242.0,Q3298359,100.0
+Bluffton University,301600.0,0.6051,,48205.0,Q886141,100.0
+Capital University,302300.0,0.7406,,47719.0,Q5035685,100.0
+Case Western Reserve University,302400.0,0.3027,1445.0,69526.0,Q1047060,100.0
+Cedarville University,302500.0,0.5933,1251.0,42318.0,Q5057029,100.0
+Central Ohio Technical College,1104600.0,,,13729.0,Q5061542,100.0
+Central State University,302600.0,0.5804,,19769.0,Q5061855,100.0
+Chatfield College,1088000.0,,,21702.0,Q5087595,100.0
+Cincinnati State Technical and Community College,1034500.0,,,10461.0,Q5120311,100.0
+Ohio Christian University,303000.0,,,32568.0,Q7080767,100.0
+Clark State College,485200.0,,,11668.0,Q5127383,100.0
+Cleveland Institute of Music,303100.0,0.3416,,60680.0,Q5132172,100.0
+Cleveland State University,303200.0,0.936,1088.0,24010.0,Q1100801,100.0
+Columbus College of Art and Design,303900.0,0.9169,,49217.0,Q5150026,100.0
+Columbus State Community College,686700.0,,,11096.0,Q5150126,100.0
+Davis College,485500.0,,,31362.0,Q5241855,100.0
+University of Dayton,312700.0,0.8111,1233.0,60900.0,Q2092392,100.0
+Denison University,304200.0,0.2817,1350.0,69128.0,Q4493503,100.0
+Edison State Community College,1275000.0,,,15100.0,Q16947040,89.0
+The University of Findlay,304500.0,0.7959,1144.0,47032.0,Q7895390,100.0
+Franklin University,304600.0,,,23956.0,Q4570194,100.0
+Gods Bible School and College,2220500.0,0.814,,15632.0,Q5575668,98.0
+Hebrew Union College-Jewish Institute of Religion,405400.0,,,,Q1526305,100.0
+Heidelberg University,304800.0,0.8106,1098.0,44381.0,Q151510,100.0
+Hiram College,304900.0,0.9277,1037.0,50555.0,Q5769100,100.0
+Eastern Gateway Community College,727500.0,,,8216.0,Q14716404,100.0
+John Carroll University,305000.0,0.8784,1198.0,57651.0,Q1666981,100.0
+Hondros College of Nursing,4074300.0,0.7468,,31986.0,Q28228267,50.0
+Kent State University at Ashtabula,305105.0,0.8443,1141.0,13869.0,Q6391915,100.0
+Kent State University at East Liverpool,305106.0,0.8443,1141.0,14606.0,Q6391917,100.0
+Kent State University at Stark,305102.0,0.8443,1141.0,12914.0,Q6391919,100.0
+Kent State University at Salem,305107.0,0.8443,1141.0,12775.0,Q6391918,100.0
+Kent State University at Kent,305100.0,0.8443,1141.0,25836.0,Q6391918,88.0
+Kenyon College,306500.0,0.3689,1399.0,74550.0,Q1797768,100.0
+Kettering College,703500.0,0.213,1105.0,25698.0,Q2982989,100.0
+Lake Erie College,306600.0,0.6395,1058.0,45740.0,Q6475778,59.0
+Lakeland Community College,680400.0,,,10588.0,Q6478788,100.0
+James A. Rhodes State College,1002700.0,,,14964.0,Q6128246,100.0
+Lorain County Community College,306800.0,,,7590.0,Q6678731,100.0
+Malone University,307200.0,0.7427,1113.0,44743.0,Q6744514,100.0
+Marietta College,307300.0,0.7391,1120.0,49601.0,Q6763222,100.0
+Methodist Theological School in Ohio,307500.0,,,,Q6823846,100.0
+Miami University-Middletown,307701.0,0.9195,1280.0,15072.0,Q6827457,100.0
+Miami University-Oxford,307700.0,0.9195,1280.0,33805.0,Q590643,82.0
+University of Mount Union,308300.0,0.7741,1107.0,44497.0,Q3551642,100.0
+Mount Vernon Nazarene University,708500.0,0.7248,1131.0,43341.0,Q6924393,100.0
+Zane State College,813300.0,,,11752.0,Q8066116,100.0
+Muskingum University,308400.0,0.7966,,41716.0,Q6942807,100.0
+North Central State College,531300.0,,,9659.0,Q7054763,100.0
+Northwest State Community College,867700.0,,,14496.0,Q7060206,100.0
+Notre Dame College,308500.0,0.8743,,43425.0,Q7063389,100.0
+Northeast Ohio Medical University,2454400.0,,,,Q7057949,100.0
+Oberlin College,308600.0,0.3536,1348.0,77124.0,Q616591,100.0
+Ohio Technical College,1174500.0,,,,Q18749126,100.0
+Ohio Dominican University,303500.0,0.495,,42524.0,Q7080808,100.0
+Ohio Northern University,308900.0,0.652,1218.0,49392.0,Q1683585,100.0
+Ohio State University-Lima Campus,309001.0,0.6849,1337.0,17747.0,Q7080960,100.0
+The Spa School,953100.0,,,,Q7432542,37.0
+Ohio University-Eastern Campus,310006.0,0.8749,1166.0,11871.0,Q16975104,100.0
+Ohio Wesleyan University,310900.0,0.684,,62161.0,Q194266,100.0
+Otterbein University,311000.0,0.7606,1158.0,45773.0,Q7109428,100.0
+Owens Community College,575300.0,,,13447.0,Q7114740,100.0
+Payne Theological Seminary,1001700.0,,,,Q48973986,50.0
+Pontifical College Josephinum,311300.0,0.75,,43542.0,Q1280192,100.0
+Professional Skills Institute,2337700.0,0.9308,,37201.0,Q7248033,100.0
+University of Rio Grande,311600.0,,,40938.0,Q18467872,100.0
+Sinclair Community College,311900.0,,,9810.0,Q7522014,100.0
+Stark State College,1088100.0,,,10405.0,Q6391919,57.0
+Franciscan University of Steubenville,303600.0,0.73,1204.0,39788.0,Q5483039,100.0
+Southern State Community College,1287000.0,,,11869.0,Q7570499,100.0
+Terra State Community College,827800.0,,,17676.0,Q7703070,100.0
+Tiffin University,312100.0,0.6247,,41055.0,Q13311081,100.0
+University of Toledo,313100.0,0.9468,1135.0,25118.0,Q2302319,100.0
+Union Institute & University,1092300.0,,,31656.0,Q7885779,100.0
+United Theological Seminary,312200.0,,,,Q7893602,100.0
+Ursuline College,313400.0,0.8079,1067.0,44600.0,Q7901303,100.0
+The North Coast College,1289600.0,0.4118,,28267.0,Q107410462,37.5
+Walsh University,313500.0,0.7656,1126.0,42869.0,Q3444269,100.0
+Washington State Community College,1045300.0,,,11674.0,Q7972231,100.0
+Wilberforce University,314100.0,0.6157,862.0,23450.0,Q1730032,100.0
+Wilmington College,314200.0,0.7272,1083.0,38642.0,Q8022753,100.0
+Winebrenner Theological Seminary,406000.0,,,,Q8024948,100.0
+Wittenberg University,314300.0,0.9743,,53219.0,Q8028571,100.0
+The College of Wooster,303700.0,0.653,,66108.0,Q1109093,100.0
+Wright State University-Lake Campus,307801.0,0.9599,1096.0,15648.0,Q2002085,79.0
+Xavier University,314400.0,0.8122,1198.0,58260.0,Q43337,100.0
+Youngstown State University,314500.0,0.6993,1083.0,18929.0,Q1783191,100.0
+Bacone College,314700.0,0.4728,944.0,31050.0,Q2878449,100.0
+Oklahoma Wesleyan University,315100.0,0.8266,1056.0,40883.0,Q3369346,100.0
+Southern Nazarene University,314900.0,,,38327.0,Q7570171,100.0
+Cameron University,315000.0,,,15685.0,Q3444292,100.0
+Central Oklahoma College,2238500.0,,,,Q101019519,65.0
+University of Central Oklahoma,315200.0,0.8049,1085.0,24185.0,Q3275637,100.0
+Connors State College,315300.0,,,17960.0,Q1781094,76.0
+East Central University,315400.0,0.9645,1079.0,16681.0,Q5328060,100.0
+Eastern Oklahoma State College,315500.0,,,12523.0,Q13582663,64.0
+Redlands Community College,315600.0,,,15213.0,Q7306031,100.0
+Langston University,315700.0,,,20447.0,Q3302016,100.0
+Murray State College,315800.0,,,18803.0,Q22031849,69.0
+Spartan College of Aeronautics and Technology,767800.0,,,37437.0,Q7573895,100.0
+Northeastern State University,316100.0,0.9949,1069.0,17889.0,Q3124195,100.0
+Northern Oklahoma College,316200.0,,,11403.0,Q7058805,100.0
+Northwestern Oklahoma State University,316300.0,0.7026,1021.0,17928.0,Q7060359,100.0
+Oklahoma State University Center for Health Sciences,1128200.0,,,,Q7082377,100.0
+Oklahoma Christian University,316500.0,0.6121,1162.0,37015.0,Q7082127,100.0
+University of Oklahoma-Health Sciences Center,318401.0,0.8338,1233.0,,Q7082377,87.0
+Oklahoma Panhandle State University,317400.0,,,15443.0,Q7082284,100.0
+Oklahoma State University-Oklahoma City,964700.0,,,12130.0,Q7082388,100.0
+Oklahoma Baptist University,316400.0,0.5821,1138.0,42983.0,Q367774,100.0
+Oklahoma City Community College,1039100.0,,,11526.0,Q7082136,100.0
+Oklahoma City University,316600.0,0.731,1213.0,44942.0,Q3443498,100.0
+Oral Roberts University,398500.0,0.7839,1133.0,44006.0,Q3121493,100.0
+Rogers State University,316800.0,,,20029.0,Q13582663,100.0
+University of Science and Arts of Oklahoma,316700.0,0.3575,917.0,18540.0,Q7896279,100.0
+Seminole State College,317800.0,,,18066.0,Q7449539,80.0
+Southeastern Oklahoma State University,317900.0,0.7859,1040.0,16367.0,Q866829,100.0
+Southwestern Christian University,318000.0,,,28315.0,Q6132876,70.0
+Southwestern Oklahoma State University,318100.0,0.932,1065.0,21147.0,Q1811567,100.0
+Tulsa Community College,976300.0,,,12440.0,Q7852329,100.0
+University of Tulsa,318500.0,0.6922,1255.0,58637.0,Q1848657,100.0
+Blue Mountain Community College,318600.0,,,16391.0,Q4929509,100.0
+Central Oregon Community College,318800.0,,,17417.0,Q5061559,100.0
+Chemeketa Community College,321800.0,,,11928.0,Q5090359,100.0
+Clackamas Community College,487800.0,,,9729.0,Q5124879,100.0
+Clatsop Community College,318900.0,,,14197.0,Q5128598,100.0
+Sumner College,2104900.0,0.625,,,Q7996977,64.0
+Eastern Oregon University,319300.0,0.9425,,22408.0,Q1278219,100.0
+New Hope Christian College-Eugene,2159700.0,0.9474,,25822.0,Q7008785,88.0
+George Fox University,319400.0,0.9091,1138.0,51439.0,Q5539406,100.0
+Lane Community College,319600.0,,,14253.0,Q6485363,100.0
+Lewis & Clark College,319700.0,0.7982,1313.0,68735.0,Q4227955,100.0
+Linfield University-McMinnville Campus,319800.0,0.8018,1143.0,58485.0,Q6553672,67.0
+Linn-Benton Community College,693800.0,,,16930.0,Q6554657,100.0
+Mount Angel Seminary,320300.0,1.0,,39700.0,Q2820640,92.0
+Mt Hood Community College,320400.0,,,13123.0,Q6930281,100.0
+Multnomah University,320600.0,0.589,,42743.0,Q6935185,100.0
+National University of Natural Medicine,2534000.0,,,,Q6971607,100.0
+Bushnell University,320800.0,0.6819,1089.0,43464.0,Q3878581,100.0
+Oregon Health & Science University,488200.0,,,,Q282097,100.0
+Oregon Institute of Technology,321100.0,0.9513,1117.0,23366.0,Q427553,100.0
+Oregon State University,321000.0,0.8173,1201.0,27595.0,Q861888,100.0
+University of Oregon,322300.0,0.8381,1207.0,27717.0,Q766145,100.0
+Pacific University,321200.0,0.893,1166.0,62157.0,Q630226,100.0
+Portland Community College,321300.0,,,15063.0,Q7231908,100.0
+Portland State University,321600.0,0.9519,1084.0,20571.0,Q1771717,100.0
+University of Portland,322400.0,0.7722,1233.0,64049.0,Q513658,100.0
+Reed College,321700.0,0.4234,,75586.0,Q1140775,100.0
+Rogue Community College,1018200.0,,,14515.0,Q7359513,100.0
+Southern Oregon University,321900.0,0.9043,1093.0,17755.0,Q1888661,100.0
+Southwestern Oregon Community College,322000.0,,,14924.0,Q7571442,100.0
+Treasure Valley Community College,322100.0,,,12415.0,Q7836728,100.0
+Umpqua Community College,322200.0,,,15492.0,Q7881771,100.0
+Warner Pacific University,322500.0,1.0,,32176.0,Q7969745,100.0
+Corban University,133900.0,0.4834,1077.0,45919.0,Q5169711,100.0
+College of Cosmetology,2106100.0,,,,Q27681613,76.0
+Western Seminary,717800.0,,,,Q7988285,100.0
+Willamette University,322700.0,0.8017,,66416.0,Q930291,100.0
+Western Oregon University,320900.0,0.7914,1055.0,22810.0,Q1629641,100.0
+University of Western States,1230900.0,,,,Q7896612,100.0
+Academy of Vocal Arts,3353300.0,,,,Q337358,100.0
+Albright College,322900.0,0.821,,40300.0,Q4564494,100.0
+Community College of Allegheny County,323100.0,,,13763.0,Q5154687,100.0
+Allegheny College,323000.0,0.7315,1260.0,64901.0,Q4062566,100.0
+DeSales University,398600.0,0.8177,1139.0,54300.0,Q5244080,100.0
+Alvernia University,323300.0,0.7002,,49990.0,Q4737977,100.0
+Arcadia University,323500.0,0.7363,1138.0,59684.0,Q4785174,100.0
+Missio Theological Seminary,2323000.0,,,,Q4903268,82.0
+Bloomsburg University of Pennsylvania,331500.0,0.8903,,25058.0,Q4928377,100.0
+Bryn Mawr College,323700.0,0.3836,,73540.0,Q995265,100.0
+Bucknell University,323800.0,0.3753,1353.0,75400.0,Q3444679,100.0
+Bucks County Community College,323900.0,,,12328.0,Q4983461,100.0
+Butler County Community College,324000.0,,,10561.0,Q5002600,100.0
+California University of Pennsylvania,331600.0,0.9432,1024.0,25716.0,Q5021159,100.0
+Carlow University,330300.0,0.9446,1070.0,44201.0,Q5042860,100.0
+Carnegie Mellon University,324200.0,0.1727,1513.0,74489.0,Q190080,100.0
+Central Penn College,489000.0,0.8285,,27042.0,Q5061634,100.0
+Chatham University,324400.0,0.6619,,52968.0,Q5087708,100.0
+Chestnut Hill College,324500.0,0.7114,995.0,54599.0,Q49118,63.0
+Cheyney University of Pennsylvania,331700.0,,,24513.0,Q3445541,100.0
+Clarion University of Pennsylvania,331800.0,0.9423,,26294.0,Q5127034,100.0
+Curtis Institute of Music,325100.0,0.0244,,22192.0,Q60450,100.0
+Delaware County Community College,711000.0,,,15040.0,Q3704937,100.0
+Delaware Valley University,325200.0,0.9158,1052.0,56828.0,Q15213548,100.0
+Dickinson College,325300.0,0.5165,,73650.0,Q1210045,100.0
+Drexel University,325600.0,0.7719,1287.0,69397.0,Q603034,100.0
+Duquesne University,325800.0,0.7719,1207.0,56199.0,Q74343,100.0
+East Stroudsburg University of Pennsylvania,332000.0,0.905,1007.0,24870.0,Q5329446,100.0
+Eastern University,325900.0,0.6425,1104.0,48828.0,Q5330550,100.0
+Edinboro University of Pennsylvania,332100.0,0.8503,1061.0,22036.0,Q5338120,100.0
+Elizabethtown College,326200.0,0.8573,1176.0,44978.0,Q5363873,100.0
+Evangelical Theological Seminary,326300.0,,,,Q5523962,89.0
+Franklin and Marshall College,326500.0,0.365,,75720.0,Q664881,100.0
+Gannon University,326600.0,0.7924,1113.0,46867.0,Q5521430,100.0
+Geneva College,326700.0,0.7314,,38941.0,Q5532987,100.0
+Gettysburg College,326800.0,0.4824,,71850.0,Q1520129,100.0
+Gratz College,405800.0,,,,Q5597737,100.0
+Grove City College,326900.0,0.7759,1250.0,,Q5611381,100.0
+Gwynedd Mercy University,327000.0,0.8803,1044.0,47646.0,Q5623834,58.0
+Harrisburg Area Community College,327300.0,,,15730.0,Q5665208,100.0
+Haverford College,327400.0,0.1823,1459.0,76384.0,Q579611,100.0
+Holy Family University,327500.0,0.777,979.0,37020.0,Q3139537,100.0
+Immaculata University,327600.0,0.8243,1076.0,44036.0,Q6004301,100.0
+Johnson College,2114200.0,0.9471,,26439.0,Q6268234,100.0
+Juniata College,327900.0,0.6746,,61807.0,Q6313025,100.0
+Keystone College,328000.0,0.7874,991.0,39200.0,Q91092085,36.0
+King's College,328200.0,0.8661,,52647.0,Q49088,100.0
+Kutztown University of Pennsylvania,332200.0,0.9319,1038.0,28414.0,Q1340908,100.0
+La Salle University,328700.0,0.7635,,45298.0,Q3106542,100.0
+Lackawanna College,328300.0,,,26676.0,Q6468687,100.0
+Lafayette College,328400.0,0.3557,1360.0,74016.0,Q1592074,100.0
+Lancaster Bible College,328500.0,0.9668,1087.0,36544.0,Q6483113,100.0
+Lancaster Theological Seminary,328600.0,,,,Q6483254,100.0
+Lehigh Carbon Community College,681000.0,,,10488.0,Q15242208,100.0
+Lehigh University,328900.0,0.4954,1366.0,71310.0,Q622137,100.0
+Lincoln University,329000.0,0.9034,942.0,26008.0,Q1048626,100.0
+United Lutheran Seminary,329100.0,,,,Q13428389,86.0
+Luzerne County Community College,681100.0,,,13057.0,Q6706571,100.0
+Lycoming College,329300.0,0.6548,1117.0,57132.0,Q6707331,100.0
+Manor College,329400.0,0.9095,905.0,25964.0,Q6751309,100.0
+Mansfield University of Pennsylvania,332400.0,0.9602,1041.0,24278.0,Q6751699,100.0
+Marywood University,329600.0,0.8203,1102.0,49609.0,Q6781819,100.0
+Vet Tech Institute,856800.0,,,22013.0,Q7923540,65.0
+Mercyhurst University,329700.0,0.8802,,56266.0,Q6818830,100.0
+Messiah University,329800.0,0.7752,1205.0,49864.0,Q3307047,100.0
+Millersville University of Pennsylvania,332500.0,0.8455,1095.0,27526.0,Q6859396,100.0
+Misericordia University,324700.0,0.8329,,48844.0,Q6875342,100.0
+Montgomery County Community College,445200.0,,,12776.0,Q10332113,100.0
+Moore College of Art and Design,330000.0,0.5004,,60910.0,Q3323609,100.0
+Moravian University,330100.0,0.801,,59553.0,Q4571902,100.0
+Mount Aloysius College,330200.0,0.9524,,36886.0,Q15256672,100.0
+Muhlenberg College,330400.0,0.6218,1280.0,69413.0,Q1951942,100.0
+Neumann University,398800.0,0.8034,991.0,50640.0,Q7001944,100.0
+Northampton County Area Community College,719100.0,,,14640.0,Q7057598,100.0
+Salus University,331100.0,,,,Q7406311,100.0
+Pennsylvania Institute of Technology,1099800.0,,,20588.0,Q603034,70.0
+Peirce College,330900.0,,,18260.0,Q7160940,100.0
+Pennsylvania College of Art and Design,2269900.0,0.4709,,38043.0,Q3323609,72.0
+University of Pennsylvania,337800.0,0.0898,1517.0,78186.0,Q49117,100.0
+The University of the Arts,335000.0,0.7582,,65881.0,Q1068615,100.0
+Philadelphia College of Osteopathic Medicine,335200.0,,,,Q3378846,100.0
+University of the Sciences,335300.0,0.714,1218.0,43968.0,Q3443159,100.0
+Community College of Philadelphia,324900.0,,,18738.0,Q2989707,100.0
+University of Pittsburgh-Bradford,337903.0,0.6818,1290.0,28132.0,Q7896145,96.0
+University of Pittsburgh-Johnstown,337902.0,0.6818,1290.0,27031.0,Q7896148,100.0
+University of Pittsburgh-Pittsburgh Campus,337900.0,0.6818,1290.0,33964.0,Q235034,75.0
+Pittsburgh Institute of Aeronautics,531000.0,,,35948.0,Q7199301,100.0
+Pittsburgh Institute of Mortuary Science Inc,1081400.0,,,,Q7199302,95.0
+Pittsburgh Technical College,743700.0,,,33287.0,Q7199403,100.0
+Pittsburgh Theological Seminary,335600.0,,,,Q7199405,100.0
+Point Park University,335700.0,0.6951,1079.0,45350.0,Q7208107,100.0
+Reading Area Community College,1038800.0,,,14389.0,Q7300469,100.0
+Reconstructionist Rabbinical College,2273400.0,,,,Q2299327,100.0
+Walnut Hill College,2192800.0,0.7475,,35640.0,Q7760328,60.0
+Robert Morris University,335900.0,0.8563,1140.0,47724.0,Q7347821,100.0
+Rosemont College,336000.0,0.691,1049.0,35805.0,Q2983788,100.0
+Saint Francis University,336600.0,0.5935,1134.0,54101.0,Q7401271,100.0
+Saint Joseph's University,336700.0,0.8007,1205.0,63223.0,Q1475413,100.0
+Saint Vincent College,336800.0,0.7212,1090.0,50140.0,Q12966706,84.0
+Saint Vincent Seminary,336800.0,0.7212,1090.0,,Q7402283,100.0
+University of Scranton,338400.0,0.7873,1200.0,62380.0,Q2495907,100.0
+Seton Hill University,336200.0,0.7867,,50395.0,Q1949773,100.0
+UPMC Shadyside School of Nursing,657700.0,0.4074,,29214.0,Q7865512,100.0
+Shippensburg University of Pennsylvania,332600.0,0.9392,1042.0,29182.0,Q7498066,100.0
+Slippery Rock University of Pennsylvania,332700.0,0.7398,1075.0,24600.0,Q1799642,100.0
+Saint Charles Borromeo Seminary-Overbrook,336400.0,1.0,,41324.0,Q7587500,77.0
+Susquehanna University,336900.0,0.7304,,64760.0,Q7649352,100.0
+Swarthmore College,337000.0,0.0906,1467.0,73932.0,Q1378320,100.0
+Thaddeus Stevens College of Technology,791200.0,0.8629,,16310.0,Q7709009,100.0
+Temple University,337100.0,0.7142,,33226.0,Q1420239,100.0
+Theological Seminary of the Reformed Episcopal Church,337500.0,,,,Q7307513,100.0
+Thomas Jefferson University,1239300.0,0.6984,1179.0,60290.0,Q2471216,100.0
+Trinity Episcopal School for Ministry,2299300.0,,,,Q2453575,100.0
+Ursinus College,338500.0,0.8044,1253.0,69604.0,Q7901181,100.0
+Villanova University,338800.0,0.3066,1406.0,73042.0,Q1466001,100.0
+Washington & Jefferson College,338900.0,0.9018,,62814.0,Q7971641,100.0
+Waynesburg University,339100.0,0.8996,1082.0,37431.0,Q7976817,100.0
+West Chester University of Pennsylvania,332800.0,0.8625,1100.0,26114.0,Q3443893,100.0
+Pittsburgh Career Institute,2202300.0,0.9744,,31786.0,Q7199301,77.0
+Westminster College,339200.0,0.7651,,49932.0,Q5407122,100.0
+Westminster Theological Seminary,339300.0,,,,Q1073873,100.0
+Westmoreland County Community College,1017600.0,,,10405.0,Q7989280,100.0
+Widener University,331300.0,0.7458,1126.0,62831.0,Q3443325,100.0
+Wilkes University,339400.0,0.9177,1137.0,54085.0,Q8002474,100.0
+Wilson College,339600.0,0.922,1030.0,37019.0,Q8023016,100.0
+Brown University,340100.0,0.0767,1508.0,77490.0,Q49114,100.0
+Bryant University,340200.0,0.7579,1211.0,62855.0,Q1012699,100.0
+Johnson & Wales University-Providence,340400.0,0.846,,51167.0,Q1798494,81.0
+Providence College,340600.0,0.5386,1301.0,69407.0,Q1439629,100.0
+Rhode Island College,340700.0,0.8127,988.0,17761.0,Q1613236,100.0
+Community College of Rhode Island,340800.0,,,11446.0,Q5154693,100.0
+University of Rhode Island,341400.0,0.7551,1183.0,30339.0,Q1641788,100.0
+Rhode Island School of Design,340900.0,0.2712,1361.0,72571.0,Q49208,100.0
+Roger Williams University,341000.0,0.8601,,54865.0,Q3940116,100.0
+Salve Regina University,341100.0,0.7462,,61072.0,Q1695578,100.0
+Northpoint Bible College,3570500.0,,,29554.0,Q14715789,100.0
+Allen University,341700.0,0.6458,,24695.0,Q49041,100.0
+Anderson University,341800.0,0.592,,44481.0,Q4754215,100.0
+Charleston Southern University,341900.0,0.5379,1091.0,40177.0,Q5084184,100.0
+Benedict College,342000.0,0.7259,,28000.0,Q4887262,100.0
+Bob Jones University,342100.0,,,28498.0,Q2740389,100.0
+Southern Wesleyan University,342200.0,0.5575,1079.0,35949.0,Q5220742,100.0
+College of Charleston,342800.0,0.7432,1175.0,29545.0,Q4507421,100.0
+Northeastern Technical College,760200.0,,,12406.0,Q7058061,100.0
+Citadel Military College of South Carolina,342300.0,0.7995,1139.0,30022.0,Q24693580,41.0
+Claflin University,342400.0,0.6513,942.0,33777.0,Q5125034,100.0
+Clemson University,342500.0,0.6194,1327.0,32254.0,Q631066,100.0
+Clinton College,492300.0,,,21685.0,Q5134085,100.0
+Coker University,342700.0,0.9306,1008.0,42395.0,Q1107305,100.0
+Columbia International University,342900.0,0.5067,1055.0,36979.0,Q1112489,100.0
+Columbia College,343000.0,0.9707,964.0,33178.0,Q49088,100.0
+Converse University,343100.0,0.8244,1067.0,33858.0,Q5166453,100.0
+Denmark Technical College,536300.0,,,19817.0,Q5257948,100.0
+Erskine College,343200.0,0.6,1012.0,52411.0,Q5395822,100.0
+Florence-Darlington Technical College,399000.0,,,10293.0,Q5460831,100.0
+Francis Marion University,922600.0,0.7525,990.0,21888.0,Q1441652,100.0
+Furman University,343400.0,0.6525,1356.0,67299.0,Q1475020,100.0
+Lander University,343500.0,0.5703,1015.0,24474.0,Q6484421,100.0
+Medical University of South Carolina,343800.0,,,,Q6806451,100.0
+Morris College,343900.0,,,27066.0,Q6913648,100.0
+Newberry College,344000.0,0.5659,989.0,42320.0,Q14709596,100.0
+North Greenville University,344100.0,0.6533,1082.0,37771.0,Q7055505,100.0
+Orangeburg Calhoun Technical College,681500.0,,,13982.0,Q7099794,100.0
+Piedmont Technical College,399200.0,,,20091.0,Q5547660,87.0
+Presbyterian College,344500.0,0.7083,1123.0,53720.0,Q7240787,85.0
+University of South Carolina Aiken,344900.0,0.5588,1062.0,20735.0,Q7896316,100.0
+University of South Carolina Beaufort,345000.0,0.6694,1029.0,24235.0,Q7896318,100.0
+University of South Carolina-Columbia,344800.0,0.6835,1268.0,28602.0,Q1024426,100.0
+Coastal Carolina University,345100.0,0.7045,1108.0,24313.0,Q1104405,100.0
+South Carolina State University,344600.0,0.9409,900.0,30015.0,Q7566644,100.0
+Sherman College of Chiropractic,2063700.0,,,,Q7495144,100.0
+Spartanburg Community College,399400.0,,,12749.0,Q7573923,100.0
+Central Carolina Technical College,399500.0,,,12225.0,Q20708490,100.0
+Tri-County Technical College,492600.0,,,15944.0,Q7839709,100.0
+Trident Technical College,492000.0,,,11766.0,Q7841390,100.0
+Voorhees College,345500.0,,,26306.0,Q7941707,100.0
+Williamsburg Technical College,932200.0,,,14375.0,Q38251806,100.0
+Winthrop University,345600.0,0.6394,1072.0,29266.0,Q8026588,100.0
+Wofford College,345700.0,0.53,,62262.0,Q8029049,100.0
+York Technical College,399600.0,,,14680.0,Q3678632,92.0
+Augustana University,345800.0,0.7138,1220.0,47710.0,Q3298397,100.0
+Black Hills State University,345900.0,0.9714,1089.0,20937.0,Q4920974,100.0
+Dakota State University,346300.0,0.8357,1131.0,22365.0,Q5210049,100.0
+Dakota Wesleyan University,346100.0,0.642,1061.0,38617.0,Q5210062,100.0
+Lake Area Technical College,530900.0,,,15983.0,Q6474813,75.0
+Mitchell Technical College,828400.0,,,15575.0,Q18636195,100.0
+Mount Marty University,346500.0,0.7843,1035.0,41044.0,Q14709772,54.0
+National American University-Rapid City,405700.0,,,23721.0,Q6970347,84.0
+Sioux Falls Seminary,405600.0,0.9545,,,Q7525491,100.0
+Northern State University,346600.0,0.7871,1119.0,21388.0,Q2001088,100.0
+Oglala Lakota College,1465900.0,,,11327.0,Q7080082,100.0
+Presentation College,346700.0,0.9321,1035.0,35087.0,Q98946942,53.0
+South Dakota School of Mines and Technology,347000.0,0.8555,1266.0,25078.0,Q7566983,100.0
+South Dakota State University,347100.0,0.8894,1150.0,22230.0,Q2302260,100.0
+Sinte Gleska University,2143700.0,,,17554.0,Q7525103,100.0
+University of Sioux Falls,346900.0,0.9229,,30472.0,Q7896307,100.0
+Sanford Medical Center,1147700.0,,,,Q3567094,60.0
+Sisseton Wahpeton College,2277300.0,,,8175.0,Q17034947,100.0
+Southeast Technical College,776400.0,,,19587.0,Q7569355,70.0
+Stewart School,1013800.0,,,,Q7615937,39.0
+University of South Dakota,347400.0,0.9095,1134.0,23016.0,Q1305521,100.0
+American Baptist College,1046000.0,,,24972.0,Q4743138,100.0
+Austin Peay State University,347800.0,0.9115,1104.0,23931.0,Q781153,100.0
+Baptist Health Sciences University,3440300.0,0.693,1082.0,20485.0,Q84013945,46.0
+Belmont University,347900.0,0.8323,1244.0,54595.0,Q3298359,100.0
+Bethel University,348000.0,0.7612,998.0,30992.0,Q3445045,100.0
+Bryan College-Dayton,353600.0,,,38061.0,Q4980029,79.0
+Carson-Newman University,348100.0,0.7932,1107.0,40422.0,Q3445010,100.0
+Chattanooga State Community College,399800.0,,,12885.0,Q5087893,100.0
+Christian Brothers University,348200.0,0.4994,1190.0,43939.0,Q5109383,100.0
+Pentecostal Theological Seminary,2188300.0,,,,Q18155846,100.0
+Cleveland State Community College,399900.0,,,14170.0,Q5132245,100.0
+Columbia State Community College,348300.0,,,13094.0,Q5149848,100.0
+Cumberland University,348500.0,0.5376,,38392.0,Q1143711,100.0
+Lipscomb University,348600.0,0.615,1226.0,49074.0,Q1798619,100.0
+Dyersburg State Community College,683500.0,,,13013.0,Q5318575,100.0
+East Tennessee State University,348700.0,0.7838,1167.0,22323.0,Q634669,100.0
+Fisk University,349000.0,0.6646,1122.0,37482.0,Q49087,100.0
+Welch College,3001800.0,,,34108.0,Q7980543,100.0
+Jackson State Community College,493700.0,,,15189.0,Q6117378,100.0
+Johnson University,349500.0,0.5052,1039.0,27168.0,Q12060891,100.0
+King University,349600.0,0.6018,1097.0,42662.0,Q6412129,100.0
+South College,493800.0,,,27758.0,Q951305,76.0
+Lane College,349900.0,,,23551.0,Q6485360,100.0
+Le Moyne-Owen College,350100.0,0.638,,18056.0,Q6506386,98.0
+Lee University,350000.0,0.8301,1163.0,31522.0,Q6515384,100.0
+Lincoln Memorial University,350200.0,0.6853,1118.0,36365.0,Q14710034,100.0
+The University of Tennessee Southern,350400.0,0.9834,1047.0,40576.0,Q6776185,94.0
+Maryville College,350500.0,0.6211,1159.0,49603.0,Q4309890,100.0
+Meharry Medical College,350600.0,,,,Q4026847,100.0
+University of Memphis,350900.0,0.852,1132.0,24139.0,Q2094177,100.0
+Memphis Theological Seminary,1052900.0,,,,Q6815887,100.0
+Middle Tennessee State University,351000.0,0.942,1146.0,21241.0,Q1784748,100.0
+Middle Tennessee School of Anesthesia Inc,778300.0,,,,Q6841624,95.0
+Tennessee College of Applied Technology-Morristown,535100.0,,,,Q97671599,100.0
+Motlow State Community College,683600.0,,,14010.0,Q6917927,100.0
+Nashville State Community College,814500.0,,,12957.0,Q6967013,100.0
+Tennessee College of Applied Technology-Newbern,528300.0,,,,Q17108924,100.0
+Rhodes College,351900.0,0.5136,1345.0,64249.0,Q1321046,100.0
+Roane State Community College,991400.0,,,11543.0,Q7339755,100.0
+Southwest Tennessee Community College,1043900.0,,,12050.0,Q7571358,100.0
+The University of the South,353400.0,0.5607,1280.0,62647.0,Q7458159,100.0
+Pellissippi State Community College,1269300.0,,,12146.0,Q7161582,100.0
+Southern Adventist University,351800.0,0.7396,1139.0,35820.0,Q7569568,100.0
+Southern College of Optometry,351700.0,,,,Q7569707,84.0
+The University of Tennessee-Chattanooga,352900.0,0.8311,1167.0,23436.0,Q1781384,91.0
+The University of Tennessee-Knoxville,353000.0,0.7815,1294.0,32010.0,Q1150105,94.0
+The University of Tennessee-Martin,353100.0,0.6495,1170.0,21200.0,Q1566138,90.0
+Tennessee State University,352200.0,,,22509.0,Q1782948,100.0
+Tennessee Technological University,352300.0,0.7963,1202.0,24458.0,Q7700206,100.0
+Trevecca Nazarene University,352600.0,0.6283,1138.0,34473.0,Q7838935,100.0
+Northeast State Community College,537800.0,,,12977.0,Q7057982,100.0
+Tusculum University,352700.0,0.6715,1067.0,39440.0,Q4564294,46.0
+Union University,352800.0,0.5753,1242.0,54324.0,Q931442,100.0
+Vanderbilt University,353500.0,0.1162,1520.0,73148.0,Q29052,100.0
+Volunteer State Community College,991200.0,,,13317.0,Q7941057,100.0
+Walters State Community College,886300.0,,,11659.0,Q17033012,100.0
+Abilene Christian University,353700.0,0.634,1150.0,51577.0,Q1805145,100.0
+Alvin Community College,353900.0,,,15251.0,Q4738072,100.0
+Amberton University,2259400.0,,,,Q4741376,100.0
+Angelo State University,354100.0,0.7816,1034.0,19810.0,Q536709,100.0
+Arlington Baptist University,2081400.0,,,25381.0,Q4792279,100.0
+Austin College,354300.0,0.4928,1220.0,56377.0,Q4823037,100.0
+Austin Community College District,1201500.0,,,11821.0,Q3629946,100.0
+Austin Presbyterian Theological Seminary,354400.0,,,,Q4823243,100.0
+Baptist Missionary Association Theological Seminary,2331200.0,0.4444,,,Q4857662,100.0
+Baylor College of Medicine,494900.0,,,,Q2892284,100.0
+Baylor University,354500.0,0.6847,,65222.0,Q812573,100.0
+Coastal Bend College,354600.0,,,11069.0,Q5138254,100.0
+Blinn College,354900.0,,,18123.0,Q4926785,100.0
+Brazosport College,728700.0,,,9976.0,Q4959024,100.0
+Central Texas College,400300.0,,,9949.0,Q5060600,83.0
+Cisco College,355300.0,,,15385.0,Q5122144,100.0
+Clarendon College,355400.0,,,14628.0,Q5126853,100.0
+Concordia University Texas,355700.0,0.9295,1086.0,47251.0,Q2992101,100.0
+Texas A & M University-Corpus Christi,1116100.0,0.9013,1088.0,22459.0,Q634651,100.0
+Dallas Baptist University,356000.0,0.9858,1117.0,42855.0,Q5211272,100.0
+Dallas Christian College,694100.0,0.2363,,33724.0,Q5211292,100.0
+Dallas Theological Seminary,356200.0,,,,Q3269488,100.0
+University of Dallas,365100.0,0.5378,1251.0,58050.0,Q3551578,100.0
+Del Mar College,356300.0,,,11091.0,Q5252909,100.0
+East Texas Baptist University,356400.0,0.9207,,38749.0,Q5329516,100.0
+Texas A & M University-Commerce,356500.0,0.6006,1052.0,22575.0,Q2407584,100.0
+Dallas College,445300.0,,,10819.0,Q5211272,78.0
+El Paso Community College,1038700.0,,,11549.0,Q5351764,100.0
+Western Technical College,2098301.0,,,,Q7988378,100.0
+Western Technical College,2098300.0,,,,Q7988378,100.0
+Episcopal Theological Seminary of the Southwest,356600.0,,,,Q7449480,69.0
+Galveston College,497200.0,,,9985.0,Q5519422,100.0
+Grayson College,357000.0,,,11589.0,Q5598396,100.0
+Hallmark University,1050900.0,0.4051,,,Q25058285,76.0
+Hardin-Simmons University,357100.0,0.9051,1069.0,42530.0,Q6356958,100.0
+Trinity Valley Community College,357200.0,,,13502.0,Q7843006,100.0
+Hill College,357300.0,,,13437.0,Q7073591,86.0
+Houston Baptist University,357600.0,0.7151,1101.0,43638.0,Q5916417,100.0
+University of Houston-Clear Lake,1171100.0,0.8073,1090.0,25567.0,Q1472358,100.0
+Houston Community College,1063300.0,,,9752.0,Q5361290,100.0
+University of Houston-Downtown,361200.0,0.9282,,20995.0,Q1472358,100.0
+University of Houston-Victoria,1323100.0,0.6706,,19441.0,Q1472358,100.0
+University of Houston,365200.0,0.6279,1216.0,23361.0,Q1472358,100.0
+Howard College,357400.0,,,12963.0,Q5919334,100.0
+Howard Payne University,357500.0,0.4853,,41336.0,Q5920583,100.0
+Huston-Tillotson University,357700.0,0.5596,888.0,24148.0,Q3143507,100.0
+University of the Incarnate Word,357800.0,0.9656,1046.0,45532.0,Q1813761,100.0
+Jarvis Christian University,363700.0,,,25082.0,Q6161219,63.0
+Kilgore College,358000.0,,,13804.0,Q6406863,100.0
+Lamar University,358100.0,0.8268,1043.0,20362.0,Q2393647,100.0
+Laredo College,358200.0,,,11250.0,Q6488884,80.0
+Texas A & M International University,965100.0,0.5893,995.0,13408.0,Q7707466,100.0
+Lee College,358300.0,,,10600.0,Q6513309,100.0
+LeTourneau University,358400.0,0.5611,1227.0,44629.0,Q6506488,100.0
+Lubbock Christian University,358600.0,0.9651,1097.0,37198.0,Q6695115,100.0
+University of Mary Hardin-Baylor,358800.0,0.903,1105.0,42812.0,Q7895673,100.0
+McLennan Community College,359000.0,,,13197.0,Q6802193,100.0
+McMurry University,359100.0,0.4739,1041.0,41764.0,Q6802425,100.0
+Midland College,979700.0,,,14440.0,Q6842319,100.0
+Midwestern State University,359200.0,0.7096,1009.0,19972.0,Q1932075,100.0
+Wade College,1013000.0,,,22459.0,Q747179,74.0
+Navarro College,359300.0,,,16776.0,Q6982160,100.0
+University of North Texas,359400.0,0.8398,1152.0,23770.0,Q860527,100.0
+Northeast Texas Community College,2315400.0,,,13758.0,Q7057986,100.0
+Odessa College,359600.0,,,12024.0,Q632984,70.0
+Our Lady of the Lake University,359800.0,0.7397,971.0,40753.0,Q7111021,100.0
+The University of Texas Rio Grande Valley,359900.0,0.8239,1034.0,14250.0,Q17028121,100.0
+Texas Southmost College,3064600.0,,,9790.0,Q7708009,100.0
+Panola College,360000.0,,,13252.0,Q7131449,100.0
+Paris Junior College,360100.0,,,13282.0,Q7137314,100.0
+Paul Quinn College,360200.0,0.6187,920.0,19189.0,Q3898136,100.0
+Prairie View A & M University,363000.0,0.7637,963.0,25164.0,Q3306469,100.0
+Ranger College,360300.0,,,12248.0,Q7060359,46.0
+Rice University,360400.0,0.1089,1533.0,67102.0,Q842909,100.0
+Saint Edward's University,362100.0,0.9131,,61707.0,Q3495253,94.0
+St Philip's College,360800.0,,,12208.0,Q7591515,100.0
+University of St Thomas,365400.0,0.9609,,42652.0,Q1164229,100.0
+Sam Houston State University,360600.0,0.925,1051.0,22885.0,Q1422594,100.0
+San Antonio College,916300.0,,,11854.0,Q6930336,93.0
+San Jacinto Community College,360900.0,,,14659.0,Q6930337,75.0
+Schreiner University,361000.0,0.9615,1043.0,41896.0,Q7432878,100.0
+St. Mary's University,362300.0,0.8543,1127.0,42354.0,Q1255772,100.0
+South Texas College of Law Houston,497700.0,,,,Q7568638,100.0
+Southern Methodist University,361300.0,0.5267,1388.0,76346.0,Q1536258,100.0
+Southwest Texas Junior College,361400.0,,,13523.0,Q7571362,100.0
+Southwestern Assemblies of God University,361600.0,0.8876,1012.0,34268.0,Q6132876,100.0
+Southwestern University,362000.0,0.4937,1223.0,57825.0,Q3551493,100.0
+Stephen F Austin State University,362400.0,0.7611,1073.0,22178.0,Q2344683,100.0
+Texas State University,361500.0,0.8454,1104.0,23453.0,Q1495387,100.0
+Southwestern Adventist University,361900.0,0.623,1025.0,31865.0,Q1056856,100.0
+Southwestern Christian College,361800.0,,,16487.0,Q7571399,100.0
+Sul Ross State University,362500.0,0.8083,960.0,20332.0,Q7635933,100.0
+Tarleton State University,363100.0,0.5775,1044.0,22730.0,Q3551554,100.0
+Temple College,362700.0,,,11069.0,Q5461285,62.0
+University of Texas Southwestern Medical Center,1001900.0,,,,Q2725999,100.0
+The University of Texas Health Science Center at San Antonio,365900.0,,,,Q4005868,97.0
+The University of Texas Medical Branch at Galveston,495200.0,,,,Q921264,100.0
+Texas A & M University-Kingsville,363900.0,0.8792,1012.0,22645.0,Q7707478,100.0
+Texas A & M University-College Station,363200.0,0.6327,1300.0,29920.0,Q49212,71.0
+The University of Texas at Arlington,365600.0,0.8775,1160.0,23902.0,Q1230739,94.0
+The University of Texas at Austin,365800.0,0.3195,1349.0,27397.0,Q49213,100.0
+The University of Texas at Dallas,974100.0,0.7936,1345.0,27120.0,Q1781394,94.0
+The University of Texas at El Paso,366100.0,0.9997,,18291.0,Q2093110,100.0
+The University of Texas at Tyler,1116300.0,0.9163,1135.0,20730.0,Q212528,93.0
+Texas Christian University,363600.0,0.4803,1269.0,68072.0,Q2302280,100.0
+Texas College,363800.0,,,21620.0,Q7707584,100.0
+University of North Texas Health Science Center,976800.0,,,,Q7895977,100.0
+Texas Lutheran University,364100.0,0.593,1098.0,42208.0,Q3301911,100.0
+The University of Texas Permian Basin,993000.0,0.879,1015.0,17323.0,Q2495935,96.0
+The University of Texas at San Antonio,1011500.0,0.8354,1116.0,18923.0,Q183170,94.0
+Texas Southern University,364200.0,0.6637,975.0,23173.0,Q626591,100.0
+Texas Tech University,364400.0,0.7003,1174.0,23191.0,Q1423756,100.0
+Texas Wesleyan University,364500.0,0.4679,1081.0,47135.0,Q7708205,100.0
+Texas Woman's University,364600.0,0.9368,1067.0,19418.0,Q3468361,100.0
+Trinity University,364700.0,0.3362,1355.0,60664.0,Q1311379,100.0
+The University of Texas Health Science Center at Houston,495100.0,,,,Q7896431,96.0
+Texas Tech University Health Sciences Center,1067400.0,,,,Q4119816,100.0
+Vernon College,1006000.0,,,11550.0,Q7922092,100.0
+Victoria College,366200.0,,,10998.0,Q1150437,100.0
+Wayland Baptist University,366300.0,0.8144,1014.0,35240.0,Q7975912,100.0
+West Texas A & M University,366500.0,0.5825,1046.0,20456.0,Q7986651,100.0
+Western Texas College,954900.0,,,12530.0,Q7988383,100.0
+Wharton County Junior College,366800.0,,,9833.0,Q7990705,100.0
+Wiley College,366900.0,,,23938.0,Q4019812,100.0
+Brigham Young University,367000.0,0.6925,1335.0,18936.0,Q332498,100.0
+Brigham Young University-Hawaii,160600.0,0.7502,1166.0,19641.0,Q3243730,100.0
+Dixie State University,367100.0,,,17802.0,Q1231724,100.0
+Southern Utah University,367800.0,0.7556,1183.0,19854.0,Q632573,100.0
+Stevens-Henager College,367400.0,,,29757.0,Q7615552,100.0
+Utah State University,367700.0,0.9104,1217.0,19886.0,Q1052614,100.0
+Utah Valley University,402700.0,,,13597.0,Q940919,100.0
+Salt Lake Community College,522000.0,,,11068.0,Q7405883,100.0
+University of Utah,367500.0,0.794,1236.0,20303.0,Q168515,100.0
+Weber State University,368000.0,,,16622.0,Q1787152,100.0
+Westminster College,368100.0,0.8745,1205.0,49060.0,Q5407122,100.0
+Bennington College,368200.0,0.5999,,75972.0,Q817902,100.0
+Castleton University,368300.0,0.8831,1036.0,24841.0,Q1049687,100.0
+Champlain College,368400.0,0.8515,,60478.0,Q5070172,100.0
+Community College of Vermont,1116700.0,,,15502.0,Q5154694,100.0
+Goddard College,368600.0,0.8387,,33048.0,Q5576249,100.0
+Northern Vermont University,368800.0,0.7577,,25051.0,Q56277101,100.0
+Middlebury College,369100.0,0.2204,1444.0,74248.0,Q1357891,100.0
+Norwich University,369200.0,0.7417,,59627.0,Q1681928,100.0
+Saint Michael's College,369400.0,0.8781,,61892.0,Q2212983,100.0
+SIT Graduate Institute,886000.0,,,,Q7390511,100.0
+Sterling College,2143500.0,0.9565,,51268.0,Q7611389,100.0
+Vermont Law School,1193400.0,,,,Q7921734,100.0
+Vermont Technical College,369800.0,0.584,,27813.0,Q7921788,100.0
+University of Vermont,369600.0,0.7132,1276.0,34707.0,Q1048898,100.0
+Advanced Technology Institute,3127500.0,0.6987,,23636.0,Q2983842,81.0
+Averett University,370200.0,0.6768,984.0,47321.0,Q4828300,100.0
+Blue Ridge Community College,681900.0,,,15175.0,Q4929702,100.0
+Bluefield University,370300.0,0.7602,,39307.0,Q18358754,65.0
+Bridgewater College,370400.0,0.7614,1082.0,51725.0,Q3446076,86.0
+William & Mary,370500.0,0.4216,1411.0,39595.0,Q875637,100.0
+Regent University,3091300.0,0.5044,1110.0,30136.0,Q502352,100.0
+Central Virginia Community College,498800.0,,,10432.0,Q5061999,100.0
+Christopher Newport University,370600.0,0.7642,,31733.0,Q3444675,100.0
+Dabney S Lancaster Community College,499600.0,,,11025.0,Q5207513,100.0
+Danville Community College,375800.0,,,13050.0,Q5221341,100.0
+Eastern Virginia Medical School,1033800.0,,,,Q5330559,100.0
+Emory & Henry College,370900.0,0.7541,1066.0,50310.0,Q5373734,90.0
+Eastern Mennonite University,370800.0,0.7182,1129.0,51275.0,Q1278210,100.0
+Eastern Shore Community College,374800.0,,,10768.0,Q5330447,100.0
+Ferrum College,371100.0,0.7583,979.0,50084.0,Q5445466,100.0
+George Mason University,374900.0,0.892,1208.0,25717.0,Q1411222,100.0
+Germanna Community College,866000.0,,,11722.0,Q5551972,100.0
+Hampden-Sydney College,371300.0,0.4701,1142.0,63310.0,Q1797609,100.0
+Hampton University,371400.0,0.36,,44252.0,Q1797817,100.0
+Hollins University,371500.0,0.8079,1175.0,55893.0,Q12060410,100.0
+J Sargeant Reynolds Community College,375900.0,,,11263.0,Q6107066,100.0
+James Madison University,372100.0,0.8049,1207.0,27996.0,Q258943,100.0
+Brightpoint Community College,400400.0,,,11234.0,Q6261498,60.0
+Liberty University,2053000.0,0.5013,1172.0,40567.0,Q1468607,100.0
+Longwood University,371900.0,0.8734,1052.0,28821.0,Q3551429,100.0
+Laurel Ridge Community College,865900.0,,,11130.0,Q6679233,100.0
+University of Lynchburg,372000.0,0.9727,,54119.0,Q6708469,100.0
+Centra College,2175800.0,0.8182,,35218.0,Q2822274,80.0
+University of Mary Washington,374600.0,0.7549,1195.0,28327.0,Q657374,100.0
+Marymount University,372400.0,0.8526,1089.0,47495.0,Q14712798,100.0
+Mountain Empire Community College,962900.0,,,12071.0,Q6924935,100.0
+American National University,372600.0,,,29482.0,Q6970347,100.0
+New River Community College,522300.0,,,11774.0,Q7011240,100.0
+Norfolk State University,376500.0,0.9107,935.0,26439.0,Q632506,100.0
+Northern Virginia Community College,372700.0,,,15391.0,Q7059119,100.0
+Old Dominion University,372800.0,0.9541,1071.0,25722.0,Q1474100,100.0
+Patrick Henry Community College,375100.0,,,10812.0,Q14713041,100.0
+Paul D Camp Community College,915900.0,,,10123.0,Q7150086,100.0
+Piedmont Virginia Community College,992800.0,,,11936.0,Q7191541,100.0
+Radford University,373200.0,0.7868,,24234.0,Q632465,100.0
+Randolph-Macon College,373300.0,0.7131,1141.0,56509.0,Q7291901,100.0
+Randolph College,373400.0,0.8966,1060.0,58880.0,Q7291803,100.0
+Rappahannock Community College,916000.0,,,12052.0,Q7294304,100.0
+University of Richmond,374400.0,0.309,1394.0,69606.0,Q1115878,100.0
+Roanoke College,373600.0,0.7813,1155.0,61545.0,Q7339779,100.0
+Shenandoah University,373700.0,0.7438,1123.0,47850.0,Q1799245,100.0
+Southern Virginia University,373800.0,0.9903,1205.0,29875.0,Q7570614,100.0
+Southside Virginia Community College,866100.0,,,12501.0,Q7571082,100.0
+Southwest Virginia Community College,726000.0,,,14048.0,Q7571372,100.0
+Virginia Peninsula Community College,687100.0,,,11826.0,Q7792702,66.0
+Tidewater Community College,371200.0,,,13090.0,Q7800875,100.0
+Union Presbyterian Seminary,374300.0,,,,Q7885972,100.0
+University of Virginia's College at Wise,374700.0,0.8257,1073.0,22795.0,Q128111,100.0
+Virginia Highlands Community College,709900.0,,,12057.0,Q14713457,100.0
+Virginia Polytechnic Institute and State University,375400.0,0.6577,1280.0,27283.0,Q65379,100.0
+Virginia Western Community College,376000.0,,,11879.0,Q7934659,100.0
+Virginia Commonwealth University,373500.0,0.906,1163.0,31983.0,Q2303536,100.0
+University of Virginia-Main Campus,374500.0,0.2258,1426.0,34094.0,Q65379,72.0
+Virginia Military Institute,375300.0,0.5988,1180.0,32420.0,Q785357,100.0
+Virginia University of Lynchburg,376200.0,,,25329.0,Q7934641,100.0
+Virginia State University,376400.0,0.9626,916.0,23673.0,Q7934591,100.0
+Virginia Union University,376600.0,0.7535,851.0,32082.0,Q1814758,100.0
+Washington and Lee University,376800.0,0.2451,1451.0,73900.0,Q1785291,100.0
+Wytheville Community College,376100.0,,,8557.0,Q8040662,100.0
+Bellevue College,376900.0,,,15151.0,Q4883929,100.0
+Big Bend Community College,377000.0,,,14610.0,Q4905091,100.0
+Central Washington University,377100.0,0.8599,1045.0,24008.0,Q1054064,100.0
+Centralia College,377200.0,,,14805.0,Q5062174,100.0
+City University of Seattle,1302200.0,,,,Q5123487,100.0
+Clark College,377300.0,,,14448.0,Q5127175,100.0
+Clover Park Technical College,575200.0,,,13736.0,Q5135907,100.0
+Divers Institute of Technology,1148100.0,,,,Q49108,69.0
+Eastern Washington University,377500.0,0.7894,993.0,20480.0,Q1278253,100.0
+Edmonds College,500100.0,,,14911.0,Q3048047,75.0
+Everett Community College,377600.0,,,15154.0,Q5416998,100.0
+The Evergreen State College,815500.0,0.9838,1076.0,24371.0,Q941731,100.0
+Gonzaga University,377800.0,0.7289,1272.0,61761.0,Q1537303,100.0
+Green River College,378000.0,,,15907.0,Q5603127,79.0
+Heritage University,377700.0,,,25478.0,Q5739095,100.0
+Highline College,378100.0,,,14125.0,Q114960,100.0
+Bastyr University,2242500.0,,,,Q4868388,100.0
+Bates Technical College,530600.0,,,14885.0,Q4868824,100.0
+Lower Columbia College,378200.0,,,13230.0,Q6693401,100.0
+North Seattle College,970400.0,,,13318.0,Q7056622,100.0
+Northwest University,378300.0,0.9277,1110.0,45095.0,Q2496116,100.0
+Olympic College,378400.0,,,14466.0,Q12147660,49.0
+Pacific Lutheran University,378500.0,0.863,,56830.0,Q3439925,100.0
+Peninsula College,378600.0,,,13899.0,Q6388761,85.0
+University of Puget Sound,379700.0,0.8685,,68072.0,Q956780,100.0
+Saint Martin's University,379400.0,0.9419,1043.0,52603.0,Q7401787,100.0
+South Seattle College,970600.0,,,16129.0,Q7568402,100.0
+Seattle Central College,378700.0,,,12829.0,Q7442064,100.0
+Seattle Pacific University,378800.0,0.9062,1109.0,60834.0,Q2904851,100.0
+Seattle University,379000.0,0.8323,1249.0,63439.0,Q615873,100.0
+Shoreline Community College,379100.0,,,13626.0,Q7501438,100.0
+South Puget Sound Community College,537200.0,,,13817.0,Q7568278,100.0
+Spokane Community College,379300.0,,,11542.0,Q7578860,100.0
+Spokane Falls Community College,954400.0,,,12594.0,Q7578863,100.0
+Tacoma Community College,379600.0,,,12489.0,Q7673988,100.0
+Walla Walla Community College,500600.0,,,13095.0,Q7962685,100.0
+Walla Walla University,379900.0,,,39354.0,Q3551688,100.0
+Washington State University,380000.0,0.7995,1123.0,26068.0,Q597236,100.0
+University of Washington-Seattle Campus,379800.0,0.5973,1306.0,26825.0,Q2904851,67.0
+Wenatchee Valley College,380100.0,,,14948.0,Q7982289,100.0
+Western Washington University,380200.0,0.9351,1184.0,24465.0,Q284777,100.0
+Whatcom Community College,1036400.0,,,13715.0,Q7991679,100.0
+Whitman College,380300.0,0.5413,1360.0,69532.0,Q7996607,100.0
+Whitworth University,380400.0,0.9101,1171.0,60359.0,Q7996977,100.0
+Yakima Valley College,380500.0,,,14350.0,Q8047101,100.0
+Alderson Broaddus University,380600.0,0.5276,972.0,42676.0,Q4713754,100.0
+Appalachian Bible College,754400.0,0.4874,1023.0,26291.0,Q4780834,100.0
+Bethany College,380800.0,0.9184,989.0,45570.0,Q4897730,100.0
+Bluefield State College,380900.0,0.9003,992.0,18685.0,Q4930306,100.0
+University of Charleston,381800.0,0.6148,1079.0,43829.0,Q117251,100.0
+Concord University,381000.0,0.914,972.0,16824.0,Q5158896,100.0
+Davis & Elkins College,381100.0,0.6905,,42233.0,Q5241825,100.0
+Fairmont State University,381200.0,0.9434,1020.0,17639.0,Q4981651,100.0
+Glenville State University,381300.0,,,22507.0,Q5569419,62.0
+Huntington Junior College,904700.0,,,14944.0,Q16892571,100.0
+Marshall University,381500.0,0.8925,1080.0,19586.0,Q1379613,100.0
+Mountain State College,500800.0,,,19110.0,Q6925177,68.0
+Ohio Valley University,381900.0,0.9481,1023.0,30222.0,Q7081021,100.0
+West Virginia University at Parkersburg,382800.0,,,12163.0,Q16983276,100.0
+Academy of Careers and Technology,1290500.0,,,,Q112676205,75.0
+Salem University,382000.0,,,27336.0,Q7404130,100.0
+Shepherd University,382200.0,0.977,,17759.0,Q7494490,100.0
+West Virginia State University,382600.0,0.885,1008.0,19144.0,Q7986919,100.0
+West Liberty University,382300.0,0.6844,1039.0,22361.0,Q7985746,100.0
+West Virginia University Institute of Technology,382701.0,0.822,1145.0,17464.0,Q7986928,100.0
+West Virginia Wesleyan College,383000.0,0.6572,1020.0,46187.0,Q12010547,100.0
+West Virginia Junior College-Morgantown,500700.0,,,23503.0,Q7986858,96.0
+West Virginia Northern Community College,905400.0,,,10228.0,Q7986877,100.0
+West Virginia University,382700.0,0.822,1145.0,22680.0,Q115376,100.0
+Wheeling University,383100.0,0.7682,1009.0,41651.0,Q2566683,100.0
+Alverno College,383200.0,0.7823,,40724.0,Q4737981,100.0
+Madison Area Technical College,400700.0,,,14210.0,Q6727868,100.0
+Beloit College,383500.0,0.5834,,63398.0,Q2904557,100.0
+Blackhawk Technical College,539000.0,,,12707.0,Q4922972,100.0
+Cardinal Stritch University,383700.0,0.769,1046.0,44172.0,Q5038617,100.0
+Carroll University,383800.0,0.7177,1165.0,45227.0,Q1045167,100.0
+Carthage College,383900.0,0.7663,1148.0,59175.0,Q3298369,100.0
+Columbia College of Nursing,4159400.0,,,,Q5149661,100.0
+Concordia University-Wisconsin,384200.0,0.6727,1138.0,45936.0,Q5159009,100.0
+Edgewood College,384800.0,0.912,,44826.0,Q5337885,100.0
+Fox Valley Technical College,974400.0,,,15507.0,Q5477034,100.0
+Gateway Technical College,538900.0,,,13345.0,Q5527291,100.0
+Lakeland University,385400.0,0.9247,,43694.0,Q6478782,100.0
+Lakeshore Technical College,919400.0,,,13516.0,Q12061082,100.0
+Lawrence University,385600.0,0.6892,1323.0,62166.0,Q1809286,100.0
+Maranatha Baptist University,2317200.0,0.805,1192.0,27793.0,Q14714528,100.0
+Marian University,386100.0,0.6767,1028.0,38372.0,Q6761994,100.0
+Marquette University,386300.0,0.8249,1285.0,59725.0,Q188370,100.0
+Medical College of Wisconsin,2453500.0,,,,Q6806307,100.0
+Mid-State Technical College,538000.0,,,13853.0,Q6840815,100.0
+Milwaukee Area Technical College,386600.0,,,14110.0,Q14714546,100.0
+Milwaukee School of Engineering,386800.0,0.6009,1294.0,53885.0,Q1538982,100.0
+Mount Mary University,386900.0,0.5301,984.0,44284.0,Q6922044,100.0
+Nashotah House,387400.0,,,,Q6966890,100.0
+Nicolet Area Technical College,538400.0,,,12638.0,Q17038565,100.0
+Northeast Wisconsin Technical College,530100.0,,,15666.0,Q7057999,100.0
+Northland College,387500.0,0.643,1138.0,50029.0,Q7059510,100.0
+Ripon College,388400.0,0.7406,1095.0,56059.0,Q7335662,100.0
+Saint Norbert College,389200.0,0.8425,1211.0,51383.0,Q7590859,100.0
+Viterbo University,391100.0,0.7925,1131.0,40825.0,Q7937045,100.0
+Waukesha County Technical College,529400.0,,,13104.0,Q7975162,100.0
+Western Technical College,384000.0,,,14520.0,Q7988378,100.0
+University of Wisconsin-Whitewater,392600.0,0.7992,1105.0,18252.0,Q3551772,100.0
+Wisconsin School of Professional Psychology,2271300.0,,,,Q8027270,100.0
+University of Wisconsin-Eau Claire,391700.0,0.8436,1170.0,20174.0,Q3551771,100.0
+University of Wisconsin-Green Bay,389900.0,0.8982,1085.0,17509.0,Q2378091,100.0
+University of Wisconsin-La Crosse,391900.0,0.7515,1185.0,17514.0,Q2688358,100.0
+Wisconsin Lutheran College,2136600.0,0.9562,1172.0,43118.0,Q8027229,100.0
+University of Wisconsin-Oshkosh,392000.0,0.7858,1105.0,18125.0,Q2503441,100.0
+University of Wisconsin-Parkside,501500.0,0.6631,1050.0,16320.0,Q2590739,100.0
+University of Wisconsin-Stout,391500.0,0.901,1135.0,19704.0,Q2590529,100.0
+University of Wisconsin-Superior,392500.0,0.8613,1085.0,18731.0,Q10943718,100.0
+University of Wisconsin-Madison,389500.0,0.5725,1364.0,26393.0,Q838330,100.0
+University of Wisconsin-Milwaukee,389600.0,0.787,1105.0,21984.0,Q1755318,100.0
+University of Wisconsin-Platteville,392100.0,0.8148,1150.0,18670.0,Q2590962,100.0
+University of Wisconsin-River Falls,392300.0,0.7685,1120.0,17971.0,Q2687532,100.0
+University of Wisconsin-Stevens Point,392400.0,0.8654,1105.0,18217.0,Q2687782,100.0
+Eastern Wyoming College,392900.0,,,13846.0,Q5330580,100.0
+Laramie County Community College,925900.0,,,11894.0,Q6488658,100.0
+Northwest College,393100.0,,,13949.0,Q7060267,85.0
+Northern Wyoming Community College District,393000.0,,,14494.0,Q7494881,100.0
+Western Wyoming Community College,393300.0,,,15093.0,Q7988454,100.0
+WyoTech,915700.0,,,,Q8040279,100.0
+University of Wyoming,393200.0,0.9423,1185.0,20258.0,Q1326975,100.0
+American Samoa Community College,1001000.0,,,8050.0,Q4744872,100.0
+Guam Community College,1536100.0,,,11347.0,Q5613414,100.0
+University of Guam,393500.0,,,13661.0,Q1248737,100.0
+Northern Marianas College,3033000.0,,,8559.0,Q11400830,100.0
+American University of Puerto Rico,1194100.0,,,17887.0,Q4745322,100.0
+American University of Puerto Rico,1194101.0,,,17792.0,Q4745322,100.0
+American Educational College,2303800.0,,,9832.0,Q4743438,81.0
+Universidad Adventista de las Antillas,501900.0,1.0,,14166.0,Q3551511,100.0
+Atlantic University College,2505400.0,,,9708.0,Q573894,100.0
+Universidad Central de Bayamon,502200.0,0.8797,,12314.0,Q4570883,100.0
+Albizu University-San Juan,1072400.0,0.7977,,19215.0,Q5041723,88.0
+Caribbean University-Bayamon,1252500.0,,,9136.0,Q5061968,63.0
+Pontifical Catholic University of Puerto Rico-Ponce,393600.0,0.9234,,15895.0,Q1342151,94.0
+Colegio Universitario de San Juan,1056700.0,0.875,,5663.0,Q30263397,100.0
+Conservatory of Music of Puerto Rico,1081900.0,0.8,,10334.0,Q5163150,100.0
+Escuela de Artes Plasticas y Diseno de Puerto Rico,2569400.0,0.8864,,7676.0,Q7432544,100.0
+Inter American University of Puerto Rico-San German,4254200.0,0.4458,,14069.0,Q4570802,88.0
+Inter American University of Puerto Rico-Ponce,502900.0,0.3542,,13488.0,Q6045490,85.0
+International Technical College,2562500.0,,,,Q11647424,74.0
+NUC University,2260600.0,,,19132.0,Q22080044,77.0
+Ponce Health Sciences University,2482400.0,0.5143,,,Q5839196,58.0
+University of Puerto Rico-Aguadilla,1212300.0,0.8823,999.0,11704.0,Q7896171,96.0
+University of Puerto Rico-Arecibo,722800.0,0.6102,,16016.0,Q7896172,96.0
+University of Puerto Rico-Bayamon,1097500.0,0.9107,,9732.0,Q6156806,96.0
+University of Puerto Rico-Carolina,3016000.0,0.429,981.0,14816.0,Q7896174,96.0
+University of Puerto Rico-Cayey,720600.0,0.8936,1060.0,12618.0,Q7896175,95.0
+University of Puerto Rico-Humacao,394300.0,0.532,,14817.0,Q7896176,96.0
+University of Puerto Rico-Utuado,1092200.0,0.6771,,17476.0,Q7896179,96.0
+University of Puerto Rico-Mayaguez,394400.0,0.674,,16727.0,Q7896177,100.0
+University of Puerto Rico-Medical Sciences,2460000.0,,,,Q7896165,92.0
+University of Puerto Rico at Ponce,965200.0,0.5029,,13272.0,Q7896178,100.0
+University of Puerto Rico-Rio Piedras,710800.0,0.4865,,14035.0,Q7896167,96.0
+Universidad del Sagrado Corazon,393700.0,0.4331,,19185.0,Q1276963,100.0
+Seminario Evangelico de Puerto Rico,2588600.0,,,,Q5415755,100.0
+Universidad Central Del Caribe,2163300.0,0.8571,,14451.0,Q5061968,100.0
+Universidad Politecnica de Puerto Rico,2100000.0,,,20820.0,Q1798894,100.0
+Palau Community College,1100900.0,,,7990.0,Q15060585,100.0
+University of the Virgin Islands,394600.0,0.9969,914.0,16381.0,Q7896780,100.0
+Stanford University,130500.0,0.0519,1491.0,74570.0,Q41506,100.0
+Parker University,2305300.0,,,31420.0,Q7138388,100.0
+Meridian College,2326800.0,,,,Q6819301,82.0
+Georgia Piedmont Technical College,562200.0,,,11194.0,Q5547660,100.0
+Warren County Community College,2503900.0,,,11081.0,Q7970130,100.0
+St. John's College,209300.0,0.6891,,50980.0,Q663625,100.0
+Antioch University-Los Angeles,301002.0,,,,Q4775037,100.0
+Antioch University-Santa Barbara,301003.0,,,,Q4775042,100.0
+Antioch University-New England,301004.0,,,,Q4775041,100.0
+Antioch University-Seattle,301005.0,,,,Q4775043,100.0
+Antioch University,301000.0,,,,Q4775035,100.0
+Mid-America Christian University,694200.0,,,28755.0,Q6840587,100.0
+Central Technology Center,996400.0,,,,Q18110915,61.0
+Houston Graduate School of Theology,2320200.0,,,,Q5916561,100.0
+Palo Alto College,2341300.0,,,11219.0,Q48809338,62.0
+Unification Theological Seminary,3216300.0,,,,Q4454907,100.0
+Athens Technical College,560000.0,,,11597.0,Q4813522,100.0
+Ecumenical Theological Seminary,4002400.0,,,,Q5095808,85.0
+Sussex County Community College,2568800.0,,,14289.0,Q7649419,100.0
+Austin Graduate School of Theology,2362800.0,,,,Q4823103,100.0
+Owensboro Community and Technical College,3034500.0,,,11920.0,Q7114753,100.0
+ECPI University,1019800.0,0.8035,,27578.0,Q5322728,100.0
+TDDS Technical Institute,2528300.0,,,,Q7669834,100.0
+Southern Union State Community College,104000.0,,,14324.0,Q7570566,100.0
+South University-Columbia,1303907.0,,,28397.0,Q1024426,83.0
+Lac Courte Oreilles Ojibwe College,2532200.0,,,11872.0,Q6467825,100.0
+Northwestern College,1236200.0,0.8065,,30021.0,Q2288251,100.0
+St Charles Community College,2530600.0,,,7580.0,Q7587511,100.0
+University of Massachusetts Global,4161800.0,0.9498,,32504.0,Q4956720,57.0
+New College of Florida,3957400.0,0.6997,1277.0,20563.0,Q1982482,100.0
+Montana Bible College,4140300.0,0.7857,,,Q4906359,33.5
+California Career School,2520200.0,,,,Q115707835,3.5
+Metro Technology Centers,533900.0,,,,Q3547517,51.0
+University of Advancing Technology,2559000.0,0.8069,,27651.0,Q16959503,100.0
+Paradise Valley Community College,2623600.0,,,14813.0,Q7134381,100.0
+Chandler-Gilbert Community College,3072200.0,,,15018.0,Q5071217,100.0
+Vista College,2572000.0,,,24525.0,Q4891998,72.0
+South Florida Bible College and Theological Seminary,3264300.0,,,,Q30263417,96.0
+Pennsylvania College of Technology,339500.0,,,30759.0,Q99287886,56.0
+Stone Child College,2610900.0,,,14046.0,Q7618891,100.0
+New York Academy of Art,2600100.0,,,,Q4974743,65.0
+Suffolk County Community College,287800.0,,,11515.0,Q7634547,100.0
+Las Positas College,3035700.0,,,11565.0,Q6492422,100.0
+Southern Technical College,2278800.0,,,23041.0,Q7570535,100.0
+California State University-San Marcos,3011300.0,0.7942,1039.0,22531.0,Q624691,100.0
+Interactive College of Technology,2331301.0,,,17754.0,Q107241714,50.0
+NorthWest Arkansas Community College,3063300.0,,,10541.0,Q7059946,100.0
+Hodges University,3037500.0,,,25637.0,Q5876115,100.0
+Southeastern Technical College,3066500.0,,,11954.0,Q7569503,100.0
+Massachusetts School of Law,3235300.0,,,,Q6784361,100.0
+Oregon College of Oriental Medicine,2603700.0,,,,Q7101141,100.0
+Fortis College,2341000.0,,,,Q5472670,100.0
+Fremont College,3039900.0,,,,Q7081084,69.0
+Academy of Cosmetology,2499000.0,,,,Q7814145,61.0
+Queen City College,2539800.0,,,,Q3304723,30.5
+College of the Marshall Islands,3022400.0,,,7202.0,Q5146888,100.0
+University of Washington-Bothell Campus,379802.0,0.5973,1306.0,23189.0,Q7896565,90.0
+University of Washington-Tacoma Campus,379801.0,0.5973,1306.0,21705.0,Q7896583,90.0
+Pacific College of Health and Science,3027700.0,,,32037.0,Q7122399,100.0
+College of Health Care Professions,3128106.0,,,,Q29470800,80.0
+Bay Mills Community College,3066600.0,,,13776.0,Q4874042,100.0
+Fond du Lac Tribal and Community College,3129100.0,,,16024.0,Q8564259,100.0
+Northwest Indian College,2180000.0,,,12859.0,Q12041073,100.0
+Provo College,2360800.0,,,23253.0,Q940919,59.0
+Phoenix Seminary,3478400.0,,,,Q7186986,100.0
+Hawaii Community College,525800.0,,,18142.0,Q5684264,100.0
+Beacon College,3373300.0,0.4461,,59926.0,Q15914345,50.0
+Estrella Mountain Community College,3156300.0,,,13985.0,Q5401812,100.0
+Heartland Community College,3083800.0,,,14705.0,Q14687535,100.0
+Albert Einstein College of Medicine,4279700.0,,,,Q2030894,100.0
+Everglades University,3108500.0,0.7519,,35979.0,Q5417138,100.0
+College of Biblical Studies-Houston,3422400.0,,,19247.0,Q16258657,87.0
+The College of Health Care Professions-Northwest,3128100.0,,,,Q28449069,42.0
+Fortis College,3493304.0,,,,Q5472670,100.0
+Copper Mountain Community College,3542400.0,,,14349.0,Q5168753,82.0
+Santiago Canyon College,3695700.0,,,11518.0,Q7420231,100.0
+Southern California Institute of Technology,3113600.0,,,32441.0,Q56118082,100.0
+Soka University of America,3814400.0,0.5199,1307.0,50968.0,Q11285095,100.0
+Summit College,3108100.0,,,,Q7637845,78.0
+Los Angeles Pacific College,3124500.0,,,,Q6682290,50.0
+Frontier Community College,2074400.0,,,12772.0,Q5505977,100.0
+Lincoln Trail College,978600.0,,,12860.0,Q6551158,100.0
+Wabash Valley College,177900.0,,,12524.0,Q17032342,100.0
+Schiller International University,2314100.0,,,,Q327361,100.0
+Coconino Community College,3100400.0,,,19517.0,Q5139809,100.0
+ASA College,3095500.0,,,32791.0,Q6556129,43.0
+Carroll Community College,3100700.0,,,8810.0,Q5046528,100.0
+Pacific Bible College,4251300.0,,,,Q7969745,100.0
+Lake Erie College of Osteopathic Medicine,3090800.0,,,,Q6475778,100.0
+Nouvelle Institute,3089200.0,,,,Q609093,67.0
+Professional Technical Institution,3085700.0,,,,Q93966476,63.0
+Erikson Institute,3510300.0,,,,Q5389059,100.0
+South Texas College,3103400.0,,,7237.0,Q7568637,100.0
+Roger Williams University School of Law,341001.0,0.8601,,,Q7359139,100.0
+California State University-Monterey Bay,3260300.0,0.8562,1058.0,23389.0,Q624686,100.0
+EINE Inc,3859300.0,,,,Q431000,25.0
+Capella University,3267300.0,,,21167.0,Q572430,100.0
+College of Menominee Nation,3125100.0,,,14856.0,Q5146774,100.0
+Leech Lake Tribal College,3096400.0,,,16033.0,Q6515757,100.0
+Spartan College of Aeronautics & Technology,2596400.0,,,,Q7573895,95.0
+Pacific College of Health and Science,3027701.0,,,33724.0,Q7122399,100.0
+Johnson & Wales University-North Miami,340403.0,0.846,,,Q22095576,44.5
+Phillips Theological Seminary,2560200.0,,,,Q7185940,100.0
+The University of Texas MD Anderson Cancer Center,2555400.0,,,,Q1525831,100.0
+Applied Technology Services,3068600.0,0.7143,,,Q6893766,61.0
+Union County Vocational Technical School,2232500.0,,,,Q7885628,45.5
+Western Technology Center,1076200.0,,,,Q1323895,32.5
+United Technical Center,2068000.0,0.7143,,13583.0,Q5316567,53.0
+Southwest College of Naturopathic Medicine & Health Sciences,3107000.0,,,,Q17062157,84.0
+Career Technical Institute,3104300.0,,,,Q5439004,73.0
+Northwest Vista College,3372300.0,,,11394.0,Q7060267,100.0
+Oconee Fall Line Technical College,3155500.0,,,13136.0,Q7076613,100.0
+York County Community College,3122900.0,,,14235.0,Q14715374,100.0
+Arkansas State University-Mountain Home,4254400.0,,,15957.0,Q4791874,100.0
+Columbia Gorge Community College,4151900.0,,,13541.0,Q5149698,100.0
+Bakke Graduate University,3110800.0,,,,Q4849468,100.0
+Tillamook Bay Community College,4194900.0,,,11177.0,Q7802240,100.0
+New York Conservatory for Dramatic Arts,3120700.0,0.9588,,52902.0,Q4744555,39.0
+Pacific College,3299300.0,0.3846,,,Q7122399,100.0
+Midwestern University-Glendale,165701.0,,,,Q101020677,75.0
+Oregon Coast Community College,4283700.0,,,17508.0,Q7101137,100.0
+Mildred Elley-Pittsfield Campus,2219501.0,,,26464.0,Q6850968,59.0
+Embry-Riddle Aeronautical University-Worldwide,147900.0,0.6254,1239.0,24124.0,Q3052113,100.0
+Klamath Community College,3428300.0,,,13451.0,Q6419629,100.0
+The Creative Center,3164300.0,,,41774.0,Q5059572,35.0
+San Juan Bautista School of Medicine,3177300.0,0.8276,,11865.0,Q7414560,100.0
+Texas Health and Science University,3179500.0,,,,Q4119816,84.0
+Institute of Technology,3067500.0,,,,Q6040925,100.0
+Appalachian School of Law,3559300.0,,,,Q4780856,100.0
+American University of Health Sciences,3225300.0,,,35965.0,Q30265992,65.0
+Wayne County Schools Career Center,915600.0,,,,Q109967523,50.0
+Carolinas College of Health Sciences,3104200.0,0.3214,1035.0,,Q5146627,36.0
+Western Governors University,3339400.0,,,13790.0,Q7987876,100.0
+Florida Gulf Coast University,3255300.0,0.7749,1142.0,18151.0,Q1430054,100.0
+Little Priest Tribal College,3323300.0,,,13921.0,Q6651407,100.0
+South Louisiana Community College,3956300.0,,,14742.0,Q7567863,100.0
+Ilisagvik College,3461300.0,,,,Q4833663,100.0
+Community College of Baltimore County,206300.0,,,12685.0,Q5154689,100.0
+Florida Coastal School of Law,3374300.0,,,,Q5461282,100.0
+White Earth Tribal and Community College,3921400.0,,,19286.0,Q7994668,100.0
+Louisiana State University Health Sciences Center-Shreveport,806700.0,,,,Q6689304,100.0
+River Parishes Community College,3789400.0,,,14628.0,Q7337691,100.0
+Los Angeles Film School,4037300.0,,,,Q174710,70.0
+Century College,3336300.0,,,11175.0,Q17163918,86.0
+International Baptist College and Seminary,3347300.0,,,24449.0,Q13428213,100.0
+Medical Training College,3356300.0,,,,Q16916920,89.0
+University of Connecticut-Stamford,141702.0,0.6379,1222.0,25497.0,Q49206,85.0
+University of Management and Technology,4110300.0,,,,Q7895663,100.0
+Baton Rouge Community College,3730300.0,,,15010.0,Q4869472,100.0
+The College of Health Care Professions-Austin,3426300.0,,,,Q29470800,90.0
+Stevens-Henager College,367403.0,,,31726.0,Q7615552,100.0
+Stratford University,2541200.0,,,27285.0,Q7621996,100.0
+Cascadia College,3483500.0,,,14832.0,Q5048210,100.0
+CBD College,3250300.0,,,,Q4983461,44.0
+Quest College,3400300.0,,,,Q14874878,90.0
+The King's University,3516300.0,0.9429,1098.0,22284.0,Q6411128,100.0
+Northeastern Seminary,3419400.0,,,,Q7058057,100.0
+Pacific Islands University,3438300.0,0.9732,,12203.0,Q7122532,100.0
+PCI College,3479300.0,,,,Q61801537,47.0
+Rosedale Bible College,3425300.0,,,20949.0,Q7368161,100.0
+Seattle Institute of East Asian Medicine,3280300.0,,,,Q7442115,74.0
+Acupuncture and Massage College,3414500.0,,,33552.0,Q30263361,100.0
+Keck Graduate Institute,3853300.0,,,,Q6382470,100.0
+New Saint Andrews College,4150200.0,0.8615,1253.0,,Q7011390,100.0
+Arkansas State University-Newport,4203400.0,,,14226.0,Q4791876,100.0
+Interactive College of Technology,2331300.0,,,18287.0,Q107241714,50.0
+Pillar College,3666300.0,,,35425.0,Q7559831,45.0
+Oregon State University-Cascades Campus,321001.0,0.8173,1201.0,25945.0,Q7101371,100.0
+Southern University Law Center,202500.0,0.4345,975.0,,Q7570576,100.0
+The Seattle School of Theology & Psychology,3466400.0,,,,Q7762875,100.0
+Irell & Manella Graduate School of Biological Sciences at City of Hope,3592400.0,,,,Q5123725,86.0
+Ultimate Medical Academy,3549300.0,,,,Q44076924,50.0
+Florida Education Institute,3627600.0,,,,Q30263417,57.0
+Metropolitan Learning Institute,3652300.0,,,,Q1540301,66.0
+Institute of Technology,3642300.0,,,,Q6040925,100.0
+Lamar Institute of Technology,3627300.0,,,12471.0,Q3152130,100.0
+Nevada State College,4114300.0,0.8993,,20132.0,Q1658675,100.0
+California State University-Channel Islands,3980300.0,0.7943,,25150.0,Q1026905,100.0
+Franklin W Olin College of Engineering,3946300.0,0.1644,1521.0,74286.0,Q5492094,100.0
+Ave Maria School of Law,3691400.0,,,,Q4827950,100.0
+Pennsylvania College of Health Sciences,986300.0,0.5419,,38003.0,Q3443159,48.0
+Grantham University,4122300.0,,,14657.0,Q5596645,100.0
+Tohono O'odham Community College,3784400.0,,,8652.0,Q7813304,100.0
+Edward Via College of Osteopathic Medicine,3709300.0,,,,Q5345719,100.0
+University of Antelope Valley,3427500.0,,,,Q18706097,100.0
+Faith International University,3689400.0,,,20830.0,Q5431182,87.0
+Hood Theological Seminary,3663300.0,,,,Q55613931,50.0
+International Technological University,3622300.0,,,,Q6053849,100.0
+West Coast University-Los Angeles,3698300.0,,,49665.0,Q7984839,78.0
+Williamson Christian College,3513500.0,,,20720.0,Q23135700,100.0
+DigiPen Institute of Technology,3724300.0,0.3824,1257.0,47197.0,Q1027869,100.0
+American College of Healthcare Sciences,4194400.0,0.4667,,24887.0,Q4743453,100.0
+Colorado Media School,3068201.0,,,,Q21070697,50.0
+Interactive College of Technology,2331304.0,,,20030.0,Q107241714,50.0
+Northcentral University,3813300.0,,,,Q7057736,100.0
+Folsom Lake College,3871300.0,,,11622.0,Q5464862,100.0
+Advanced College,3786300.0,,,,Q4686298,74.0
+ATA College,3532400.0,,,,Q93420494,47.0
+Baptist University of the Americas,3733300.0,,,15092.0,Q4857700,100.0
+CES College,3695300.0,,,,Q1041671,74.0
+Industrial Technical College,3781400.0,,,9399.0,Q6301704,79.0
+Charlotte Christian College and Theological Seminary,3827300.0,,,,Q7009838,64.0
+Nightingale College,3838300.0,,,,Q28777878,100.0
+Mountwest Community and Technical College,4041400.0,,,12964.0,Q6925847,100.0
+American InterContinental University,2113600.0,,,19021.0,Q4744166,100.0
+Toyota Technological Institute at Chicago,4169500.0,,,,Q7830888,100.0
+University of California-Merced,4127100.0,0.848,1066.0,35005.0,Q1728622,100.0
+Roseman University of Health Sciences,4065300.0,,,,Q7368264,100.0
+Divine Mercy University,3872400.0,,,,Q6039770,32.0
+Ave Maria University,3941300.0,0.9179,1164.0,37423.0,Q542498,100.0
+Ecclesia College,3855300.0,0.7639,,28103.0,Q14490165,84.0
+Healthcare Training Institute,3803300.0,0.875,,,Q16868953,67.0
+Los Angeles College of Music,3868400.0,0.7705,,44437.0,Q6456995,100.0
+Southern Technical College,3903500.0,,,,Q7570535,100.0
+Stanbridge University,3889300.0,0.35,,,Q7598012,54.0
+Harrisburg University of Science and Technology,3948300.0,,,33717.0,Q5665307,100.0
+Daytona College,3939600.0,,,,Q5243619,83.0
+United States University,4005300.0,,,20187.0,Q1138374,64.0
+New River Community and Technical College,3960300.0,,,9893.0,Q7011241,100.0
+The College of Health Care Professions-Southwest Houston,3128101.0,,,,Q28449071,45.0
+California Career College,3974500.0,,,,Q5046435,85.0
+National Polytechnic College,3910400.0,,,,Q1568237,84.0
+ATA College,4038300.0,,,28675.0,Q93420494,47.0
+Institute of Health & Technology,3963300.0,,,,Q60776198,91.0
+Institute of Professional Careers,3975300.0,,,,Q4806216,35.0
+Texas Health School,3987300.0,,,,Q2725999,73.0
+West Hills College-Lemoore,4111300.0,,,17552.0,Q18706109,100.0
+American Public University System,3819300.0,,,16569.0,Q815352,69.0
+Make-up Designory,4092400.0,,,,Q6738871,100.0
+Gnomon,4076400.0,0.5,,50925.0,Q5574373,50.0
+SABER College,3696400.0,1.0,,,Q2267705,33.5
+Taylor College,4116600.0,,,28755.0,Q7689906,68.0
+Denmark College,4100300.0,,,,Q5257948,75.0
+ATA College,4060300.0,,,,Q93420494,47.0
+Visible Music College,3982300.0,0.7193,760.0,32644.0,Q7936090,100.0
+Southwest Technical College,4054300.0,,,,Q7571284,87.0
+Virginia Beach Theological Seminary,3966300.0,,,,Q5060437,100.0
+Milwaukee Career College,4117400.0,0.805,,,Q6861698,100.0
+University of the West,3696300.0,,,24236.0,Q7896781,100.0
+American College of Education,4151300.0,,,,Q7864724,82.0
+South University-Tampa,1303908.0,,,28397.0,Q500606,76.0
+Appalachian College of Pharmacy,4180600.0,,,,Q4780841,100.0
+Clary Sage College,3367401.0,,,,Q19864963,100.0
+Miami Regional University,4128400.0,,,,Q6827457,77.0
+Yeshiva Toras Chaim,4131100.0,0.75,,18833.0,Q106797000,50.0
+Charleston School of Law,4096300.0,,,,Q5084173,100.0
+Patrick Henry College,3951300.0,0.8814,1306.0,,Q741892,100.0
+The King's College,4095300.0,0.3948,1265.0,58695.0,Q3521483,100.0
+Mayfield College,4115600.0,,,,Q8002960,43.0
+Denver College of Nursing,4148300.0,,,,Q649299,55.0
+Jersey College,4134100.0,0.3425,,,Q21578,80.0
+Pacific Northwest University of Health Sciences,4130500.0,,,,Q7122592,100.0
+Woodland Community College,4143800.0,,,11759.0,Q8032821,100.0
+Providence Christian College,4153900.0,0.4194,,48917.0,Q7252400,100.0
+National Career College,4146000.0,,,,Q90881824,60.0
+Columbia College,4127300.0,,,,Q49088,100.0
+Vermont College of Fine Arts,369700.0,,,,Q7921694,100.0
+Geisinger Commonwealth School of Medicine,4167200.0,,,,Q7727027,55.0
+University of Minnesota-Rochester,396903.0,0.6979,1314.0,25495.0,Q7895805,100.0
+Homestead Schools,4149700.0,,,,Q104144381,20.5
+Horizon University,4140500.0,,,,Q84800507,44.0
+Angeles College,4160400.0,,,,Q105349358,79.0
+Angeles Institute,4164400.0,,,,Q864450,72.0
+University of Fort Lauderdale,4156300.0,,,,Q30263435,100.0
+Midwestern Career College,4139000.0,,,,Q97224649,50.0
+L'esprit Academy,4158400.0,,,,Q188771,59.0
+City Vision University,4119100.0,,,,Q5123501,100.0
+National Career Institute,4154900.0,,,,Q91611496,68.0
+Academy for Careers and Technology,4083300.0,,,,Q112676205,74.0
+Ascent College,4153800.0,,,,Q92412741,82.0
+Touro University Worldwide,4142500.0,,,27335.0,Q96410509,100.0
+Touro University California,4142600.0,,,,Q99298933,63.0
+Touro University Nevada,4142601.0,,,,Q12204475,59.0
+Texas A&M University-San Antonio,4248500.0,0.5985,1022.0,21104.0,Q7707479,100.0
+Fortis Institute,3493305.0,,,,Q5472670,100.0
+Fairfax University of America,4144000.0,,,,Q7934333,68.0
+Moreno Valley College,4173500.0,,,13773.0,Q6911396,100.0
+Norco College,4176100.0,,,13844.0,Q7050484,100.0
+Stevens-Henager College,367406.0,,,31237.0,Q7615552,100.0
+Mildred Elley-New York Campus,2219503.0,,,27446.0,Q6850968,62.0
+National Paralegal College,4157400.0,,,19304.0,Q6974729,100.0
+Carolina College of Biblical Studies,4154200.0,,,21340.0,Q14707890,100.0
+Omega Graduate School,3840300.0,,,,Q7115340,79.0
+International College of Cosmetology,4145600.0,,,,Q27681613,96.0
+Institute of Medical Careers,4155100.0,,,,Q93421344,66.0
+Keweenaw Bay Ojibwa Community College,4164700.0,,,12367.0,Q6397946,100.0
+Advanced Training Institute,4171000.0,,,,Q2083440,71.0
+American Trade School,4174800.0,,,,Q4743757,23.0
+American Technical Institute,4176000.0,,,,Q7755432,53.0
+Simmons College of Kentucky,4178000.0,0.913,,15730.0,Q7517999,100.0
+North American University,4179500.0,,,20685.0,Q7053745,100.0
+Protege Academy,4184700.0,,,,Q188771,61.0
+Florida Academy,4188300.0,,,,Q5461467,54.0
+Institute for Doctoral Studies in the Visual Arts,4188800.0,,,,Q30263394,100.0
+John Paul the Great Catholic University,4193700.0,0.7677,1102.0,45863.0,Q6252298,100.0
+Independence University,367409.0,,,31805.0,Q6016225,100.0
+Northwest College-Eugene,2101003.0,,,,Q3878581,67.0
+Los Angeles Pacific University,4278800.0,,,26995.0,Q7122708,65.0
+Relay Graduate School of Education,4208600.0,,,,Q17027576,100.0
+South University-Savannah Online,1303900.0,,,27732.0,Q7568720,88.0
+The Santa Barbara and Ventura Colleges of Law at Santa Barbara,4250101.0,,,,Q7419201,75.0
+Catholic Distance University,4124200.0,,,,Q5053147,100.0
+Rocky Mountain University of Health Professions,4193200.0,,,,Q7355942,100.0
+Criswell College,4121800.0,1.0,1040.0,23142.0,Q5186546,100.0
+Sessions College for Professional Design,4217600.0,,,17877.0,Q7456148,100.0
+Alexander Academy,4193100.0,,,,Q635201,72.0
+Aesthetic Science Institute,4204300.0,,,,Q6039107,22.5
+Academy di Firenze,4207200.0,,,,Q338489,69.0
+Colorado State University-Global Campus,4208700.0,0.9826,1052.0,18869.0,Q5014426,54.0
+California College San Diego,2110802.0,,,31177.0,Q5020340,100.0
+Columbia College,4127301.0,,,,Q49088,100.0
+Medical Career Institute,4207500.0,,,,Q93421344,59.0
+South University-Austin,1303915.0,,,29177.0,Q7896457,31.5
+Columbia Institute,4127302.0,,,,Q112620604,100.0
+California Miramar University,4189700.0,0.5833,,20578.0,Q1026836,100.0
+Rocky Vista University,4218900.0,,,,Q7356040,58.0
+The College of Health Care Professions-Fort Worth,3128103.0,,,,Q29470801,90.0
+College of the Muscogee Nation,4224900.0,,,20522.0,Q5146889,100.0
+Midwives College of Utah,4218300.0,1.0,,24516.0,Q6843491,100.0
+M T Training Center,4226400.0,,,,Q6974749,30.0
+Future Generations University,4139900.0,,,,Q5510680,100.0
+Shepherds College,4193800.0,0.9592,,,Q7494490,97.0
+Institute of Health Sciences,4209600.0,,,27600.0,Q4233753,90.0
+Healthcare Training Institute,4217000.0,,,,Q16868953,67.0
+Augusta University,157900.0,0.8288,1121.0,20115.0,Q5547686,100.0
+Middle Georgia State University,158100.0,0.9932,,15822.0,Q6841434,100.0
+Academy of Interactive Entertainment,4223600.0,0.9167,,32880.0,Q4671467,100.0
+DeVry University-Georgia,1072714.0,0.44,,34215.0,Q87487888,62.0
+DeVry University-Illinois,1072700.0,0.44,,35603.0,Q3298441,78.0
+DeVry University-Ohio,1072720.0,0.44,,34949.0,Q97305356,86.0
+University of North Georgia,158500.0,0.8145,1097.0,16816.0,Q7895970,100.0
+South Georgia State College,159200.0,,,15645.0,Q7567341,100.0
+Florida Polytechnic University,4263400.0,0.5844,1314.0,21119.0,Q5461548,100.0
+The Healthcare Institute,4222600.0,,,,Q85985504,50.0
+Arizona College-Mesa,3115001.0,0.9293,,26602.0,Q6821056,57.0
+Antioch College,4244300.0,0.8457,1165.0,50383.0,Q4775012,100.0
+Texas A&M University-Central Texas,4229500.0,0.9245,,11669.0,Q7707476,100.0
+Central Georgia Technical College,576300.0,,,9069.0,Q5061124,100.0
+Louisiana Delta Community College,4130100.0,,,14518.0,Q55075257,50.0
+Ana G. Mendez University,4240400.0,,,19627.0,Q7894340,87.0
+IGlobal University,4219000.0,,,23102.0,Q19880836,100.0
+Bay Area Medical Academy,4223700.0,,,,Q19866142,100.0
+Alabama College of Osteopathic Medicine,4226700.0,,,,Q4705202,100.0
+University of Florida-Online,153500.0,0.3199,1381.0,17148.0,Q108801821,53.0
+University of Phoenix-Arizona,2098800.0,,,18562.0,Q670897,75.0
+University of West Los Angeles,2052300.0,,,,Q7896603,100.0
+University of North Texas at Dallas,4242100.0,0.9299,956.0,18930.0,Q7895983,100.0
+BridgeValley Community & Technical College,4038600.0,,,12130.0,Q6360819,95.0
+Georgia Military College,157100.0,,,14286.0,Q5547599,100.0
+California College San Diego,2110800.0,,,30080.0,Q5020340,100.0
+Coastal Pines Technical College,551100.0,,,9422.0,Q7081914,100.0
+California Intercontinental University,4244000.0,,,,Q5020643,100.0
+Infinity College,4245400.0,,,,Q90884280,49.0
+American College of the Building Arts,4283000.0,0.6471,1139.0,37384.0,Q20011307,100.0
+Atlantis University,4233900.0,,,24942.0,Q6156341,79.0
+Studio Incamminati,4232000.0,,,34357.0,Q28134562,50.0
+Bethlehem College & Seminary,,0.5714,,,Q55413453,100.0
+Elmezzi Graduate School of Molecular Medicine,4117000.0,,,,Q5366732,92.0
+Theatre of Arts,4158800.0,,,36702.0,Q2177054,65.0
+San Ignacio University,4216900.0,,,15520.0,Q7894333,84.0
+Valor Christian College,4224300.0,,,18967.0,Q7912535,100.0
+Bethany Global University,4227800.0,0.8659,,27284.0,Q4897735,54.0
+United International College,4233200.0,,,22447.0,Q16242349,100.0
+San Francisco Film School,4234000.0,,,,Q5120714,47.0
+Randolph Technical Center,4234800.0,,,,Q7291805,86.0
+Presidio Graduate School,4235500.0,,,,Q7241530,100.0
+Kennesaw State University,157700.0,0.8311,1117.0,25059.0,Q1532470,100.0
+Milligan University,351100.0,0.9923,1197.0,46072.0,Q6859616,100.0
+The University of Tennessee Health Science Center,672500.0,,,,Q7896420,96.0
+Protege Academy,4184701.0,,,,Q188771,61.0
+Emory University-Oxford College,156401.0,0.2103,1454.0,72604.0,Q7115296,95.0
+Southern Regional Technical College,561500.0,,,8935.0,Q7571284,100.0
+Husson University,204300.0,0.8466,1054.0,31303.0,Q5949943,100.0
+Academy of Interactive Entertainment,4248400.0,0.9135,,31459.0,Q4671467,100.0
+Abraham Lincoln University,4243800.0,,,,Q4669049,100.0
+Med Academy,4244700.0,,,,Q909117,55.0
+National Personal Training Institute,4250500.0,,,,Q6974881,50.0
+Elim Bible Institute and College,4251400.0,0.9683,1151.0,18330.0,Q5361029,77.0
+Claremont Lincoln University,4253600.0,,,,Q5126317,100.0
+California Health Sciences University,4281400.0,,,,Q7569745,86.0
+Northeast Lakeview College,4263600.0,,,11448.0,Q7057927,100.0
+University of Saint Katherine,4259700.0,0.6379,1061.0,40522.0,Q16900576,58.0
+University of the People,,0.5714,,,Q620973,100.0
+Clovis Community College,4253400.0,,,10355.0,Q5135988,100.0
+The College of Health Care Professions-McAllen Campus,3128104.0,,,,Q28448027,48.5
+Institute of Buddhist Studies,,0.5714,,,Q6039967,100.0
+Spartan College of Aeronautics and Technology,2596413.0,,,,Q7573895,100.0
+Carolina University,295600.0,0.4967,,22830.0,Q1277776,88.0
+Presbyterian Theological Seminary in America,4122800.0,,,,Q4118781,68.0
+Southern States University,4195500.0,1.0,,,Q7570510,100.0
+Reformed University,4256700.0,,,21060.0,Q20981310,84.0
+Western Michigan University Homer Stryker M.D. School of Medicine,4262900.0,,,,Q16983311,100.0
+Kansas City University,247401.0,,,,Q940690,79.0
+Northern Technical College,4272400.0,,,,Q1782445,100.0
+Purdue University Northwest,182700.0,0.3028,1071.0,17408.0,Q20709782,100.0
+Advantage Career Institute,4229100.0,,,,Q4743296,78.0
+Union Bible College,4250000.0,0.8261,,15380.0,Q24040217,36.0
+Suncoast Technical Education Center,4270800.0,,,,Q16928182,50.0
+Meridian University,4271100.0,,,,Q1602891,83.0
+Red Lake Nation College,4271800.0,,,,Q7304449,100.0
+DSDT,4275200.0,,,,Q7654645,10.5
+Texas Tech University Health Sciences Center-El Paso,4280800.0,,,,Q7708149,100.0
+MCI,4270700.0,,,,Q684775,18.0
+Careers Institute of America,4280300.0,,,,Q4743296,91.0
+New York Seminary,4282200.0,0.6818,,18997.0,Q13428369,74.0
+Urshan College,4282700.0,0.8,,11054.0,Q5527222,23.5
+Educational Technical College,2570407.0,,,,Q7974025,87.0
+California Arts University,,0.5714,,,Q1026827,74.0
+Indian Bible College,4291400.0,,,,Q6979932,65.0
+The Pennsylvania State University,332900.0,0.7827,1198.0,33960.0,Q739627,100.0
+California University of Science and Medicine,4290800.0,,,,Q54958451,100.0
+Arizona State University-Polytechnic,108102.0,0.8688,1207.0,,Q16888496,18.0
+Arizona State University-Downtown Phoenix,108103.0,0.8688,1207.0,,Q670897,74.0
+Arizona State University - Lake Havasu,108161.0,0.8688,1207.0,,Q5146919,38.0
+Harding School of Theology,109702.0,0.5507,1207.0,,Q5656114,100.0
+Alliant International University-San Francisco,1111706.0,0.381,,,Q99298376,89.0
+San Jose Campus,3131301.0,,,,Q1653099,43.0
+Mount Saint Mary's University - Doheny Campus,124301.0,0.8933,1014.0,,Q6923797,81.0
+Jesuit School of Theology of Santa Clara University,132604.0,0.5072,1367.0,,Q6188028,100.0
+Wright Institute (The) -,884601.0,,,,Q12204488,38.0
+Keiser University-Orlando,2151909.0,0.972,,,Q6383859,81.0
+Moody Theological Seminary and Graduate School--Michigan,172725.0,0.9751,,,Q2257594,100.0
+Moody Bible Institute - Spokane,172707.0,0.9751,,,Q2257594,100.0
+Ivy Tech Community College-Columbus,991736.0,,,,Q16964267,85.0
+Ivy Tech Community College-Central Indiana,991700.0,,,,Q6099948,92.0
+University of Notre Dame -,184001.0,0.1899,1489.0,,Q178848,100.0
+Graceland University - Independence,186601.0,0.6807,1043.0,,Q3113029,75.0
+Baker College of Owosso,467304.0,0.5376,,,Q4849134,72.0
+Anoka-Ramsey Community College-Cambridge Campus,233201.0,,,,Q4769881,100.0
+Mesabi Range College,400901.0,,,,Q6821105,62.0
+Rasmussen University-Bloomington,869407.0,,,,Q7295135,49.0
+University of Mississippi Medical Center,244001.0,0.8802,1220.0,,Q1138384,100.0
+American Institute,2106603.0,,,,Q15830548,68.0
+Culinary Institute of America at Greystone,730401.0,0.9668,,,Q1143412,95.0
+Culinary Institute of America San Antonio,730402.0,0.9668,,,Q1143412,92.0
+Gaston College,297301.0,,,,Q5526717,100.0
+Hebrew Union College-Jewish Institute of Religion-Cincinnati,405401.0,,,,Q1526305,100.0
+Hebrew Union College-Jewish Institute of Religion-Los Angeles,405402.0,,,,Q107265838,44.5
+Los Angeles Center,1092303.0,,,,Q174710,69.0
+Florida Center,1092305.0,,,,Q5461250,54.0
+Sacramento Center,1092302.0,,,,Q16739885,35.5
+Winebrenner Theological Seminary -,406001.0,,,,Q8024948,100.0
+Western Seminary-San Jose,717801.0,,,,Q7988285,100.0
+Western Seminary-Sacramento,717804.0,,,,Q7988285,100.0
+Texas A & M University Health Science Center,363208.0,0.6327,1300.0,,Q4119816,88.0
+Washington State University-Vancouver,380003.0,0.7995,1123.0,,Q99288062,79.0
+Washington State University-Spokane,380001.0,0.7995,1123.0,,Q7972302,100.0
+Washington State University-Tri Cities,380002.0,0.7995,1123.0,,Q7972303,100.0
+Purdue University - Purdue Polytechnic Kokomo,182505.0,0.6715,1315.0,,Q7260995,30.5
+Blue Cliff College,3294302.0,,,,Q4928978,50.0
+Make-up Designory,4092401.0,,,,Q6738871,100.0
+Jersey College,4134101.0,0.3425,,,Q21578,80.0
+Jersey College,4134102.0,0.3425,,,Q21578,80.0
+Jersey College,4134103.0,0.3425,,,Q21578,80.0
+Jersey College,4134104.0,0.3425,,,Q21578,80.0
+Jersey College,4134105.0,0.3425,,,Q21578,80.0
+Suncoast Technical Education Center -,4270802.0,,,,Q16928182,50.0
+Pennsylvania State University-Dickinson Law,332922.0,0.7827,1198.0,,Q19159531,100.0
+Pennsylvania State University-College of Medicine,332901.0,0.7827,1198.0,,Q97357427,45.5
+Pennsylvania State University-Penn State Altoona,332903.0,0.7827,1198.0,,Q7163226,87.0

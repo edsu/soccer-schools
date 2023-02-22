@@ -1,12 +1,27 @@
 #!/usr/bin/env python3
 
-import re
 import pandas
+import logging
+import reconciler
+
+logging.basicConfig(filename='convert.log', level=logging.DEBUG)
 
 def main():
-    df = get_divisions()
-    df = augment_doe(df)
-    df.to_csv('schools.csv', index=False)
+
+    print("Reconciling NCAA division schools with Wikidata...")
+    div = get_divisions()
+    div, div_missing = reconcile(div)
+    div.to_csv('data/divisions.csv', index=False)
+    div_missing.to_csv('data/missing_div.csv', index=False)
+
+    print("Reconciling DOE College School Card data with Wikidata...")
+    doe = get_doe()
+    doe, doe_missing = reconcile(doe)
+    doe.to_csv('data/doe.csv', index=False)
+    doe_missing.to_csv('data/missing_doe.csv', index=False)
+    
+    colleges = merge(div, doe)
+    colleges.to_csv('colleges.csv', index=False)
 
 def get_divisions():
     # Division 1
@@ -35,24 +50,32 @@ def get_divisions():
 
     return df
 
-def augment_doe(df):
+def get_doe():
     doe = pandas.read_csv('data/Most-Recent-Cohorts-Institution.zip', low_memory=False)
-    doe = doe[['INSTNM', 'ADM_RATE_ALL', 'SAT_AVG_ALL', 'COSTT4_A', 'LONGITUDE', 'LATITUDE']]
-    doe.columns = ['School', 'AdmissionRate', 'SAT', 'Cost', 'Longitude', 'Latitude']
+    doe = doe[['INSTNM', 'OPEID', 'ADM_RATE_ALL', 'SAT_AVG_ALL', 'COSTT4_A']]
+    doe.columns = ['School', 'OPEID', 'AdmissionRate', 'SAT', 'Cost']
 
-    doe['SchoolKey'] = doe['School'].map(name_key)
-    df['SchoolKey'] = df['School'].map(name_key)
-    df = df.merge(doe, on='SchoolKey', how='left', suffixes=['', '_y'])
-    df = df.drop(['SchoolKey', 'School_y'], axis=1)
+    return doe
 
-    return df
+def reconcile(df):
+    # reconcile against Wikidata entities of type higher education institution
+    recon = reconciler.reconcile(df['School'], type_id='Q38723')
+    recon = recon[['id', 'input_value', 'score']]
 
-def name_key(s):
-    s = s.upper()
-    s = re.sub(r'\[.+?\]', '', s)
-    s = re.sub(r'[^A-Z]', '', s)
-    s = ''.join(sorted(s))
-    return s
+    # merge the results, and drop/rename columns
+    df = df.merge(recon, left_on='School', right_on='input_value', how='left')
+    df = df.drop(['input_value'], axis=1)
+    df = df.rename({'id': 'WikidataID', 'score': 'Score'}, axis=1)
+
+    # track and remove rows that were missing WikidataIDs
+    missing = df[df['WikidataID'].isnull()]
+    df = df[~df['WikidataID'].isnull()]
+
+    return df, missing
+
+def merge(div, doe):
+    colleges = div.merge(doe, on='WikidataID', how='left', suffixes=['', '_doe'])
+    return colleges
 
 if __name__ == "__main__":
     main()
