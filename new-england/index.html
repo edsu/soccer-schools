@@ -35,6 +35,13 @@
     .then(response => response.json())
     .then(data => {
       L.geoJSON(data, {
+        pointToLayer: (feature, coord) => {
+          const div = feature.properties.Division;
+          let color = "black";
+          if (div == "D3") color = "red";
+          if (div == "D2") color = "blue";
+          return L.circleMarker(coord, {"color": color});
+        },
         onEachFeature: (feature, layer) => {
           const f = feature.properties
           const desc = `
@@ -50,8 +57,8 @@
               <dd>${f.SAT}</dd>
               <dt>Annual Cost</dt>
               <dd>${f.AnnualCost}</dd>
-            </dl>
-          `
+            </dl>`;
+
           layer.bindPopup(desc)
         }
       }).addTo(map);
