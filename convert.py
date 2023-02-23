@@ -21,7 +21,7 @@ def main():
     doe_missing.to_csv('data/missing_doe.csv', index=False)
     
     colleges = merge(div, doe)
-    colleges.to_csv('colleges.csv', index=False)
+    colleges.to_csv('data.csv', index=False)
 
 def get_divisions():
     # Division 1
@@ -52,8 +52,8 @@ def get_divisions():
 
 def get_doe():
     doe = pandas.read_csv('data/Most-Recent-Cohorts-Institution.zip', low_memory=False)
-    doe = doe[['INSTNM', 'OPEID', 'ADM_RATE_ALL', 'SAT_AVG_ALL', 'COSTT4_A']]
-    doe.columns = ['School', 'OPEID', 'AdmissionRate', 'SAT', 'Cost']
+    doe = doe[['INSTNM', 'OPEID', 'ADM_RATE_ALL', 'SAT_AVG_ALL', 'COSTT4_A', 'LONGITUDE', 'LATITUDE']]
+    doe.columns = ['School', 'OPEID', 'AdmissionRate', 'SAT', 'Cost', 'Longitude', 'Latitude']
 
     return doe
 
