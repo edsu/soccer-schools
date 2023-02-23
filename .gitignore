@@ -1,3 +1,4 @@
 Pipfile
 Most-Recent-Cohorts-Institution.csv
 __pycache__
+*.log

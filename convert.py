@@ -2,26 +2,17 @@
 
 import pandas
 import logging
-import reconciler
+import textdistance
 
 logging.basicConfig(filename='convert.log', level=logging.DEBUG)
 
 def main():
 
-    print("Reconciling NCAA division schools with Wikidata...")
     div = get_divisions()
-    div, div_missing = reconcile(div)
-    div.to_csv('data/divisions.csv', index=False)
-    div_missing.to_csv('data/missing_div.csv', index=False)
-
-    print("Reconciling DOE College School Card data with Wikidata...")
     doe = get_doe()
-    doe, doe_missing = reconcile(doe)
-    doe.to_csv('data/doe.csv', index=False)
-    doe_missing.to_csv('data/missing_doe.csv', index=False)
-    
-    colleges = merge(div, doe)
+    colleges, missing = join(div, doe)
     colleges.to_csv('data.csv', index=False)
+    missing.to_csv('missing.csv', index=False)
 
 def get_divisions():
     # Division 1
@@ -47,35 +38,53 @@ def get_divisions():
     # Remove newlines and abbreviations from the school name
     df['School'] = df['School'].str.replace(r' *\n *', ' ', regex=True)
     df['School'] = df['School'].str.replace(r' *\(.+\) *', '', regex=True)
+    df['State'] = df['State'].str.replace('D.C.', 'District of Columbia')
+
+    states = pandas.read_csv('data/states.csv')
+    df = df.merge(states, how='left', on='State')
 
     return df
 
 def get_doe():
     doe = pandas.read_csv('data/Most-Recent-Cohorts-Institution.zip', low_memory=False)
-    doe = doe[['INSTNM', 'OPEID', 'ADM_RATE_ALL', 'SAT_AVG_ALL', 'COSTT4_A', 'LONGITUDE', 'LATITUDE']]
-    doe.columns = ['School', 'OPEID', 'AdmissionRate', 'SAT', 'Cost', 'Longitude', 'Latitude']
+    doe = doe[['INSTNM', 'CITY', 'STABBR', 'OPEID', 'ADM_RATE_ALL', 'SAT_AVG_ALL', 'COSTT4_A', 'LONGITUDE', 'LATITUDE']]
+    doe.columns = ['School', 'City', 'StateCode', 'OPEID', 'AdmissionRate', 'SAT', 'Cost', 'Longitude', 'Latitude']
+
 
     return doe
 
-def reconcile(df):
-    # reconcile against Wikidata entities of type higher education institution
-    recon = reconciler.reconcile(df['School'], type_id='Q38723')
-    recon = recon[['id', 'input_value', 'score']]
+def join(div, doe):
+    matches = []
+    missing = []
+    for _, d in div.iterrows():
+        match = find_college(d, doe)
+        if match is not None:
+            rec = d.to_dict()
+            rec.update(match.to_dict())
+            matches.append(rec)
+        else:
+            missing.append(d)
+    matches = pandas.DataFrame(matches)
+    missing = pandas.DataFrame(missing)
+    return matches, missing
+        
+def find_college(div, doe):
+    school = div.School.upper()
+    doe = doe[(doe.City.str.upper() == div.City.upper()) & (doe.StateCode == div.StateCode)].copy()
+    doe['Lev'] = doe.School.apply(lambda s: textdistance.levenshtein(s.upper(), school))
+    doe = doe.sort_values('Lev', ascending=True)
 
-    # merge the results, and drop/rename columns
-    df = df.merge(recon, left_on='School', right_on='input_value', how='left')
-    df = df.drop(['input_value'], axis=1)
-    df = df.rename({'id': 'WikidataID', 'score': 'Score'}, axis=1)
+    if len(doe) == 0:
+        logging.warning("No match for %s %s, %s", div.School, div.City, div.StateCode)
+        return None
 
-    # track and remove rows that were missing WikidataIDs
-    missing = df[df['WikidataID'].isnull()]
-    df = df[~df['WikidataID'].isnull()]
-
-    return df, missing
-
-def merge(div, doe):
-    colleges = div.merge(doe, on='WikidataID', how='left', suffixes=['', '_doe'])
-    return colleges
+    match = doe.iloc[0]
+    if match['Lev'] > len(school) * .1:
+        logging.warning("String match lower than threshold for %s and %s", div.School, match.School)
+        return None
+    else:
+        logging.debug('Matched "%s" to "%s" lev=%i', div.School, match.School, match.Lev)
+    return match
 
 if __name__ == "__main__":
     main()

@@ -1,2 +1,2 @@
 pandas
-git+https://github.com/edsu/reconciler
+textdistance
