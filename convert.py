@@ -7,9 +7,12 @@ import textdistance
 logging.basicConfig(filename='convert.log', level=logging.DEBUG)
 
 def main():
-
     div = get_divisions()
+    div.to_csv('data/divisions.csv', index=False)
+
     doe = get_doe()
+    doe.to_csv('data/doe.csv', index=False)
+
     colleges, missing = join(div, doe)
     colleges.to_csv('data.csv', index=False)
     missing.to_csv('missing.csv', index=False)
@@ -49,7 +52,6 @@ def get_doe():
     doe = pandas.read_csv('data/Most-Recent-Cohorts-Institution.zip', low_memory=False)
     doe = doe[['INSTNM', 'CITY', 'STABBR', 'OPEID', 'ADM_RATE_ALL', 'SAT_AVG_ALL', 'COSTT4_A', 'LONGITUDE', 'LATITUDE']]
     doe.columns = ['School', 'City', 'StateCode', 'OPEID', 'AdmissionRate', 'SAT', 'Cost', 'Longitude', 'Latitude']
-
 
     return doe
 

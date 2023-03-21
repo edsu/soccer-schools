@@ -1,10 +1,10 @@
 # College Soccer Schools
 
-My son Graham is interested in playing soccer at college and I wanted to get a
-dataset of colleges and universities with their associated conference and
-division, average SAT score, acceptance rate and annual cost. Maybe there's a
-way to do this using existing tools but what better way to deal with the stress
-by turning this into a data problem! 
+My son is interested in playing soccer at college and I wanted to get a dataset
+of colleges and universities with their associated conference and division,
+average SAT score, acceptance rate and annual cost. Maybe there's a way to do
+this using existing tools but what better way to deal with the stress by
+turning this into a data problem! 
 
 I started by using [wikitable2csv] to download the tables for the following Wikipedia Pages:
 
