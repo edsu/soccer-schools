@@ -20,7 +20,9 @@ All these files are in the `data` directory. Then I ran the `convert.py` program
 
 1. Merge and normalize the division tables into a CSV (data/divisions.csv).
 2. Join the schools with the College Score Card data to get the SAT, Cost and Lat/Long
-3. Write out the matches (data.csv) and schools that didn't match (missing.csv) as well as a map: https://edsu.github.io/soccer-schools/
+3. Write out the matches (data.csv) and schools that didn't match (missing.csv) as well as a map.
+
+[https://edsu.github.io/soccer-schools/map/](https://edsu.github.io/soccer-schools/map/)
 
 I originally tried using the Wikidata reconciliation service on both datasets and then joining based on WikidataID. But I ran into issues where there were false positives, perhaps because I wasn't also using the city and state as part of the reconciliation.
 
