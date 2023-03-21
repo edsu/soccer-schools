@@ -1,5 +1,7 @@
 # College Soccer Schools
 
+<a href="https://edsu.github.io/soccer-schools/map/"><img style="max-width: 800" src="https://github.com/edsu/soccer-schools/blob/main/images/map.png?raw=true"></a>
+
 My son is interested in playing soccer at college and I wanted to get a dataset
 of colleges and universities with their associated conference and division,
 average SAT score, acceptance rate and annual cost. Maybe there's a way to do
@@ -22,7 +24,6 @@ All these files are in the `data` directory. Then I ran the `convert.py` program
 2. Join the schools with the College Score Card data to get the SAT, Cost and geo-coordinates.
 3. Write out the matches (data.csv) and schools that didn't match (missing.csv) as well as a map where the D1 schools are black, D2 are blue and D3 are red.
 
-<a href="https://edsu.github.io/soccer-schools/map/"><img style="max-width: 800" src="https://github.com/edsu/soccer-schools/blob/main/images/map.png?raw=true"></a>
 
 I originally tried using the Wikidata reconciliation service on both datasets and then joining based on WikidataID. But I ran into issues where there were false positives, perhaps because I wasn't also using the city and state as part of the reconciliation.
 
