@@ -27,7 +27,7 @@ All these files are in the `data` directory. Then I ran the `convert.py` program
 
 I originally tried using the Wikidata reconciliation service on both datasets and then joining based on WikidataID. But I ran into issues where there were false positives, perhaps because I wasn't also using the city and state as part of the reconciliation.
 
-A simple school name match wasn't good enough (562/854). After some experimentation I ended up using the state to limit the matches for each school, and then using a [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) to find the best match. This yielded (785/854) and I'll manually look at the remaining 70.
+A simple school name match wasn't good enough (562/854 matches). After some experimentation I ended up using the state to limit the matches for each school, and then using a [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) to find the best match (785/854 matches). When I get around to it I'll manually match up the remaining 70.
 
 [wikitable2csv]: https://wikitable2csv.ggor.de/ 
 [College School Card Data]: https://collegescorecard.ed.gov/data/
