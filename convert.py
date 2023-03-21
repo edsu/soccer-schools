@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 
+import re
+import json
+import numpy
 import pandas
 import logging
+
 import textdistance
 
 logging.basicConfig(filename='convert.log', level=logging.DEBUG)
@@ -14,8 +18,10 @@ def main():
     doe.to_csv('data/doe.csv', index=False)
 
     colleges, missing = join(div, doe)
-    colleges.to_csv('data.csv', index=False)
-    missing.to_csv('missing.csv', index=False)
+    colleges.to_csv('data/data.csv', index=False)
+    missing.to_csv('data/missing.csv', index=False)
+
+    make_map(colleges, "map/data.json")
 
 def get_divisions():
     # Division 1
@@ -49,9 +55,9 @@ def get_divisions():
     return df
 
 def get_doe():
-    doe = pandas.read_csv('data/Most-Recent-Cohorts-Institution.zip', low_memory=False)
+    doe = pandas.read_csv('data/Most-Recent-Cohorts-Institution.zip', low_memory=False, dtype={'OPEID': str})
     doe = doe[['INSTNM', 'CITY', 'STABBR', 'OPEID', 'ADM_RATE_ALL', 'SAT_AVG_ALL', 'COSTT4_A', 'LONGITUDE', 'LATITUDE']]
-    doe.columns = ['School', 'City', 'StateCode', 'OPEID', 'AdmissionRate', 'SAT', 'Cost', 'Longitude', 'Latitude']
+    doe.columns = ['DOESchool', 'DOECity', 'DOEStateCode', 'OPEID', 'AdmissionRate', 'SAT', 'Cost', 'Longitude', 'Latitude']
 
     return doe
 
@@ -71,9 +77,9 @@ def join(div, doe):
     return matches, missing
         
 def find_college(div, doe):
-    school = div.School.upper()
-    doe = doe[(doe.City.str.upper() == div.City.upper()) & (doe.StateCode == div.StateCode)].copy()
-    doe['Lev'] = doe.School.apply(lambda s: textdistance.levenshtein(s.upper(), school))
+    school = normalize(div.School)
+    doe = doe[doe.DOEStateCode == div.StateCode].copy()
+    doe['Lev'] = doe.DOESchool.apply(lambda s: textdistance.levenshtein(normalize(s), school))
     doe = doe.sort_values('Lev', ascending=True)
 
     if len(doe) == 0:
@@ -82,11 +88,43 @@ def find_college(div, doe):
 
     match = doe.iloc[0]
     if match['Lev'] > len(school) * .1:
-        logging.warning("String match lower than threshold for %s and %s", div.School, match.School)
+        logging.warning("String match lower than threshold for %s and %s", div.School, match.DOESchool)
         return None
     else:
-        logging.debug('Matched "%s" to "%s" lev=%i', div.School, match.School, match.Lev)
+        logging.debug('Matched "%s" to "%s" lev=%i', div.School, match.DOESchool, match.Lev)
     return match
+
+
+stop_words = ["OF", "AT", "THE", "COLLEGE", "UNIVERSITY", "CAMPUS"]
+stop_words_regex = "|".join([f"({w})" for w in stop_words])
+map_phrases = {
+    "STATE UNIVERSITY OF NEW YORK": "SUNY",
+    "COLLEGE OF NEW YORK": "CUNY",
+    "MAIN CAMPUS": ""
+}
+def normalize(s):
+    s = s.upper()
+    for phrase in map_phrases.keys():
+        s = s.replace(phrase, map_phrases[phrase])
+    s = re.sub(r'[.,-: ()]', '', s)
+    s = re.sub(stop_words_regex, "", s)
+    return s
+
+def make_map(df, output_file):
+    output = []
+    for i, rec in df.iterrows():
+        if numpy.isnan(rec["Longitude"]):
+            continue
+        output.append({
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [rec["Longitude"], rec["Latitude"]]
+            },
+            "properties": rec.dropna().to_dict()
+        })
+
+    json.dump(output, open(output_file, "w"), indent=2)
 
 if __name__ == "__main__":
     main()

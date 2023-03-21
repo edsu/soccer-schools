@@ -18,16 +18,13 @@ Then I downloaded the most recent [College School Card Data] from:
 
 All these files are in the `data` directory. Then I ran the `convert.py` program to:
 
-1. Merge and normalize the division CSVs.
-2. Reconcile the division data and the College School Card data with Wikidata.
-3. Join the division and College School Card data using the WikidataID, to add the admission rate, cost-per-year, average SAT, and geo-location.
-4. Write out the resulting data to `colleges.csv`.
+1. Merge and normalize the division tables into a CSV (data/divisions.csv).
+2. Join the schools with the College Score Card data to get the SAT, Cost and Lat/Long
+3. Write out the matches (data.csv) and schools that didn't match (missing.csv) as well as a map: https://edsu.github.io/soccer-schools/
 
-You can see that there is quite a bit of schools (10%) that didn't get joined due to very different school names. The natural key I used was to capitalize the name, remove all punctuation and then sort the letters. Other approaches would be welcome!
+I originally tried using the Wikidata reconciliation service on both datasets and then joining based on WikidataID. But I ran into issues where there were false positives, perhaps because I wasn't also using the city and state as part of the reconciliation.
 
-The `new-england` directory contains a subset of New England schools for a trip we were planning, which were put on a map. Obviously not going to all of these :)
+A simple school name match wasn't good enough (562/854). After some experimentation I ended up using the state to limit the matches for each school, and then using a [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) to find the best match. This yielded (785/854) and I'll manually look at the remaining 70.
 
 [wikitable2csv]: https://wikitable2csv.ggor.de/ 
 [College School Card Data]: https://collegescorecard.ed.gov/data/
-
-

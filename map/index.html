@@ -56,7 +56,7 @@
               <dt>Average SAT</dt>
               <dd>${f.SAT}</dd>
               <dt>Annual Cost</dt>
-              <dd>${f.AnnualCost}</dd>
+              <dd>\$${f.Cost ? f.Cost.toLocaleString("en-US") : '?'}</dd>
             </dl>`;
 
           layer.bindPopup(desc)
