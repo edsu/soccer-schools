@@ -20,7 +20,7 @@ All these files are in the `data` directory. Then I ran the `convert.py` program
 
 1. Merge and normalize the division tables into a CSV (data/divisions.csv).
 2. Join the schools with the College Score Card data to get the SAT, Cost and Lat/Long
-3. Write out the matches (data.csv) and schools that didn't match (missing.csv) as well as a map.
+3. Write out the matches (data.csv) and schools that didn't match (missing.csv) as well as a map where the D1 schools are black, D2 are blue and D3 are red.
 
 [https://edsu.github.io/soccer-schools/map/](https://edsu.github.io/soccer-schools/map/)
 
